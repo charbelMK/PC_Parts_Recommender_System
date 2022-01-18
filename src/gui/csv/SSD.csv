@@ -1,0 +1,1096 @@
+Type,Part Number,Brand,Model,Rank,Benchmark,Samples,URL
+SSD,SSDPED1D280GASX,Intel,900P Optane NVMe PCIe 280GB,1,435,2437,https://ssd.userbenchmark.com/SpeedTest/315555/INTEL-SSDPED1D280GA
+SSD,SSDPE21D280GASX,Intel,900P Optane NVMe PCIe 280GB,1,435,2437,https://ssd.userbenchmark.com/SpeedTest/315555/INTEL-SSDPED1D280GA
+SSD,SSDPED1D960GAX1,Intel,905P Optane NVMe PCIe 960GB,2,435,440,https://ssd.userbenchmark.com/SpeedTest/498903/INTEL-SSDPED1D960GAY
+SSD,SSDPED1D480GASX,Intel,900P Optane NVMe PCIe 480GB,3,419,1246,https://ssd.userbenchmark.com/SpeedTest/375784/INTEL-SSDPED1D480GA
+SSD,SSDPE21D480GASX,Intel,900P Optane NVMe PCIe 480GB,3,419,1246,https://ssd.userbenchmark.com/SpeedTest/375784/INTEL-SSDPED1D480GA
+SSD,MZ-V8P1T0BW,Samsung,980 Pro NVMe PCIe M.2 1TB,4,393,8685,https://ssd.userbenchmark.com/SpeedTest/1302577/Samsung-SSD-980-PRO-1TB
+SSD,SB-ROCKET-NVMe4-2TB,Sabrent,Rocket 4 NVMe PCIe M.2 2TB,5,385,3551,https://ssd.userbenchmark.com/SpeedTest/847932/Sabrent-ROCKET-40-2TB
+SSD,CSSD-F2000GBMP600,Corsair,Force MP600 NVMe PCIe M.2 2TB,6,378,4900,https://ssd.userbenchmark.com/SpeedTest/841469/Force-MP600
+SSD,SB-ROCKET-NVMe4-1TB,Sabrent,Rocket 4 NVMe PCIe M.2 1TB,7,363,28918,https://ssd.userbenchmark.com/SpeedTest/844208/Sabrent-ROCKET-40-1TB
+SSD,GP-ASM2NE6200TTTD,Gigabyte,Aorus NVMe PCIe M.2 2TB,8,353,2253,https://ssd.userbenchmark.com/SpeedTest/844144/GIGABYTE-GP-ASM2NE6200TTTD
+SSD,MZ-V8P500BW,Samsung,980 Pro NVMe PCIe M.2 500GB,9,348,6064,https://ssd.userbenchmark.com/SpeedTest/1307906/Samsung-SSD-980-PRO-500GB
+SSD,CSSD-F1000GBMP600,Corsair,Force MP600 NVMe PCIe M.2 1TB,10,345,24567,https://ssd.userbenchmark.com/SpeedTest/843047/Force-MP600
+SSD,GP-ASM2NE6100TTTD,Gigabyte,Aorus NVMe PCIe M.2 1TB,11,341,8836,https://ssd.userbenchmark.com/SpeedTest/842989/GIGABYTE-GP-ASM2NE6100TTTD
+SSD,MZ-V7P512BW,Samsung,970 Pro NVMe PCIe M.2 512GB,12,333,75749,https://ssd.userbenchmark.com/SpeedTest/498971/Samsung-SSD-970-PRO-512GB
+SSD,MZ-V7S2T0BW,Samsung,970 Evo Plus NVMe PCIe M.2 2TB,13,333,22153,https://ssd.userbenchmark.com/SpeedTest/798635/Samsung-SSD-970-EVO-Plus-2TB
+SSD,MZ-V7S2T0B/AM,Samsung,970 Evo Plus NVMe PCIe M.2 2TB,13,333,22153,https://ssd.userbenchmark.com/SpeedTest/798635/Samsung-SSD-970-EVO-Plus-2TB
+SSD,MZ-V7P1T0BW,Samsung,970 Pro NVMe PCIe M.2 1TB,14,332,28582,https://ssd.userbenchmark.com/SpeedTest/497261/Samsung-SSD-970-PRO-1TB
+SSD,MZ-V7S1T0BW,Samsung,970 Evo Plus NVMe PCIe M.2 1TB,15,324,206184,https://ssd.userbenchmark.com/SpeedTest/693540/Samsung-SSD-970-EVO-Plus-1TB
+SSD,MZ-V7S1T0B/AM,Samsung,970 Evo Plus NVMe PCIe M.2 1TB,15,324,206184,https://ssd.userbenchmark.com/SpeedTest/693540/Samsung-SSD-970-EVO-Plus-1TB
+SSD,5MS24AA#ABC,HP,EX950 NVMe PCIe M.2 2TB,16,315,1663,https://ssd.userbenchmark.com/SpeedTest/710813/HP-SSD-EX950-2TB
+SSD,CT2000P5SSD8,Crucial,P5 3D NVMe PCIe M.2 2TB,17,312,455,https://ssd.userbenchmark.com/SpeedTest/1232397/CT2000P5SSD8
+SSD,CT1000P5SSD8,Crucial,P5 3D NVMe PCIe M.2 1TB,18,308,3367,https://ssd.userbenchmark.com/SpeedTest/1217319/CT1000P5SSD8
+SSD,MZ-V7E1T0BW,Samsung,970 Evo NVMe PCIe M.2 1TB,19,306,204035,https://ssd.userbenchmark.com/SpeedTest/494791/Samsung-SSD-970-EVO-1TB
+SSD,MZ-V8P250BW,Samsung,980 Pro NVMe PCIe M.2 250GB,20,295,1258,https://ssd.userbenchmark.com/SpeedTest/1311638/Samsung-SSD-980-PRO-250GB
+SSD,WDS100T3X0C,WD,Black SN750 NVMe PCIe M.2 1TB (2019),21,294,48770,https://ssd.userbenchmark.com/SpeedTest/703216/WDS100T3X0C-00SJG0
+SSD,SB-ROCKET-NVMe4-500,Sabrent,Rocket 4 NVMe PCIe M.2 500GB,22,293,5619,https://ssd.userbenchmark.com/SpeedTest/905105/Sabrent-Rocket-40-500GB
+SSD,5MS23AA#ABC,HP,EX950 NVMe PCIe M.2 1TB,23,290,2739,https://ssd.userbenchmark.com/SpeedTest/706053/HP-SSD-EX950-1TB
+SSD,MZ-V7E2T0BW,Samsung,970 Evo NVMe PCIe M.2 2TB,24,290,6675,https://ssd.userbenchmark.com/SpeedTest/501128/Samsung-SSD-970-EVO-2TB
+SSD,MZ-V7S500BW,Samsung,970 Evo Plus NVMe PCIe M.2 500GB,25,290,242183,https://ssd.userbenchmark.com/SpeedTest/700020/Samsung-SSD-970-EVO-Plus-500GB
+SSD,MZ-V7S500B/AM,Samsung,970 Evo Plus NVMe PCIe M.2 500GB,25,290,242183,https://ssd.userbenchmark.com/SpeedTest/700020/Samsung-SSD-970-EVO-Plus-500GB
+SSD,2YY47AA#ABC,HP,EX920 NVMe PCIe M.2 1TB,26,287,9064,https://ssd.userbenchmark.com/SpeedTest/488611/HP-SSD-EX920-1TB
+SSD,ASX8200PNP-2TT-C,Adata,XPG SX8200 Pro NVMe PCIe M.2 2TB,27,282,221,https://ssd.userbenchmark.com/SpeedTest/892867/NVMe-ADATA-SX8200PNP
+SSD,ASX8200PNP-1TT-C,Adata,XPG SX8200 Pro NVMe PCIe M.2 1TB,28,282,56906,https://ssd.userbenchmark.com/SpeedTest/638791/ADATA-SX8200PNP
+SSD,MZ-V6P512BW,Samsung,960 Pro NVMe PCIe M.2 512GB,29,280,56636,https://ssd.userbenchmark.com/SpeedTest/182182/Samsung-SSD-960-PRO-512GB
+SSD,CT500P5SSD8,Crucial,P5 3D NVMe PCIe M.2 500GB,30,279,2042,https://ssd.userbenchmark.com/SpeedTest/1213080/CT500P5SSD8
+SSD,MZ-V6P2T0BW,Samsung,960 Pro NVMe PCIe M.2 2TB,31,276,2759,https://ssd.userbenchmark.com/SpeedTest/215493/Samsung-SSD-960-PRO-2TB
+SSD,SDSSDXPM2-1T00-G25,SanDisk,Extreme Pro NVMe PCIe M.2 1TB (2018),32,276,1607,https://ssd.userbenchmark.com/SpeedTest/493695/SanDisk-Extreme-Pro-1TB
+SSD,SSDPEK1W120GA01,Intel,800p NVMe PCIe M.2 118GB,33,275,104,https://ssd.userbenchmark.com/SpeedTest/489136/NVMe-INTEL-SSDPEK1W12
+SSD,MZ-V7E500BW,Samsung,970 Evo NVMe PCIe M.2 500GB,34,273,306307,https://ssd.userbenchmark.com/SpeedTest/493995/Samsung-SSD-970-EVO-500GB
+SSD,MZ-V6P1T0BW,Samsung,960 Pro NVMe PCIe M.2 1TB,35,271,14524,https://ssd.userbenchmark.com/SpeedTest/200815/Samsung-SSD-960-PRO-1TB
+SSD,ASX8200NP-960GT-C,Adata,XPG SX8200 NVMe PCIe M.2 960GB,36,270,3028,https://ssd.userbenchmark.com/SpeedTest/504709/ADATA-SX8200NP
+SSD,WDS200T3X0C,WD,Black SN750 NVMe PCIe M.2 2TB (2019),37,268,1626,https://ssd.userbenchmark.com/SpeedTest/764887/WDS200T3X0C-00SJG0
+SSD,SSDPEK1W060GA01,Intel,800p NVMe PCIe M.2 58GB,38,260,42,https://ssd.userbenchmark.com/SpeedTest/483445/NVMe-INTEL-SSDPEK1W06
+SSD,ZP1000GM300,Seagate,FireCuda 510 NVMe PCIe M.2 1TB,39,260,1750,https://ssd.userbenchmark.com/SpeedTest/819569/Seagate-FireCuda-510-SSD-ZP1000GM30001
+SSD,5MS22AA#ABC,HP,EX950 NVMe PCIe M.2 512GB,40,260,1681,https://ssd.userbenchmark.com/SpeedTest/705098/HP-SSD-EX950-512GB
+SSD,WDS100T2X0C,WD,Black NVMe PCIe M.2 1TB (2018),41,257,4960,https://ssd.userbenchmark.com/SpeedTest/486281/WDS100T2X0C-00L350
+SSD,CT2000P2SSD8,Crucial,P2 3D NVMe PCIe M.2 2TB,42,252,129,https://ssd.userbenchmark.com/SpeedTest/1332635/CT2000P2SSD8
+SSD,WDS500G3X0C,WD,Black SN750 NVMe PCIe M.2 500GB (2019),43,251,55418,https://ssd.userbenchmark.com/SpeedTest/701228/WDS500G3X0C-00SJG0
+SSD,ASX8200PNP-512GT-C,Adata,XPG SX8200 Pro NVMe PCIe M.2 512GB,44,250,49454,https://ssd.userbenchmark.com/SpeedTest/634807/ADATA-SX8200PNP
+SSD,MZ-V7S250BW,Samsung,970 Evo Plus NVMe PCIe M.2 250GB,45,246,65049,https://ssd.userbenchmark.com/SpeedTest/711305/Samsung-SSD-970-EVO-Plus-250GB
+SSD,MZ-V7S250B/AM,Samsung,970 Evo Plus NVMe PCIe M.2 250GB,45,246,65049,https://ssd.userbenchmark.com/SpeedTest/711305/Samsung-SSD-970-EVO-Plus-250GB
+SSD,MKNSSDPL500GB-D8,Mushkin,Pilot NVMe PCIe M.2 500GB,46,245,2448,https://ssd.userbenchmark.com/SpeedTest/517228/MKNSSDPL500GB-D8
+SSD,2YY46AA#ABC,HP,EX920 NVMe PCIe M.2 512GB,47,245,6425,https://ssd.userbenchmark.com/SpeedTest/486240/HP-SSD-EX920-512GB
+SSD,SB-ROCKET-4TB,Sabrent,Rocket NVMe PCIe M.2 4TB,48,245,205,https://ssd.userbenchmark.com/SpeedTest/953820/Sabrent
+SSD,MZ-V6E1T0BW,Samsung,960 Evo NVMe PCIe M.2 1TB,49,245,30291,https://ssd.userbenchmark.com/SpeedTest/211052/Samsung-SSD-960-EVO-1TB
+SSD,MZVKW512HMJP-00000,Samsung,SM961 NVMe PCIe M.2 512GB,50,243,13781,https://ssd.userbenchmark.com/SpeedTest/147864/NVMe-SAMSUNG-MZVKW512
+SSD,ZP2000GM300,Seagate,FireCuda 510 NVMe PCIe M.2 2TB,51,242,684,https://ssd.userbenchmark.com/SpeedTest/827002/Seagate-FireCuda-510-SSD-ZP2000GM30001
+SSD,CSSD-F960GBMP510,Corsair,Force NVMe PCIe M.2 960GB,52,240,22490,https://ssd.userbenchmark.com/SpeedTest/609454/Force-MP510
+SSD,SDSSDXPM2-500G-G25,SanDisk,Extreme Pro NVMe PCIe M.2 500GB (2018),53,240,3058,https://ssd.userbenchmark.com/SpeedTest/513270/SanDisk-Extreme-Pro-500GB
+SSD,CT1000P1SSD8,Crucial,P1 3D NVMe PCIe M.2 1TB,54,240,102201,https://ssd.userbenchmark.com/SpeedTest/607339/CT1000P1SSD8
+SSD,SB-ROCKET-2TB,Sabrent,Rocket NVMe PCIe M.2 2TB,55,239,5110,https://ssd.userbenchmark.com/SpeedTest/847986/NVMe-Sabrent
+SSD,MZVLB1T0HALR,Samsung,PM981 NVMe PCIe M.2 1TB,56,239,21400,https://ssd.userbenchmark.com/SpeedTest/413203/PM981-NVMe-Samsung-1024GB
+SSD,WDS100T2B0C,WD,Blue SN550 NVMe PCIe M.2 1TB,57,237,53107,https://ssd.userbenchmark.com/SpeedTest/994217/WDC-WDS100T2B0C-00PXH0
+SSD,CT250P5SSD8,Crucial,P5 3D NVMe PCIe M.2 250GB,58,236,260,https://ssd.userbenchmark.com/SpeedTest/1239408/CT250P5SSD8
+SSD,WDS500G2X0C,WD,Black NVMe PCIe M.2 500GB (2018),59,235,18520,https://ssd.userbenchmark.com/SpeedTest/485459/WDS500G2X0C-00L350
+SSD,AGAMMIXS11-480GT-C,XPG,Gammix S11 NVMe PCIe M.2 480GB,60,235,1692,https://ssd.userbenchmark.com/SpeedTest/506229/XPG-GAMMIX-S11
+SSD,MZ-V7E250BW,Samsung,970 Evo NVMe PCIe M.2 250GB,61,233,128809,https://ssd.userbenchmark.com/SpeedTest/494033/Samsung-SSD-970-EVO-250GB
+SSD,,Samsung,PM961 NVMe PCIe M.2 1TB,62,231,4776,https://ssd.userbenchmark.com/SpeedTest/165378/NVMe-SAMSUNG-MZVLW1T0
+SSD,CSSD-F1920GBMP510,Corsair,Force NVMe PCIe M.2 2TB,63,230,2012,https://ssd.userbenchmark.com/SpeedTest/633975/Force-MP510
+SSD,ASX8200NP-480GT-C,Adata,XPG SX8200 NVMe PCIe M.2 480GB,64,230,11715,https://ssd.userbenchmark.com/SpeedTest/482768/ADATA-SX8200NP
+SSD,SB-ROCKET-1TB,Sabrent,Rocket NVMe PCIe M.2 1TB,65,226,660,https://ssd.userbenchmark.com/SpeedTest/764240/NVMe-Sabrent
+SSD,MZ-V5P512BW,Samsung,950 NVMe PCIe M.2 512GB,66,226,51127,https://ssd.userbenchmark.com/SpeedTest/38554/NVMe-Samsung-SSD-950
+SSD,SSDPEKKW512G8XT,Intel,760p Series NVMe PCIe M.2 512GB,67,224,6349,https://ssd.userbenchmark.com/SpeedTest/433786/INTEL-SSDPEKKW512G8
+SSD,CT1000P2SSD8,Crucial,P2 3D NVMe PCIe M.2 1TB,68,224,2571,https://ssd.userbenchmark.com/SpeedTest/1312497/CT1000P2SSD8
+SSD,SSDPEKNW020T8X1,Intel,660p NVMe PCIe M.2 2TB,69,222,21675,https://ssd.userbenchmark.com/SpeedTest/610546/INTEL-SSDPEKNW020T8
+SSD,MZVLB512HAJQ,Samsung,PM981 NVMe PCIe M.2 512GB,70,220,48666,https://ssd.userbenchmark.com/SpeedTest/401452/SAMSUNG-MZVLB512HAJQ-000L2
+SSD,MZ-V6E500BW,Samsung,960 Evo NVMe PCIe M.2 500GB,71,218,124101,https://ssd.userbenchmark.com/SpeedTest/204072/Samsung-SSD-960-EVO-500GB
+SSD,ASX8200PNP-256GT-C,Adata,XPG SX8200 Pro NVMe PCIe M.2 256GB,72,217,22785,https://ssd.userbenchmark.com/SpeedTest/636955/ADATA-SX8200PNP
+SSD,SSDPE2MD400G401,Intel,DC P3700 Series NVMe PCIe 400GB,73,209,54,https://ssd.userbenchmark.com/SpeedTest/16595/NVMe-INTEL-SSDPEDMD40
+SSD,2YY45AA#ABC,HP,EX920 NVMe PCIe M.2 256GB,74,208,1643,https://ssd.userbenchmark.com/SpeedTest/537061/HP-SSD-EX920-256GB
+SSD,WDS500G2B0C,WD,Blue SN550 NVMe PCIe M.2 500GB,75,208,37619,https://ssd.userbenchmark.com/SpeedTest/998114/WDC-WDS500G2B0C-00PXH0
+SSD,WDS250G3X0C,WD,Black SN750 NVMe PCIe M.2 250GB (2019),76,204,8910,https://ssd.userbenchmark.com/SpeedTest/716792/WDS250G3X0C-00SJG0
+SSD,MZVPV512HDGL-00000,Samsung,SM951 NVMe PCIe M.2 512GB,77,199,8639,https://ssd.userbenchmark.com/SpeedTest/30300/NVMe-SAMSUNG-MZVKV512
+SSD,MZ-V5P256BW,Samsung,950 NVMe PCIe M.2 256GB,78,199,35226,https://ssd.userbenchmark.com/SpeedTest/38570/NVMe-Samsung-SSD-950
+SSD,ASX6000PNP-1TT-C,Adata,XPG SX6000 Pro NVMe PCIe M.2 1TB,79,198,4493,https://ssd.userbenchmark.com/SpeedTest/664077/ADATA-SX6000PNP
+SSD,CT500P2SSD8,Crucial,P2 3D NVMe PCIe M.2 500GB,80,197,9787,https://ssd.userbenchmark.com/SpeedTest/1110621/CT500P2SSD8
+SSD,,Samsung,PM961 NVMe PCIe M.2 512GB,81,197,33311,https://ssd.userbenchmark.com/SpeedTest/181300/NVMe-SAMSUNG-MZVLW512
+SSD,CSSD-F480GBMP510,Corsair,Force NVMe PCIe M.2 480GB,82,197,24044,https://ssd.userbenchmark.com/SpeedTest/626885/Force-MP510
+SSD,PX-512M8PeG,Plextor,M8Pe NVMe PCIe M.2 512GB,83,196,2297,https://ssd.userbenchmark.com/SpeedTest/169863/PLEXTOR-PX-512M8PeG
+SSD,MZ-V6E250BW,Samsung,960 Evo NVMe PCIe M.2 250GB,84,196,199171,https://ssd.userbenchmark.com/SpeedTest/200373/Samsung-SSD-960-EVO-250GB
+SSD,SSDPEKNW010T8X1,Intel,660p NVMe PCIe M.2 1TB,85,195,111958,https://ssd.userbenchmark.com/SpeedTest/602553/INTEL-SSDPEKNW010T8
+SSD,PX-1TM8PeG,Plextor,M8Pe NVMe PCIe M.2 1TB,86,194,340,https://ssd.userbenchmark.com/SpeedTest/175630/PLEXTOR-PX-1TM8PeG
+SSD,CT500P1SSD8,Crucial,P1 3D NVMe PCIe M.2 500GB,87,193,55739,https://ssd.userbenchmark.com/SpeedTest/614152/CT500P1SSD8
+SSD,CSSD-N800GBNX500,Corsair,Neutron NX500 NVMe PCIe 800GB,88,192,92,https://ssd.userbenchmark.com/SpeedTest/369784/Neutron-NX500
+SSD,WDS500G1B0C,WD,Blue SN500 NVMe PCIe M.2 500GB,89,190,10666,https://ssd.userbenchmark.com/SpeedTest/759521/WDC-WDS500G1B0C-00S6U0
+SSD,SB-ROCKET-512,Nvme,Rocket NVMe PCIe M.2 512GB,90,189,12645,https://ssd.userbenchmark.com/SpeedTest/801884/NVMe-Sabrent
+SSD,SSDPEDMW400G4X1,Intel,750 Series NVMe PCIe 400GB,91,189,8191,https://ssd.userbenchmark.com/SpeedTest/26870/NVMe-INTEL-SSDPEDMW40
+SSD,SSDPEDMW400G4R5,Intel,750 Series NVMe PCIe 400GB,91,189,8191,https://ssd.userbenchmark.com/SpeedTest/26870/NVMe-INTEL-SSDPEDMW40
+SSD,ZTSSD-PG3-480G-GE,Zotac,Sonix NVMe PCIe 480GB,92,188,211,https://ssd.userbenchmark.com/SpeedTest/131041/NVMe-ZTSSDPG3-480G-GE
+SSD,,Intel,Optane+ NVMe PCIe 500GB,93,188,1254,https://ssd.userbenchmark.com/SpeedTest/268688/Intel-Optane-466GBSSD
+SSD,SSDPEKKW256G8XT,Intel,760p Series NVMe PCIe M.2 256GB,94,188,18595,https://ssd.userbenchmark.com/SpeedTest/434656/INTEL-SSDPEKKW256G8
+SSD,MKNSSDPL250GB-D8,Mushkin,Pilot NVMe PCIe M.2 250GB,95,187,797,https://ssd.userbenchmark.com/SpeedTest/515464/MKNSSDPL250GB-D8
+SSD,WDS250G2X0C,WD,Black NVMe PCIe M.2 250GB (2018),96,186,6712,https://ssd.userbenchmark.com/SpeedTest/482421/WDS250G2X0C-00L350
+SSD,5XM46AA#ABC,HP,EX900 NVMe PCIe M.2 1TB,97,186,91,https://ssd.userbenchmark.com/SpeedTest/695989/HP-SSD-EX900-1TB
+SSD,MZVPV256HDGL-00000,Samsung,SM951 NVMe PCIe M.2 256GB,98,186,8028,https://ssd.userbenchmark.com/SpeedTest/30950/NVMe-SAMSUNG-MZVPV256
+SSD,CSSD-N400GBNX500,Corsair,Neutron NX500 NVMe PCIe 400GB,99,185,404,https://ssd.userbenchmark.com/SpeedTest/331636/Neutron-NX500
+SSD,,Intel,Optane+ NVMe PCIe 128GB,100,184,189,https://ssd.userbenchmark.com/SpeedTest/278104/Intel-Optane-119GBSSD
+SSD,MZVLW256HEHP,Samsung,PM961 NVMe PCIe M.2 256GB,101,183,66827,https://ssd.userbenchmark.com/SpeedTest/174249/SAMSUNG-MZVLW256HEHP-00000
+SSD,ASX6000PNP-512GT-C,Adata,XPG SX6000 Pro NVMe PCIe M.2 512GB,102,183,6178,https://ssd.userbenchmark.com/SpeedTest/594216/ADATA-SX6000PNP
+SSD,MZHPV512HDGL-00000,Samsung,SM951 AHCI PCIe M.2 512GB,103,182,4937,https://ssd.userbenchmark.com/SpeedTest/24647/SAMSUNG-MZHPV512HDGL-00000
+SSD,2YY44AA#ABC,HP,EX900 NVMe PCIe M.2 500GB,104,182,6902,https://ssd.userbenchmark.com/SpeedTest/532017/HP-SSD-EX900-500GB
+SSD,MZVLW128,Samsung,PM961 NVMe PCIe M.2 128GB,105,181,7659,https://ssd.userbenchmark.com/SpeedTest/194898/NVMe-SAMSUNG-MZVLW128
+SSD,CT250P2SSD8,Crucial,P2 3D NVMe PCIe M.2 250GB,106,176,1272,https://ssd.userbenchmark.com/SpeedTest/1121042/CT250P2SSD8
+SSD,RVD400-M22280-256G,Toshiba,OCZ RD400 NVMe PCIe M.2 256GB,107,175,2909,https://ssd.userbenchmark.com/SpeedTest/142093/NVMe-TOSHIBA-RD400
+SSD,SKC1000/960G,Kingston,KC1000 NVMe PCIe M.2 960GB,108,175,239,https://ssd.userbenchmark.com/SpeedTest/320126/KINGSTON-SKC1000960G
+SSD,PX-256M8PeG,Plextor,M8Pe NVMe PCIe M.2 256GB,109,174,2250,https://ssd.userbenchmark.com/SpeedTest/171701/PLEXTOR-PX-256M8PeG
+SSD,MZHPV256HDGL-00000,Samsung,SM951 AHCI PCIe M.2 256GB,110,173,6162,https://ssd.userbenchmark.com/SpeedTest/24782/SAMSUNG-MZHPV256HDGL-00000
+SSD,WDS250G2B0C,WD,Blue SN550 NVMe PCIe M.2 250GB,111,172,5779,https://ssd.userbenchmark.com/SpeedTest/991678/WDC-WDS250G2B0C-00PXH0
+SSD,AGAMMIXS11-240GT-C,XPG,Gammix S11 NVMe PCIe M.2 240GB,112,171,1897,https://ssd.userbenchmark.com/SpeedTest/497242/XPG-GAMMIX-S11
+SSD,ASX6000PNP-256GT-C,Adata,XPG SX6000 Pro NVMe PCIe M.2 256GB,113,169,8602,https://ssd.userbenchmark.com/SpeedTest/607866/ADATA-SX6000PNP
+SSD,MZVPV128HDGM-00000,Samsung,SM951 NVMe PCIe M.2 128GB,114,167,1395,https://ssd.userbenchmark.com/SpeedTest/34737/NVMe-SAMSUNG-MZVPV128
+SSD,WDS250G1B0C,WD,Blue SN500 NVMe PCIe M.2 250GB,115,167,2125,https://ssd.userbenchmark.com/SpeedTest/756076/WDC-WDS250G1B0C-00S6U0
+SSD,CSSD-F240GBMP510,Corsair,Force NVMe PCIe M.2 240GB,116,165,17074,https://ssd.userbenchmark.com/SpeedTest/612603/Force-MP510
+SSD,ASX8200NP-240GT-C,Adata,XPG SX8200 NVMe PCIe M.2 240GB,117,165,10029,https://ssd.userbenchmark.com/SpeedTest/480586/ADATA-SX8200NP
+SSD,SKC1000/480G,Kingston,KC1000 NVMe PCIe M.2 480GB,118,164,873,https://ssd.userbenchmark.com/SpeedTest/316248/KINGSTON-SKC1000480G
+SSD,,Toshiba,THNSN5512GPU7 NVMe PCIe M.2 512GB,119,162,10472,https://ssd.userbenchmark.com/SpeedTest/120558/NVMe-THNSN5512GPU7-NV
+SSD,KXG50ZNV1T02,Toshiba,XG5 NVMe PCIe M.2 1TB,120,162,6793,https://ssd.userbenchmark.com/SpeedTest/359586/KXG50ZNV1T02-NVMe-TOSHIBA-1024GB
+SSD,,Apple,SM0512G PCIe 500GB,121,161,1003,https://ssd.userbenchmark.com/SpeedTest/25611/APPLE-SSD-SM0512G
+SSD,CSSD-F480GBMP500,Corsair,Force MP500 NVMe PCIe M.2 480GB,122,161,2927,https://ssd.userbenchmark.com/SpeedTest/223982/Force-MP500
+SSD,RVD350-FHPX28-960G,OCZ,RevoDrive 350 PCIe 960GB,123,160,143,https://ssd.userbenchmark.com/SpeedTest/15245/OCZ-REVODRIVE350
+SSD,2YY43AA#ABC,HP,EX900 NVMe PCIe M.2 250GB,124,158,7910,https://ssd.userbenchmark.com/SpeedTest/455743/HP-SSD-EX900-250GB
+SSD,MDNVME80-BPX-0512,MyDigitalSSD,BPX NVMe PCIe M.2 480GB,125,158,1363,https://ssd.userbenchmark.com/SpeedTest/206552/BPX
+SSD,SSDPEDME400G401,Intel,DC P3600 Series NVMe PCIe 400GB,126,158,40,https://ssd.userbenchmark.com/SpeedTest/22744/NVMe-INTEL-SSDPEDME40
+SSD,SSDPEKNW512G8X1,Intel,660p NVMe PCIe M.2 512GB,127,157,105188,https://ssd.userbenchmark.com/SpeedTest/557263/INTEL-SSDPEKNW512G8
+SSD,MZHPV128HDGM-00000,Samsung,SM951 AHCI PCIe M.2 128GB,128,157,1899,https://ssd.userbenchmark.com/SpeedTest/26719/SAMSUNG-MZHPV128HDGM-00000
+SSD,,Samsung,PM951 NVMe PCIe M.2 512GB 1TB,129,156,2033,https://ssd.userbenchmark.com/SpeedTest/39907/NVMe-PM951-NVMe-SAMSU
+SSD,PH480GPM280SSDR,Patriot,Hellfire NVMe PCIe M.2 480GB,130,155,736,https://ssd.userbenchmark.com/SpeedTest/184918/Patriot-Hellfire-M2
+SSD,SB-ROCKET-256,Sabrent,Rocket NVMe PCIe M.2 256GB,131,154,7780,https://ssd.userbenchmark.com/SpeedTest/759740/NVMe-Sabrent
+SSD,CSSD-F240GBMP500,Corsair,Force MP500 NVMe PCIe M.2 240GB,132,153,10350,https://ssd.userbenchmark.com/SpeedTest/213562/Force-MP500
+SSD,,Toshiba,THNSN5128GPU7 NVMe PCIe M.2 128GB,133,152,2033,https://ssd.userbenchmark.com/SpeedTest/38688/NVMe-THNSN5128GPU7-TO
+SSD,ASX8000NP-512GM-C,Adata,XPG SX8000 NVMe PCIe M.2 512GB,134,151,1311,https://ssd.userbenchmark.com/SpeedTest/218488/NVMe-ADATA-SX8000NP
+SSD,MDNVME80-BPX-0256,MyDigitalSSD,BPX NVMe PCIe M.2 240GB,135,151,1121,https://ssd.userbenchmark.com/SpeedTest/211350/BPX
+SSD,MKNSSDPL120GB-D8,Mushkin,Pilot NVMe PCIe M.2 120GB,136,150,142,https://ssd.userbenchmark.com/SpeedTest/533910/MKNSSDPL120GB-D8
+SSD,,Toshiba,THNSN5256GPU7 NVMe PCIe M.2 256GB,137,149,13272,https://ssd.userbenchmark.com/SpeedTest/36660/NVMe-THNSN5256GPU7-TO
+SSD,,Apple,SM0256G PCIe 251GB,138,148,707,https://ssd.userbenchmark.com/SpeedTest/25442/APPLE-SSD-SM0256G
+SSD,PX-512M8SeY,Plextor,M8Se NVMe PCIe M.2 512GB,139,146,165,https://ssd.userbenchmark.com/SpeedTest/341666/PLEXTOR-PX-512M8SeG
+SSD,PX-512M8SeG,Plextor,M8Se NVMe PCIe M.2 512GB,139,146,165,https://ssd.userbenchmark.com/SpeedTest/341666/PLEXTOR-PX-512M8SeG
+SSD,PX-512M8SeGN,Plextor,M8Se NVMe PCIe M.2 512GB,139,146,165,https://ssd.userbenchmark.com/SpeedTest/341666/PLEXTOR-PX-512M8SeG
+SSD,SHPM2280P2/480G,Kingston,HyperX Predator AHCI PCIe M.2 480GB,140,143,1776,https://ssd.userbenchmark.com/SpeedTest/27251/Kingston-SHPM2280P2480G
+SSD,PX-1TM8SeY,Plextor,M8Se NVMe PCIe M.2 1TB,141,143,129,https://ssd.userbenchmark.com/SpeedTest/331208/PLEXTOR-PX-1TM8SeG
+SSD,PX-1TM8SeG,Plextor,M8Se NVMe PCIe M.2 1TB,141,143,129,https://ssd.userbenchmark.com/SpeedTest/331208/PLEXTOR-PX-1TM8SeG
+SSD,PX-1TM8SeGN,Plextor,M8Se NVMe PCIe M.2 1TB,141,143,129,https://ssd.userbenchmark.com/SpeedTest/331208/PLEXTOR-PX-1TM8SeG
+SSD,PH240GPM280SSDR,Patriot,Hellfire NVMe PCIe M.2 240GB,142,143,1749,https://ssd.userbenchmark.com/SpeedTest/179778/Patriot-Hellfire-M2
+SSD,RVD350-FHPX28-480G,OCZ,RevoDrive 350 PCIe 480GB,143,143,480,https://ssd.userbenchmark.com/SpeedTest/13514/OCZ-REVODRIVE350
+SSD,PX-128M8PeG,Plextor,M8Pe NVMe PCIe M.2 128GB,144,143,484,https://ssd.userbenchmark.com/SpeedTest/171560/PLEXTOR-PX-128M8PeG
+SSD,2YY42AA#ABC,HP,EX900 NVMe PCIe M.2 120GB,145,142,1443,https://ssd.userbenchmark.com/SpeedTest/489362/HP-SSD-EX900-120GB
+SSD,SKC1000/240G,Kingston,KC1000 NVMe PCIe M.2 240GB,146,140,1440,https://ssd.userbenchmark.com/SpeedTest/312458/KINGSTON-SKC1000240G
+SSD,KXG50ZNV512G,Toshiba,XG5 NVMe PCIe M.2 512GB,147,140,25071,https://ssd.userbenchmark.com/SpeedTest/359770/KXG50ZNV512G-NVMe-TOSHIBA-512GB
+SSD,MDNVME80-BPX-0128,MyDigitalSSD,BPX NVMe PCIe M.2 120GB,148,140,643,https://ssd.userbenchmark.com/SpeedTest/217777/BPX
+SSD,PX-256M8SeY,Plextor,M8Se NVMe PCIe M.2 256GB,149,138,304,https://ssd.userbenchmark.com/SpeedTest/327270/PLEXTOR-PX-256M8SeG
+SSD,PX-256M8SeG,Plextor,M8Se NVMe PCIe M.2 256GB,149,138,304,https://ssd.userbenchmark.com/SpeedTest/327270/PLEXTOR-PX-256M8SeG
+SSD,PX-256M8SeGN,Plextor,M8Se NVMe PCIe M.2 256GB,149,138,304,https://ssd.userbenchmark.com/SpeedTest/327270/PLEXTOR-PX-256M8SeG
+SSD,ASX8000NP-256GM-C,Adata,XPG SX8000 NVMe PCIe M.2 256GB,150,136,2312,https://ssd.userbenchmark.com/SpeedTest/209005/NVMe-ADATA-SX8000NP
+SSD,,Samsung,PM951 NVMe PCIe M.2 512GB,151,136,5875,https://ssd.userbenchmark.com/SpeedTest/37633/NVMe-PM951-NVMe-SAMSU
+SSD,SA1000M8/960G,Kingston,A1000 NVMe PCIe M.2 960GB,152,134,1389,https://ssd.userbenchmark.com/SpeedTest/495225/KINGSTON-SA1000M8960G
+SSD,SSDPEKKW512G7X1,Intel,600p Series NVMe PCIe M.2 512GB,153,133,18157,https://ssd.userbenchmark.com/SpeedTest/168978/INTEL-SSDPEKKW512G7
+SSD,SA1000M8/480G,Kingston,A1000 NVMe PCIe M.2 480GB,154,133,9223,https://ssd.userbenchmark.com/SpeedTest/492906/KINGSTON-SA1000M8480G
+SSD,CSSD-F120GBMP500,Corsair,Force MP500 NVMe PCIe M.2 120GB,155,131,9137,https://ssd.userbenchmark.com/SpeedTest/221057/Force-MP500
+SSD,WDS512G1X0C,WD,Black NVMe PCIe M.2 512GB (2017),156,131,10196,https://ssd.userbenchmark.com/SpeedTest/251339/WDC-WDS512G1X0C-00ENX0
+SSD,SHPM2280P2/240G,Kingston,HyperX Predator AHCI PCIe M.2 240GB,157,130,5295,https://ssd.userbenchmark.com/SpeedTest/26065/Kingston-SHPM2280P2240G
+SSD,ASX7000NP-512GT-C,Adata,XPG SX7000 NVMe PCIe M.2 512GB,158,129,2058,https://ssd.userbenchmark.com/SpeedTest/318275/NVMe-ADATA-SX7000NP
+SSD,MZHPU256HCGL,Samsung,XP941 PCIe M.2 256GB,159,128,2641,https://ssd.userbenchmark.com/SpeedTest/4625/SAMSUNG-MZHPU256HCGL-00000
+SSD,SSDPEKKW128G8XT,Intel,760p Series NVMe PCIe M.2 128GB,160,128,554,https://ssd.userbenchmark.com/SpeedTest/446913/INTEL-SSDPEKKW128G8
+SSD,MDNVME80-SBX-0512,MyDigitalSSD,SBX NVMe PCIe M.2 512GB,161,128,171,https://ssd.userbenchmark.com/SpeedTest/438137/SBX
+SSD,KXG50ZNV256G,Toshiba,XG5 NVMe PCIe M.2 256GB,162,127,32888,https://ssd.userbenchmark.com/SpeedTest/358656/KXG50ZNV256G-NVMe-TOSHIBA-256GB
+SSD,MZHPU512HCGL,Samsung,XP941 PCIe M.2 512GB,163,127,1184,https://ssd.userbenchmark.com/SpeedTest/4874/SAMSUNG-MZHPU512HCGL-00000
+SSD,ASX6000NP-1TT-C,Adata,XPG SX6000 NVMe PCIe M.2 1TB,164,125,158,https://ssd.userbenchmark.com/SpeedTest/471014/ADATA-SX6000NP
+SSD,WDS256G1X0C,WD,Black NVMe PCIe M.2 256GB (2017),165,124,21082,https://ssd.userbenchmark.com/SpeedTest/237667/WDC-WDS256G1X0C-00ENX0
+SSD,ASX6000NP-512GT-C,Adata,XPG SX6000 NVMe PCIe M.2 512GB,166,124,2782,https://ssd.userbenchmark.com/SpeedTest/410831/ADATA-SX6000NP
+SSD,,Toshiba, THNSN5512GPUK NVMe PCIe M.2 512GB,167,123,14479,https://ssd.userbenchmark.com/SpeedTest/160272/NVMe-THNSN5512GPUK-NV
+SSD,,Samsung,PM951 NVMe PCIe M.2 256GB,168,122,10374,https://ssd.userbenchmark.com/SpeedTest/37673/NVMe-PM951-NVMe-SAMSU
+SSD,PX-AG512M6e,Plextor,M6e PCIe 512GB,169,121,126,https://ssd.userbenchmark.com/SpeedTest/14616/PLEXTOR-PX-AG512M6e
+SSD,ASX6000NP-256GT-C,Adata,XPG SX6000 NVMe PCIe M.2 256GB,170,119,6357,https://ssd.userbenchmark.com/SpeedTest/387986/ADATA-SX6000NP
+SSD,PX-G256M6e,Plextor,M6e  PCIe M.2 256GB,171,118,1210,https://ssd.userbenchmark.com/SpeedTest/12059/PLEXTOR-PX-G256M6e
+SSD,SSDPEKKF512G7X1,Intel,Pro 6000p NVMe PCIe M.2 512GB,172,118,1733,https://ssd.userbenchmark.com/SpeedTest/289714/INTEL-SSDPEKKF512G7H
+SSD,MDNVME80-SBX-1T,MyDigitalSSD,SBX NVMe PCIe M.2 1TB,173,118,36,https://ssd.userbenchmark.com/SpeedTest/455228/SBX
+SSD,PX-128M8SeY,Plextor,M8Se NVMe PCIe M.2 128GB,174,116,203,https://ssd.userbenchmark.com/SpeedTest/345013/PLEXTOR-PX-128M8SeG
+SSD,PX-128M8SeG,Plextor,M8Se NVMe PCIe M.2 128GB,174,116,203,https://ssd.userbenchmark.com/SpeedTest/345013/PLEXTOR-PX-128M8SeG
+SSD,PX-128M8SeGN,Plextor,M8Se NVMe PCIe M.2 128GB,174,116,203,https://ssd.userbenchmark.com/SpeedTest/345013/PLEXTOR-PX-128M8SeG
+SSD,MZ-76P1T0B,Samsung,860 Pro 1TB,175,115,4101,https://ssd.userbenchmark.com/SpeedTest/434505/Samsung-SSD-860-PRO-1TB
+SSD,MZ-77E1T0B,Samsung,870 EVO 1TB,176,115,48,https://ssd.userbenchmark.com/SpeedTest/1445454/Samsung-SSD-870-EVO-1TB
+SSD,SSDPEKKW256G7X1,Intel,600p Series NVMe PCIe M.2 256GB,177,115,43978,https://ssd.userbenchmark.com/SpeedTest/169054/INTEL-SSDPEKKW256G7
+SSD,MZ-76E2T0B,Samsung,860 Evo 2TB,178,114,24605,https://ssd.userbenchmark.com/SpeedTest/430706/Samsung-SSD-860-EVO-2TB
+SSD,MZ-76E1T0B,Samsung,860 Evo 1TB,179,114,393222,https://ssd.userbenchmark.com/SpeedTest/423831/Samsung-SSD-860-EVO-1TB
+SSD,ASX6000NP-128GT-C,Adata,XPG SX6000 NVMe PCIe M.2 128GB,180,114,4473,https://ssd.userbenchmark.com/SpeedTest/391493/ADATA-SX6000NP
+SSD,PX-AG256M6e,Plextor,M6e PCIe 256GB,181,114,617,https://ssd.userbenchmark.com/SpeedTest/7265/PLEXTOR-PX-AG256M6e
+SSD,MZHPU128HCGM,Samsung,XP941 PCIe M.2 128GB,182,114,668,https://ssd.userbenchmark.com/SpeedTest/6251/SAMSUNG-MZHPU128HCGM-00000
+SSD,ASX8000NP-128GM-C,Adata,XPG SX8000 NVMe PCIe M.2 128GB,183,113,117,https://ssd.userbenchmark.com/SpeedTest/214181/NVMe-ADATA-SX8000NP
+SSD,MZ-76E4T0B,Samsung,860 Evo 4TB,184,113,3386,https://ssd.userbenchmark.com/SpeedTest/440150/Samsung-SSD-860-EVO-4TB
+SSD,MZ-75E1T0B,Samsung,850 Evo 1TB,185,113,108034,https://ssd.userbenchmark.com/Samsung-850-Evo-1TB/Rating/3576
+SSD,MZ-75E2T0B,Samsung,850 Evo 2TB,186,113,6347,https://ssd.userbenchmark.com/SpeedTest/32539/Samsung-SSD-850-EVO-2TB
+SSD,SA1000M8/240G,Kingston,A1000 NVMe PCIe M.2 240GB,187,112,19600,https://ssd.userbenchmark.com/SpeedTest/497453/KINGSTON-SA1000M8240G
+SSD,MZ-76P4T0B,Samsung,860 Pro 4TB,188,112,290,https://ssd.userbenchmark.com/SpeedTest/552119/Samsung-SSD-860-PRO-4TB
+SSD,MZ-75E4T0B,Samsung,850 Evo 4TB,189,112,571,https://ssd.userbenchmark.com/SpeedTest/169156/Samsung-SSD-850-EVO-4TB
+SSD,MDNVME80-SBX-0256,MyDigitalSSD,SBX NVMe PCIe M.2 256GB,190,111,236,https://ssd.userbenchmark.com/SpeedTest/456332/SBX
+SSD,MZ-76P512B,Samsung,860 Pro 512GB,191,111,8792,https://ssd.userbenchmark.com/SpeedTest/431483/Samsung-SSD-860-PRO-512GB
+SSD,CSSD-F240GBMP300,Corsair,Force MP300 NVMe PCIe M.2 240GB,192,111,3021,https://ssd.userbenchmark.com/SpeedTest/538791/NVMe-Force-MP300
+SSD,MZ-75E500B,Samsung,850 Evo 500GB,193,111,613799,https://ssd.userbenchmark.com/Samsung-850-Evo-500GB/Rating/3477
+SSD,ASX7000NP-256GT-C,Adata,XPG SX7000 NVMe PCIe M.2 256GB,194,111,1439,https://ssd.userbenchmark.com/SpeedTest/304438/NVMe-ADATA-SX7000NP
+SSD,MZ-76P256BW,Samsung,860 Pro 256GB,195,111,7850,https://ssd.userbenchmark.com/Samsung-860-Pro-256GB/Rating/3950
+SSD,MKNP44SC240GB,Mushkin,Scorpion Deluxe PCIe 240GB,196,110,50,https://ssd.userbenchmark.com/SpeedTest/18266/Mushkin-Scorpion-Deluxe
+SSD,,Toshiba, THNSN5256GPUK NVMe PCIe M.2 256GB,197,110,17568,https://ssd.userbenchmark.com/SpeedTest/202063/THNSN5256GPUK-TOSHIBA
+SSD,MZ-77Q2T0BW,Samsung,870 QVO 2TB,198,109,2912,https://ssd.userbenchmark.com/SpeedTest/1260265/Samsung-SSD-870-QVO-2TB
+SSD,MZ-77Q2T0B/AM,Samsung,870 QVO 2TB,198,109,2912,https://ssd.userbenchmark.com/SpeedTest/1260265/Samsung-SSD-870-QVO-2TB
+SSD,MZ-77Q4T0BW,Samsung,870 QVO 4TB,199,109,532,https://ssd.userbenchmark.com/SpeedTest/1243154/Samsung-SSD-870-QVO-4TB
+SSD,MZ-77Q4T0B/AM,Samsung,870 QVO 4TB,199,109,532,https://ssd.userbenchmark.com/SpeedTest/1243154/Samsung-SSD-870-QVO-4TB
+SSD,MZ-7KE2T0BW,Samsung,850 Pro 2TB,200,109,1372,https://ssd.userbenchmark.com/SpeedTest/38860/Samsung-SSD-850-PRO-2TB
+SSD,MZ-77E500B,Samsung,870 EVO 500GB,201,109,48,https://ssd.userbenchmark.com/SpeedTest/972228/Samsung-SSD-870-EVO-500GB
+SSD,CT2000MX500SSD1,Crucial,MX500 2TB,202,109,20322,https://ssd.userbenchmark.com/SpeedTest/421719/CT2000MX500SSD1
+SSD,MZ-77Q8T0BW,Samsung,870 QVO 8TB,203,108,99,https://ssd.userbenchmark.com/SpeedTest/1280660/Samsung-SSD-870-QVO-8TB
+SSD,MZ-77Q8T0B/AM,Samsung,870 QVO 8TB,203,108,99,https://ssd.userbenchmark.com/SpeedTest/1280660/Samsung-SSD-870-QVO-8TB
+SSD,ASU800SS-2TT-C,Adata,Ultimate SU800 2TB,204,108,1542,https://ssd.userbenchmark.com/SpeedTest/584479/ADATA-SU800
+SSD,,Samsung,MZFLV512 NVMe PCIe M.2 512GB,205,108,1296,https://ssd.userbenchmark.com/SpeedTest/36829/NVMe-SAMSUNG-MZFLV512
+SSD,SSDPEKKF256G7X1,Intel,Pro 6000p NVMe PCIe M.2 256GB,206,107,6381,https://ssd.userbenchmark.com/SpeedTest/304420/INTEL-SSDPEKKF256G7H
+SSD,SSDSC2KW512G8,Intel,545s Series 512GB,207,107,8351,https://ssd.userbenchmark.com/SpeedTest/302752/INTEL-SSDSC2KW512G8
+SSD,MZ-76E500B,Samsung,860 Evo 500GB,208,107,550899,https://ssd.userbenchmark.com/SpeedTest/428560/Samsung-SSD-860-EVO-500GB
+SSD,CT500MX500SSD1,Crucial,MX500 500GB,209,107,160942,https://ssd.userbenchmark.com/SpeedTest/418385/CT500MX500SSD1
+SSD,CT1000MX500SSD1,Crucial,MX500 1TB,210,107,107253,https://ssd.userbenchmark.com/SpeedTest/406099/CT1000MX500SSD1
+SSD,PX-G128M6e,Plextor,M6e PCIe M.2 128GB,211,106,562,https://ssd.userbenchmark.com/SpeedTest/15095/PLEXTOR-PX-G128M6e
+SSD,MZ-77E250B,Samsung,870 Evo 250GB,212,106,32,https://ssd.userbenchmark.com/Samsung-870-Evo-250GB/Rating/4094
+SSD,MZ-7KE1T0BW,Samsung,850 Pro 1TB,213,105,17764,https://ssd.userbenchmark.com/Samsung-850-Pro-1TB/Rating/3577
+SSD,ASU800SS-1TT-C,Adata,Ultimate SU800 1TB,214,105,17248,https://ssd.userbenchmark.com/Adata-Ultimate-SU800-1TB/Rating/3914
+SSD,MZ-7TE1T0BW,Samsung,840 Evo 1TB,215,104,20744,https://ssd.userbenchmark.com/SpeedTest/1436/Samsung-SSD-840-EVO
+SSD,MZ-7KE512BW,Samsung,850 Pro 512GB,216,104,63483,https://ssd.userbenchmark.com/Samsung-850-Pro-512GB/Rating/3478
+SSD,TS256GMTE820,Transcend,MTE820 NVMe PCIe M.2 256GB,217,104,141,https://ssd.userbenchmark.com/SpeedTest/437614/TS256GMTE820
+SSD,MZ-7TE750BW,Samsung,840 Evo 750GB,218,104,2679,https://ssd.userbenchmark.com/SpeedTest/2175/Samsung-SSD-840-EVO-750GB
+SSD,SSDPEKKW128G7X1,Intel,600p Series NVMe PCIe M.2 128GB,219,103,8264,https://ssd.userbenchmark.com/SpeedTest/170119/INTEL-SSDPEKKW128G7
+SSD,MZ-750500BW,Samsung,750 EVO 500GB,220,103,20442,https://ssd.userbenchmark.com/SpeedTest/143302/Samsung-SSD-750-EVO-500GB
+SSD,MZ-75E250B,Samsung,850 Evo 250GB,221,103,722158,https://ssd.userbenchmark.com/Samsung-850-Evo-250GB/Rating/2977
+SSD,CT480BX300SSD1,Crucial,BX300 480GB,222,103,3512,https://ssd.userbenchmark.com/Crucial-BX300-480GB/Rating/3947
+SSD,MZ-7KE256BW,Samsung,850 Pro 256GB,223,103,107866,https://ssd.userbenchmark.com/Samsung-850-Pro-256GB/Rating/2385
+SSD,ASU800SS-512GT-C,Adata,Ultimate SU800 512GB,224,102,21010,https://ssd.userbenchmark.com/Adata-Ultimate-SU800-512GB/Rating/3913
+SSD,MZ-77Q1T0BW,Samsung,870 QVO 1TB,225,102,8049,https://ssd.userbenchmark.com/SpeedTest/1218310/Samsung-SSD-870-QVO-1TB
+SSD,MZ-77Q1T0B/AM,Samsung,870 QVO 1TB,225,102,8049,https://ssd.userbenchmark.com/SpeedTest/1218310/Samsung-SSD-870-QVO-1TB
+SSD,MZ-76Q4T0BW,Samsung,860 QVO 4TB,226,102,1724,https://ssd.userbenchmark.com/SpeedTest/743794/Samsung-SSD-860-QVO-4TB
+SSD,MZ-76Q4T0B/AM,Samsung,860 QVO 4TB,226,102,1724,https://ssd.userbenchmark.com/SpeedTest/743794/Samsung-SSD-860-QVO-4TB
+SSD,MZ-76E250B,Samsung,860 Evo 250GB,227,102,215326,https://ssd.userbenchmark.com/Samsung-860-Evo-250GB/Rating/3949
+SSD,MZ-7TE500BW,Samsung,840 Evo 500GB,228,102,49422,https://ssd.userbenchmark.com/SpeedTest/1519/Samsung-SSD-840-EVO-500GB
+SSD,2AP99AA#ABL,HP,S700 Pro 512GB,229,102,715,https://ssd.userbenchmark.com/SpeedTest/370902/HP-SSD-S700-Pro
+SSD,GP-GSM2NE8256GNTD,Gigabyte,NVMe PCIe M.2 256GB,230,101,2577,https://ssd.userbenchmark.com/SpeedTest/599447/GIGABYTE-GP-GSM2NE8256GNTD
+SSD,CT250MX500SSD1,Crucial,MX500 250GB,231,101,58979,https://ssd.userbenchmark.com/Crucial-MX500-250GB/Rating/3951
+SSD,SDSSDH3-1T00-G25,SanDisk,Ultra 3D 1TB,232,99.9,4411,https://ssd.userbenchmark.com/SpeedTest/316514/SanDisk-SDSSDH31000G
+SSD,MZ-76Q2T0BW,Samsung,860 QVO 2TB,233,99.9,19653,https://ssd.userbenchmark.com/SpeedTest/719017/Samsung-SSD-860-QVO-2TB
+SSD,MZ-76Q2T0B/AM,Samsung,860 QVO 2TB,233,99.9,19653,https://ssd.userbenchmark.com/SpeedTest/719017/Samsung-SSD-860-QVO-2TB
+SSD,WDS100T2B0B,WD,Blue 3D SATA M.2 1TB,234,99.5,7251,https://ssd.userbenchmark.com/SpeedTest/342470/WDC-WDS100T2B0B-00YS70
+SSD,WDS500G2B0B,WD,Blue 3D SATA M.2 500GB,235,99.3,16353,https://ssd.userbenchmark.com/SpeedTest/325788/WDC-WDS500G2B0B-00YS70
+SSD,SDSSDH3-2T00-G25,SanDisk,Ultra 3D 2TB,236,99.1,3767,https://ssd.userbenchmark.com/SpeedTest/351750/SanDisk-SDSSDH32000G
+SSD,SDSSDH3-500G-G25,SanDisk,Ultra 3D 500GB,237,99,9659,https://ssd.userbenchmark.com/SpeedTest/322712/SanDisk-SDSSDH3500G
+SSD,WDS100T2B0A,WD,Blue 3D 1TB,238,98.7,12770,https://ssd.userbenchmark.com/SpeedTest/352978/WDC-WDS100T2B0A-00SM50
+SSD,SSDPEKKF360G7X1,Intel,Pro 6000p NVMe PCIe M.2 360GB,239,98.7,848,https://ssd.userbenchmark.com/SpeedTest/296966/INTEL-SSDPEKKF360G7H
+SSD,CSSD-F120GBMP300,Corsair,Force MP300 NVMe PCIe M.2 120GB,240,98.6,3048,https://ssd.userbenchmark.com/SpeedTest/534036/NVMe-Force-MP300
+SSD,CT500MX200SSD4,Crucial,MX200 SATA M.2 500GB,241,98.4,971,https://ssd.userbenchmark.com/SpeedTest/23836/Crucial-CT500MX200SSD4
+SSD,MZ-7KE128BW,Samsung,850 Pro 128GB,242,98.3,14119,https://ssd.userbenchmark.com/Samsung-850-Pro-128GB/Rating/3483
+SSD,WDS200T2B0A,WD,Blue 3D 2TB,243,97.5,903,https://ssd.userbenchmark.com/SpeedTest/373739/WDC-WDS200T2B0A-00SM50
+SSD,VTR180-25SAT3-960G,Toshiba,OCZ VT180 960GB,244,97.3,80,https://ssd.userbenchmark.com/SpeedTest/171904/TOSHIBA-VT180
+SSD,SSDSC2KW256G8,Intel,545s Series 256GB,245,97.2,10301,https://ssd.userbenchmark.com/SpeedTest/299881/INTEL-SSDSC2KW256G8
+SSD,SDSSDXPS-960G-G25,SanDisk,Extreme Pro 960GB,246,96.8,2111,https://ssd.userbenchmark.com/SanDisk-Extreme-Pro-960GB/Rating/3581
+SSD,2LU81AA#ABL,HP,S700 Pro 1TB,247,96.8,64,https://ssd.userbenchmark.com/SpeedTest/387205/HP-SSD-S700-Pro-1TB
+SSD,MZ-7PD512BW,Samsung,840 Pro 512GB,248,96.8,10715,https://ssd.userbenchmark.com/SpeedTest/2708/Samsung-SSD-840-PRO-Series
+SSD,MKNP44SC480GB,Mushkin,Scorpion Deluxe PCIe 480GB,249,96.5,105,https://ssd.userbenchmark.com/SpeedTest/11924/Mushkin-Scorpion-Deluxe
+SSD,SSDSC2BP480G410,Intel,730 Series 480GB,250,96.2,3898,https://ssd.userbenchmark.com/Intel-730-Series-480GB/Rating/3479
+SSD,MZ-75E120B,Samsung,850 Evo 120GB,251,95.8,53155,https://ssd.userbenchmark.com/Samsung-850-Evo-120GB/Rating/3484
+SSD,WDS500G2B0A,WD,Blue 3D 500GB,252,95.7,30068,https://ssd.userbenchmark.com/SpeedTest/337874/WDC-WDS500G2B0A-00SM50
+SSD,SDSSDXPS-480G-G25,SanDisk,Extreme Pro 480GB,253,95.3,6322,https://ssd.userbenchmark.com/SanDisk-Extreme-Pro-480GB/Rating/3476
+SSD,CT240BX300SSD1,Crucial,BX300 240GB,254,95.3,5429,https://ssd.userbenchmark.com/Crucial-BX300-240GB/Rating/3946
+SSD,MKNSSDST960GB,Mushkin,Striker 960GB,255,95,20,https://ssd.userbenchmark.com/SpeedTest/25597/MKNSSDST960GB
+SSD,CT250MX200SSD4,Crucial,MX200 SATA M.2 250GB,256,95,1820,https://ssd.userbenchmark.com/SpeedTest/23955/Crucial-CT250MX200SSD4
+SSD,2AP98AA#ABL,HP,S700 Pro 256GB,257,94.8,939,https://ssd.userbenchmark.com/SpeedTest/366058/HP-SSD-S700-Pro
+SSD,VTR150-25SAT3-480G,OCZ,Vector 150 480GB,258,94.8,342,https://ssd.userbenchmark.com/SpeedTest/7037/OCZ-VECTOR150
+SSD,MDNVME80-SBX-0128,MyDigitalSSD,SBX NVMe PCIe M.2 128GB,259,94.8,110,https://ssd.userbenchmark.com/SpeedTest/431053/SBX
+SSD,MZ-7TE250BW,Samsung,840 Evo 250GB,260,94.8,180136,https://ssd.userbenchmark.com/Samsung-840-Evo-250GB/Rating/1594
+SSD,PX-512M6Pro,Plextor,M6 Pro 512GB,261,94.6,170,https://ssd.userbenchmark.com/SpeedTest/15117/PLEXTOR-PX-512M6Pro
+SSD,VTR1-25SAT3-256G,OCZ,Vector 256GB,262,94.5,1741,https://ssd.userbenchmark.com/OCZ-Vector-256GB/Rating/1424
+SSD,MZ-MTE1T0BW,Samsung,840 Evo mSATA 1TB,263,94.4,509,https://ssd.userbenchmark.com/SpeedTest/10394/Samsung-SSD-840-EVO-1TB-mSATA
+SSD,PX-256M6Pro,Plextor,M6 Pro 256GB,264,94.3,795,https://ssd.userbenchmark.com/SpeedTest/14560/PLEXTOR-PX-256M6Pro
+SSD,MZ-750250BW,Samsung,750 EVO 250GB,265,94.1,59368,https://ssd.userbenchmark.com/SpeedTest/71929/Samsung-SSD-750-EVO-250GB
+SSD,MZ-7PD256BW,Samsung,840 Pro 256GB,266,93.8,44324,https://ssd.userbenchmark.com/Samsung-840-Pro-256GB/Rating/1408
+SSD,,Toshiba, THNSN5128GPUK NVMe PCIe M.2 128GB,267,93.7,957,https://ssd.userbenchmark.com/SpeedTest/335393/NVMe-THNSN5128GPUK-TO
+SSD,VTR1-25SAT3-512G,OCZ,Vector 512GB,268,93.7,293,https://ssd.userbenchmark.com/SpeedTest/1810/OCZ-VECTOR
+SSD,CT250MX200SSD1,Crucial,MX200 250GB,269,93.4,17123,https://ssd.userbenchmark.com/Crucial-MX200-250GB/Rating/3196
+SSD,MZ-750120BW,Samsung,750 EVO 120GB,270,93,15642,https://ssd.userbenchmark.com/SpeedTest/42465/Samsung-SSD-750-EVO-120GB
+SSD,VTX460A-25SAT3-240G,OCZ,Vertex 460A 240GB,271,92.8,996,https://ssd.userbenchmark.com/OCZ-Vertex-460A-240GB/Rating/3147
+SSD,CT256M550SSD4,Crucial,M550 SATA M.2 256GB,272,92.8,123,https://ssd.userbenchmark.com/SpeedTest/12143/Crucial-CT256M550SSD4
+SSD,CT1000BX100SSD1,Crucial,BX100 1TB,273,92.7,1158,https://ssd.userbenchmark.com/SpeedTest/22670/CT1000BX100SSD1
+SSD,SDSSDXPS-240G,SanDisk,Extreme Pro 240GB,274,92.7,8561,https://ssd.userbenchmark.com/SanDisk-Extreme-Pro-240GB/Rating/2356
+SSD,VTR180-25SAT3-480G,Toshiba,OCZ VT180 480GB,275,92.6,96,https://ssd.userbenchmark.com/SpeedTest/146334/TOSHIBA-VT180
+SSD,VTR180-25SAT3-240G,Toshiba,OCZ VT180 240GB,276,92.5,116,https://ssd.userbenchmark.com/SpeedTest/171243/TOSHIBA-VT180
+SSD,ASU800SS-256GT-C,Adata,Ultimate SU800 256GB,277,92.5,24164,https://ssd.userbenchmark.com/Adata-Ultimate-SU800-256GB/Rating/3912
+SSD,VTR180-25SAT3-960G,OCZ,Vector 180 960GB,278,92.4,298,https://ssd.userbenchmark.com/SpeedTest/30972/OCZ-VECTOR180
+SSD,CT512M550SSD4,Crucial,M550 SATA M.2 512GB,279,92.3,155,https://ssd.userbenchmark.com/SpeedTest/15375/Crucial-CT512M550SSD4
+SSD,RADEON-R7SSD-480G,OCZ,AMD Radeon R7 480GB,280,92.3,682,https://ssd.userbenchmark.com/OCZ-AMD-Radeon-R7-480GB/Rating/3507
+SSD,CSSD-N960GBXT,Corsair,Neutron XT 960GB,281,92.2,158,https://ssd.userbenchmark.com/SpeedTest/23267/Corsair-Neutron-XT-SSD
+SSD,MZ-76Q1T0BW,Samsung,860 QVO 1TB,282,92.1,110945,https://ssd.userbenchmark.com/SpeedTest/667965/Samsung-SSD-860-QVO-1TB
+SSD,MZ-76Q1T0B/AM,Samsung,860 QVO 1TB,282,92.1,110945,https://ssd.userbenchmark.com/SpeedTest/667965/Samsung-SSD-860-QVO-1TB
+SSD,SDSSDXP-480G-G25,SanDisk,Extreme II 480GB,283,92.1,1171,https://ssd.userbenchmark.com/SpeedTest/2135/SanDisk-SDSSDXP480G
+SSD,VTX4-25SAT3-512G,OCZ,Vertex 4 512GB,284,91.9,1232,https://ssd.userbenchmark.com/SpeedTest/4340/OCZ-VERTEX4
+SSD,VTR180-25SAT3-480G,OCZ,Vector 180 480GB,285,91.8,877,https://ssd.userbenchmark.com/OCZ-Vector-180-480GB/Rating/3508
+SSD,SSD7CS1311-960-RB,PNY,CS1311 960GB,286,91.7,2814,https://ssd.userbenchmark.com/PNY-CS1311-960GB/Rating/3617
+SSD,CT1050MX300SSD1,Crucial,MX300 1TB,287,91.6,11674,https://ssd.userbenchmark.com/Crucial-MX300-1TB/Rating/3645
+SSD,CT500BX100SSD1,Crucial,BX100 500GB,288,91.5,9795,https://ssd.userbenchmark.com/Crucial-BX100-500GB/Rating/3474
+SSD,CT512M550SSD1,Crucial,M550 512GB,289,91.5,3698,https://ssd.userbenchmark.com/SpeedTest/7172/Crucial-CT512M550SSD1
+SSD,RVD3X2-FHPX4-480G,OCZ,RevoDrive 3 X2 PCIe 480GB,290,91.5,224,https://ssd.userbenchmark.com/SpeedTest/8804/OCZ-REVODRIVE3-X2
+SSD,MZ-MTE500BW,Samsung,840 Evo mSATA 500GB,291,91.4,626,https://ssd.userbenchmark.com/SpeedTest/10255/Samsung-SSD-840-EVO-500GB-mSATA
+SSD,SHSS37A/960G,HyperX,Savage 960GB,292,91.3,1272,https://ssd.userbenchmark.com/HyperX-Savage-960GB/Rating/3580
+SSD,PI480GS25SSDR,Patriot,Ignite 480GB,293,91.2,2143,https://ssd.userbenchmark.com/Patriot-Ignite-480GB/Rating/3574
+SSD,PX-512M6V,Plextor,M6V 512GB,294,91.1,43,https://ssd.userbenchmark.com/SpeedTest/31388/PLEXTOR-PX-512M6V
+SSD,VTX460A-25SAT3-480G,OCZ,Vertex 460A 480GB,295,91,409,https://ssd.userbenchmark.com/SpeedTest/21677/OCZ-VERTEX460A
+SSD,,Samsung,MZFLV256 NVMe PCIe M.2 256GB,296,91,3694,https://ssd.userbenchmark.com/SpeedTest/37597/NVMe-SAMSUNG-MZFLV256
+SSD,VTR180-25SAT3-240G,OCZ,Vector 180 240GB,297,90.9,931,https://ssd.userbenchmark.com/OCZ-Vector-180-240GB/Rating/3493
+SSD,SSD7CS2211-480-RB,PNY,CS2211 480GB,298,90.9,1570,https://ssd.userbenchmark.com/PNY-CS2211-480GB/Rating/3630
+SSD,SSD7CS2211-480-PB,PNY,CS2211 480GB,298,90.9,1570,https://ssd.userbenchmark.com/PNY-CS2211-480GB/Rating/3630
+SSD,CT1024M550SSD1,Crucial,M550 1TB,299,90.8,1273,https://ssd.userbenchmark.com/SpeedTest/7108/Crucial-CT1024M550SSD1
+SSD,VTX4-25SAT3-256G,OCZ,Vertex 4 256GB,300,90.7,10103,https://ssd.userbenchmark.com/OCZ-Vertex-4-256GB/Rating/1315
+SSD,HDTS451XZSTA,Toshiba,Q300 Pro 512GB,301,90.6,114,https://ssd.userbenchmark.com/SpeedTest/57809/TOSHIBA-Q300-Pro
+SSD,SSD7CS2211-960-RB,PNY,CS2211 960GB,302,90.6,188,https://ssd.userbenchmark.com/PNY-CS2211-960GB/Rating/3631
+SSD,SSD7CS2211-960-PB,PNY,CS2211 960GB,302,90.6,188,https://ssd.userbenchmark.com/PNY-CS2211-960GB/Rating/3631
+SSD,,Micron,M600 256GB,303,90.5,802,https://ssd.userbenchmark.com/SpeedTest/24442/Micron-M600-MTFDDAK256MBF
+SSD,CSSD-F512GBLX,Corsair,Force LX 512GB,304,90.5,373,https://ssd.userbenchmark.com/SpeedTest/16265/CORSAIR-FORCE-LX-SSD
+SSD,CT1050MX300SSD4,Crucial,MX300 SATA M.2 1TB,305,90.4,5183,https://ssd.userbenchmark.com/SpeedTest/182535/Crucial-CT1050MX300SSD4
+SSD,CSSD-N240GBXT,Corsair,Neutron XT 240GB,306,90.4,1254,https://ssd.userbenchmark.com/Corsair-Neutron-XT-240GB/Rating/3277
+SSD,MKNSSDRE512GB,Mushkin,Reactor 512GB,307,90.3,753,https://ssd.userbenchmark.com/Mushkin-Reactor-512GB/Rating/3584
+SSD,CT750MX300SSD1,Crucial,MX300 750GB,308,90.3,17110,https://ssd.userbenchmark.com/Crucial-MX300-750GB/Rating/3644
+SSD,VTR150-25SAT3-240G,OCZ,Vector 150 240GB,309,90.2,1411,https://ssd.userbenchmark.com/OCZ-Vector-150-240GB/Rating/1748
+SSD,CT256M550SSD1,Crucial,M550 256GB,310,90.2,5614,https://ssd.userbenchmark.com/Crucial-M550-256GB/Rating/2000
+SSD,TS256GSSD370S,Transcend,SSD370S 256GB,311,90.1,9628,https://ssd.userbenchmark.com/SpeedTest/26718/TS256GSSD370S
+SSD,VX500-25SAT3-512G,Toshiba,OCZ VX500 512GB,312,89.8,124,https://ssd.userbenchmark.com/SpeedTest/190983/TOSHIBA-VX500
+SSD,MZ-7TE120BW,Samsung,840 Evo 120GB,313,89.7,91969,https://ssd.userbenchmark.com/Samsung-840-Evo-120GB/Rating/1886
+SSD,VTX460-25SAT3-240G,OCZ,Vertex 460 240GB,314,89.6,1503,https://ssd.userbenchmark.com/OCZ-Vertex-460-240GB/Rating/2043
+SSD,CT120BX300SSD1,Crucial,BX300 120GB,315,89.6,4946,https://ssd.userbenchmark.com/Crucial-BX300-120GB/Rating/3945
+SSD,SDSSDXP-240G-G25,SanDisk,Extreme II 240GB,316,89.4,2055,https://ssd.userbenchmark.com/SanDisk-Extreme-II-240GB/Rating/1545
+SSD,PX-256M6S,Plextor,M6S 256GB,317,89.4,1208,https://ssd.userbenchmark.com/Plextor-M6S-256GB/Rating/3505
+SSD,ZTSSD-A5P-480G-PE,Zotac,Premium Edition 480GB,318,89.3,246,https://ssd.userbenchmark.com/Zotac-Premium-Edition-480GB/Rating/3599
+SSD,CSSD-N240GBXTI,Corsair,Neutron XTi 240GB,319,89.3,715,https://ssd.userbenchmark.com/SpeedTest/159221/Corsair-Neutron-XTI-SSD
+SSD,RADEON-R7SSD-240G,OCZ,AMD Radeon R7 240GB,320,89,2045,https://ssd.userbenchmark.com/OCZ-AMD-Radeon-R7-240GB/Rating/2492
+SSD,PX-256M5P,Plextor,M5 Pro 256GB,321,88.9,2010,https://ssd.userbenchmark.com/Plextor-M5-Pro-256GB/Rating/1410
+SSD,PI240GS325SSDR,Patriot,Ignite 240GB,322,88.9,1442,https://ssd.userbenchmark.com/Patriot-Ignite-240GB/Rating/3573
+SSD,MZ-MTE250BW,Samsung,840 Evo mSATA 250GB,323,88.9,1232,https://ssd.userbenchmark.com/SpeedTest/5250/Samsung-SSD-840-EVO-250GB-mSATA
+SSD,2AP97AA#ABL,HP,S700 Pro 128GB,324,88.9,448,https://ssd.userbenchmark.com/SpeedTest/300937/HP-SSD-S700-Pro
+SSD,SSDPEKKF128GX1,Intel,Pro 6000p NVMe PCIe M.2 128GB,325,88.7,62,https://ssd.userbenchmark.com/SpeedTest/275754/INTEL-SSDPEKKF128G7
+SSD,SB1CSK31MT560-0240,OCZ,Saber 1000 240GB,326,88.7,88,https://ssd.userbenchmark.com/SpeedTest/36693/OCZ-SABER1000
+SSD,MZ-7PD128BW,Samsung,840 Pro 128GB,327,88.5,32386,https://ssd.userbenchmark.com/Samsung-840-Pro-128GB/Rating/1890
+SSD,CT250MX200SSD3,Crucial,MX200 mSATA 250GB,328,88.5,860,https://ssd.userbenchmark.com/SpeedTest/29438/Crucial--CT250MX200SSD3
+SSD,ASP610SS3-1TM-C,Adata,Premier SP610 1TB,329,88.4,129,https://ssd.userbenchmark.com/SpeedTest/19263/ADATA-SP610
+SSD,,PNY,SSD2SC240G5SA754D117-511 240GB,330,88.2,422,https://ssd.userbenchmark.com/SpeedTest/11704/SSD2SC240G5SA754D117-511
+SSD,CT512M550SSD3,Crucial,M550 mSATA 512GB,331,88.2,385,https://ssd.userbenchmark.com/SpeedTest/8510/Crucial-CT512M550SSD3
+SSD,MKNSSDRE1TB,Mushkin,Reactor 1TB,332,88.1,7378,https://ssd.userbenchmark.com/Mushkin-Reactor-1TB/Rating/3583
+SSD,WDS100T1B0A,WD,Blue 1TB,333,88.1,4820,https://ssd.userbenchmark.com/SpeedTest/186717/WDC-WDS100T1B0A-00H9H0
+SSD,SHSS37A/240G,HyperX,Savage 240GB,334,87.8,35345,https://ssd.userbenchmark.com/HyperX-Savage-240GB/Rating/3494
+SSD,ASX930SS3-120GM-C,Adata,XPG SX930 120GB,335,87.7,933,https://ssd.userbenchmark.com/Adata-XPG-SX930-120GB/Rating/3635
+SSD,SSDSC2BB800G4,Intel,S3500 Series 800GB,336,87.5,242,https://ssd.userbenchmark.com/SpeedTest/30895/INTEL-SSDSC2BB800G4
+SSD,SDSSDH3-250G-G25,SanDisk,Ultra 3D 250GB,337,87.5,4109,https://ssd.userbenchmark.com/SanDisk-Ultra-3D-250GB/Rating/3952
+SSD,ARC100-25SAT3-240G,OCZ,ARC 100 240GB,338,87.2,10605,https://ssd.userbenchmark.com/OCZ-ARC-100-240GB/Rating/2603
+SSD,SKC400S37/1T,Kingston,SSDNow KC400 1TB,339,87.1,571,https://ssd.userbenchmark.com/SpeedTest/127752/KINGSTON-SKC400S371T
+SSD,TRN150-25SAT3-960G,OCZ,Trion 150 960GB,340,87.1,2498,https://ssd.userbenchmark.com/OCZ-Trion-150-960GB/Rating/3621
+SSD,CT512MX100SSD1,Crucial,MX100 512GB,341,87,26287,https://ssd.userbenchmark.com/Crucial-MX100-512GB/Rating/3475
+SSD,CT256M550SSD3,Crucial,M550 mSATA 256GB,342,87,605,https://ssd.userbenchmark.com/SpeedTest/8589/Crucial-CT256M550SSD3
+SSD,THNSNJ256GCSU,Toshiba,HG6 256GB,343,87,3544,https://ssd.userbenchmark.com/SpeedTest/11911/TOSHIBA-THNSNJ256GCSU
+SSD,PX-256M6V,Plextor,M6V 256GB,344,86.9,371,https://ssd.userbenchmark.com/Plextor-M6V-256GB/Rating/3499
+SSD,ASX930SS3-240GM-C,Adata,XPG SX930 240GB,345,86.9,1241,https://ssd.userbenchmark.com/Adata-XPG-SX930-240GB/Rating/3636
+SSD,GP-GSM2NE8128GNTD,Gigabyte,NVMe PCIe M.2 128GB,346,86.8,1150,https://ssd.userbenchmark.com/SpeedTest/602706/GIGABYTE-GP-GSM2NE8128GNTD
+SSD,,OCZ,AGILITY3 256GB,347,86.8,5,https://ssd.userbenchmark.com/SpeedTest/9551/OCZ-AGILITY3
+SSD,VTX450-25SAT3-256G,OCZ,Vertex 450 256GB,348,86.8,360,https://ssd.userbenchmark.com/OCZ-Vertex-450-256GB/Rating/1605
+SSD,TS1TSSD370,Transcend,SSD370 1TB,349,86.6,200,https://ssd.userbenchmark.com/Transcend-SSD370-1TB/Rating/3579
+SSD,ASP610SS3-512GM-C,Adata,Premier SP610 512GB,350,86.5,207,https://ssd.userbenchmark.com/SpeedTest/15096/ADATA-SP610
+SSD,PX-512M6S,Plextor,M6S 512GB,351,86.5,79,https://ssd.userbenchmark.com/Plextor-M6S-512GB/Rating/3506
+SSD,SDSSDHII-480G-G25,SanDisk,Ultra II 480GB,352,86.5,50978,https://ssd.userbenchmark.com/SanDisk-Ultra-II-480GB/Rating/3473
+SSD,VTX460-25SAT3-480G,OCZ,Vertex 460 480GB,353,86.4,336,https://ssd.userbenchmark.com/SpeedTest/11920/OCZ-VERTEX460
+SSD,WDS250G2B0A,WD,Blue 3D 250GB,354,86.4,16940,https://ssd.userbenchmark.com/WD-Blue-3D-250GB/Rating/3948
+SSD,CT525MX300SSD4,Crucial,MX300 SATA M.2 525GB,355,86.4,13176,https://ssd.userbenchmark.com/SpeedTest/174014/Crucial-CT525MX300SSD4
+SSD,RADEON-R7SSD-120G,OCZ,AMD Radeon R7 120GB,356,86.4,1098,https://ssd.userbenchmark.com/OCZ-AMD-Radeon-R7-120GB/Rating/3492
+SSD,WDS500G1B0A,WD,Blue 500GB,357,86.4,14393,https://ssd.userbenchmark.com/SpeedTest/192687/WDC-WDS500G1B0A-00H9H0
+SSD,CT250BX100SSD1,Crucial,BX100 250GB,358,86.4,29292,https://ssd.userbenchmark.com/Crucial-BX100-250GB/Rating/3145
+SSD,SKC400S37/512G,Kingston,SSDNow KC400 512GB,359,86.4,1896,https://ssd.userbenchmark.com/SpeedTest/72936/KINGSTON-SKC400S37512G
+SSD,PX-512M5P,Plextor,M5 Pro 512GB,360,86.3,470,https://ssd.userbenchmark.com/SpeedTest/1262/PLEXTOR-PX-512M5Pro
+SSD,PX-128M6S,Plextor,M6S 128GB,361,86.2,2639,https://ssd.userbenchmark.com/Plextor-M6S-128GB/Rating/2225
+SSD,PI960GS25SSDR,Patriot,Ignite 960GB,362,86.2,154,https://ssd.userbenchmark.com/Patriot-Ignite-960GB/Rating/3575
+SSD,SSD7CS2211-240-RB,PNY,CS2211 240GB,363,86.1,1518,https://ssd.userbenchmark.com/PNY-CS2211-240GB/Rating/3629
+SSD,SSD7CS2211-240-PB,PNY,CS2211 240GB,363,86.1,1518,https://ssd.userbenchmark.com/PNY-CS2211-240GB/Rating/3629
+SSD,SHSS37A/120G,HyperX,Savage 120GB,364,86,5094,https://ssd.userbenchmark.com/HyperX-Savage-120GB/Rating/3496
+SSD,VTX4-25SAT3-128G,OCZ,Vertex 4 128GB,365,86,17301,https://ssd.userbenchmark.com/OCZ-Vertex-4-128GB/Rating/1895
+SSD,GP-GSTFS30512GTTD,Gigabyte,UD PRO 512GB,366,85.9,2329,https://ssd.userbenchmark.com/SpeedTest/522549/GIGABYTE-GP-GSTFS30512GTTD
+SSD,VTR180-25SAT3-120G,Toshiba,OCZ VT180 120GB,367,85.8,36,https://ssd.userbenchmark.com/SpeedTest/172941/TOSHIBA-VT180
+SSD,,Samsung,MZ7PD256HAFV-000H7 256GB,368,85.7,2902,https://ssd.userbenchmark.com/SpeedTest/4570/SAMSUNG-MZ7PD256HAFV-000H7
+SSD,WDS500G1B0B,WD,Blue SATA M.2 500GB,369,85.7,4732,https://ssd.userbenchmark.com/SpeedTest/209713/WDC-WDS500G1B0B-00AS40
+SSD,CT525MX300SSD1,Crucial,MX300 525GB,370,85.7,77062,https://ssd.userbenchmark.com/Crucial-MX300-525GB/Rating/3643
+SSD,CT500MX200SSD3,Crucial,MX200 mSATA 500GB,371,85.7,452,https://ssd.userbenchmark.com/SpeedTest/24060/Crucial-CT500MX200SSD3
+SSD,VTR180-25SAT3-120G,OCZ,Vector 180 120GB,372,85.7,321,https://ssd.userbenchmark.com/OCZ-Vector-180-120GB/Rating/3495
+SSD,TRN150-25SAT3-480G,OCZ,Trion 150 480GB,373,85.6,10411,https://ssd.userbenchmark.com/OCZ-Trion-150-480GB/Rating/3620
+SSD,SSD7CS1311-480-RB,PNY,CS1311 480GB,374,85.6,10573,https://ssd.userbenchmark.com/PNY-CS1311-480GB/Rating/3616
+SSD,VTX460A-25SAT3-120G,OCZ,Vertex 460A 120GB,375,85.6,709,https://ssd.userbenchmark.com/OCZ-Vertex-460A-120GB/Rating/3490
+SSD,CT128M550SSD1,Crucial,M550 128GB,376,85.5,2114,https://ssd.userbenchmark.com/Crucial-M550-128GB/Rating/3485
+SSD,CT128M550SSD4,Crucial,M550 SATA M.2 128GB,377,85.5,147,https://ssd.userbenchmark.com/SpeedTest/15846/Crucial-CT128M550SSD4
+SSD,PX-128M6Pro,Plextor,M6 Pro 128GB,378,85.4,637,https://ssd.userbenchmark.com/SpeedTest/14853/PLEXTOR-PX-128M6Pro
+SSD,,Micron,M600 SATA M.2 256GB,379,85.2,2044,https://ssd.userbenchmark.com/SpeedTest/22043/Micron-M600-MTFDDAV256MBF
+SSD,SSDSC2BB480G4,Intel,S3500 Series 480GB,380,85.1,715,https://ssd.userbenchmark.com/SpeedTest/16864/INTEL-SSDSC2BB480G4
+SSD,,Liteonit,LCS-256L9S-11 2.5 7mm 256GB,381,85.1,3216,https://ssd.userbenchmark.com/SpeedTest/11259/LITEONIT-LCS-256L9S-11-25-7mm-256GB
+SSD,ZTSSD-A5P-240G-PE,Zotac,Premium Edition 240GB,382,85,995,https://ssd.userbenchmark.com/Zotac-Premium-Edition-240GB/Rating/3598
+SSD,SDSSDHII-960G-G25,SanDisk,Ultra II 960GB,383,85,25280,https://ssd.userbenchmark.com/SanDisk-Ultra-II-960GB/Rating/3582
+SSD,VX500-25SAT3-256G,Toshiba,OCZ VX500 256GB,384,85,164,https://ssd.userbenchmark.com/SpeedTest/193061/TOSHIBA-VX500
+SSD,SSD7CS900-960-RB,PNY,CS900 960GB,385,84.9,3593,https://ssd.userbenchmark.com/SpeedTest/443150/PNY-CS900-960GB-SSD
+SSD,TS512GMTS800,Transcend,MTS800 M.2 512GB,386,84.9,497,https://ssd.userbenchmark.com/SpeedTest/22251/TS512GMTS800
+SSD,ST480HM000,Seagate,600 480GB,387,84.8,1009,https://ssd.userbenchmark.com/SpeedTest/2966/ST480HM000-1G5162
+SSD,SDSSDXP-120G-G25,SanDisk,Extreme II 120GB,388,84.8,2004,https://ssd.userbenchmark.com/SanDisk-Extreme-II-120GB/Rating/1889
+SSD,ARC100-25SAT3-480G,OCZ,ARC 100 480GB,389,84.8,1575,https://ssd.userbenchmark.com/OCZ-ARC-100-480GB/Rating/3471
+SSD,WDS250G2B0B,WD,Blue 3D SATA M.2 250GB,390,84.7,9989,https://ssd.userbenchmark.com/SpeedTest/341807/WDC-WDS250G2B0B-00YS70
+SSD,TS512GSSD370,Transcend,SSD370 512GB,391,84.6,1279,https://ssd.userbenchmark.com/Transcend-SSD370-512GB/Rating/3472
+SSD,SKC400S37/256G,Kingston,SSDNow KC400 256GB,392,84.6,2231,https://ssd.userbenchmark.com/SpeedTest/79042/KINGSTON-SKC400S37256G
+SSD,VTX460-25SAT3-120G,OCZ,Vertex 460 120GB,393,84.5,1040,https://ssd.userbenchmark.com/OCZ-Vertex-460-120GB/Rating/3488
+SSD,SD8SB8U-1T00-1122,SanDisk,X400 1TB,394,84.4,1626,https://ssd.userbenchmark.com/SpeedTest/66487/SanDisk-SD8SB8U1T001122
+SSD,WDS100T1B0B,WD,Blue SATA M.2 1TB,395,84.4,1960,https://ssd.userbenchmark.com/SpeedTest/199326/WDC-WDS100T1B0B-00AS40
+SSD,HDTS325XZSTA,Toshiba,Q Series Pro 256GB,396,84.3,1332,https://ssd.userbenchmark.com/SpeedTest/7204/TOSHIBA-THNSNJ25
+SSD,HDTS325EZSTA,Toshiba,Q Series Pro 256GB,396,84.3,1332,https://ssd.userbenchmark.com/SpeedTest/7204/TOSHIBA-THNSNJ25
+SSD,THNSNJ256GCST,Toshiba,Q Series Pro 256GB,396,84.3,1332,https://ssd.userbenchmark.com/SpeedTest/7204/TOSHIBA-THNSNJ25
+SSD,,Apple,SM0256F 251GB,397,84.3,216,https://ssd.userbenchmark.com/SpeedTest/3466/APPLE-SSD-SM0256F
+SSD,GP-GSTFS30256GTTD,Gigabyte,UD PRO 256GB,398,84.2,1695,https://ssd.userbenchmark.com/SpeedTest/514244/GIGABYTE-GP-GSTFS30256GTTD
+SSD,VTR150-25SAT3-120G,OCZ,Vector 150 120GB,399,84.1,1226,https://ssd.userbenchmark.com/OCZ-Vector-150-120GB/Rating/2242
+SSD,,Apple,SM0512F 500GB,400,83.8,233,https://ssd.userbenchmark.com/SpeedTest/9630/APPLE-SSD-SM0512F
+SSD,HDTS251EZSTA,Toshiba,HG5d Q Series 512GB,401,83.8,444,https://ssd.userbenchmark.com/SpeedTest/5182/TOSHIBA-THNSNH512GBST
+SSD,HDTS251XZSTA,Toshiba,HG5d Q Series 512GB,401,83.8,444,https://ssd.userbenchmark.com/SpeedTest/5182/TOSHIBA-THNSNH512GBST
+SSD,THNSNH512GBST,Toshiba,HG5d Q Series 512GB,401,83.8,444,https://ssd.userbenchmark.com/SpeedTest/5182/TOSHIBA-THNSNH512GBST
+SSD,VTR1-25SAT3-128G,OCZ,Vector 128GB,402,83.7,1226,https://ssd.userbenchmark.com/SpeedTest/4023/OCZ-VECTOR
+SSD,MZ-MTE120BW,Samsung,840 Evo mSATA 120GB,403,83.7,593,https://ssd.userbenchmark.com/SpeedTest/5728/Samsung-SSD-840-EVO-120GB-mSATA
+SSD,SD8SB8U-512G-1122,SanDisk,X400 512GB,404,83.7,6104,https://ssd.userbenchmark.com/SpeedTest/74118/SanDisk-SD8SB8U512G1122
+SSD,MKNSSDE3480GB,Mushkin,ECO3 480GB,405,83.6,2018,https://ssd.userbenchmark.com/SpeedTest/82715/MKNSSDE3480GB
+SSD,MKNSSDST480GB,Mushkin,Striker 480GB,406,83.6,203,https://ssd.userbenchmark.com/SpeedTest/24686/MKNSSDST480GB
+SSD,,Samsung,SM841N 2.5 7mm 256GB,407,83.5,1634,https://ssd.userbenchmark.com/SpeedTest/12586/SAMSUNG-SSD-SM841N-25-7mm-256GB
+SSD,CT1000MX200SSD1,Crucial,MX200 1TB,408,83.5,2836,https://ssd.userbenchmark.com/Crucial-MX200-1TB/Rating/3578
+SSD,SSDSC2BP240G410,Intel,730 Series 240GB,409,83.4,6162,https://ssd.userbenchmark.com/Intel-730-Series-240GB/Rating/2031
+SSD,VX500-25SAT3-128G,Toshiba,OCZ VX500 128GB,410,83.3,82,https://ssd.userbenchmark.com/SpeedTest/194663/TOSHIBA-VX500
+SSD,CT960BX200SSD1,Crucial,BX200 960GB,411,83.3,922,https://ssd.userbenchmark.com/Crucial-BX200-960GB/Rating/3628
+SSD,CT480M500SSD1,Crucial,M500 480GB,412,83.2,5842,https://ssd.userbenchmark.com/SpeedTest/2643/Crucial-CT480M500SSD1
+SSD,,Liteonit,LCS-256M6S 2.5 7mm 256GB,413,83.1,7186,https://ssd.userbenchmark.com/SpeedTest/2535/LITEONIT-LCS-256M6S-25-7mm-256GB
+SSD,SD6SB2M-512G-1022I,SanDisk,X210 512GB,414,83.1,1228,https://ssd.userbenchmark.com/SpeedTest/16627/SanDisk-SD6SB2M512G1022I
+SSD,TS512GMTS600,Transcend,MTS600 M.2 512GB,415,83,112,https://ssd.userbenchmark.com/SpeedTest/13460/TS512GMTS600
+SSD,SDSSDHII-240G-G25,SanDisk,Ultra II 240GB,416,83,41898,https://ssd.userbenchmark.com/SanDisk-Ultra-II-240GB/Rating/2548
+SSD,CSSD-F256GBLX,Corsair,Force LX 256GB,417,82.8,1753,https://ssd.userbenchmark.com/SpeedTest/13556/CORSAIR-FORCE-LX-SSD
+SSD,CSSD-N480GBGTXB-BK,Corsair,Neutron GTX 480GB,418,82.7,439,https://ssd.userbenchmark.com/SpeedTest/9137/Corsair-Neutron-GTX-SSD
+SSD,MKNSSDTR480GB,Mushkin,Triactor 480GB,419,82.4,1404,https://ssd.userbenchmark.com/SpeedTest/80762/MKNSSDTR480GB
+SSD,CT256MX100SSD1,Crucial,MX100 256GB,420,82.4,44136,https://ssd.userbenchmark.com/Crucial-MX100-256GB/Rating/2317
+SSD,CT960M500SSD1,Crucial,M500 960GB,421,82.4,3085,https://ssd.userbenchmark.com/SpeedTest/2379/Crucial-CT960M500SSD1
+SSD,SSDSC2KW480H6,Intel,540s Series 480GB,422,82.3,3289,https://ssd.userbenchmark.com/SpeedTest/128513/INTEL-SSDSC2KW480H6
+SSD,WDS250G1B0A,WD,Blue 250GB,423,82.2,18902,https://ssd.userbenchmark.com/SpeedTest/191455/WDC-WDS250G1B0A-00H9H0
+SSD,,Plextor,PX-256M5S 256GB,424,82.2,1560,https://ssd.userbenchmark.com/SpeedTest/1304/PLEXTOR-PX-256M5S
+SSD,,Samsung,MZ7PD128HAFV-000 128GB,425,82,1223,https://ssd.userbenchmark.com/SpeedTest/9510/SAMSUNG-MZ7PD128HAFV-000
+SSD,ST240HM000,Seagate,600 240GB,426,82,2621,https://ssd.userbenchmark.com/Seagate-600-240GB/Rating/1601
+SSD,SD7SB3Q-128G-1002,SanDisk,X300s Non-Secure 256GB,427,82,2033,https://ssd.userbenchmark.com/SpeedTest/20604/SanDisk-SD7SB3Q256G1002
+SSD,THNSNS240GBSP,Toshiba,THNSNS Series 240GB,428,82,85,https://ssd.userbenchmark.com/SpeedTest/4786/TOSHIBA-THNSNS240GBSP
+SSD,SKC400S37/128G,Kingston,SSDNow KC400 128GB,429,81.9,587,https://ssd.userbenchmark.com/SpeedTest/78104/KINGSTON-SKC400S37128G
+SSD,CSSD-P256GBP-BK,Corsair,Performance Pro 256GB,430,81.9,267,https://ssd.userbenchmark.com/Corsair-Performance-Pro-256GB/Rating/45
+SSD,,Liteonit,LCS-512M6S 2.5 7mm 512GB,431,81.9,866,https://ssd.userbenchmark.com/SpeedTest/4103/LITEONIT-LCS-512M6S-25-7mm-512GB
+SSD,ASP550SS3-960GM-C,Adata,Premier SP550 960GB,432,81.6,859,https://ssd.userbenchmark.com/Adata-Premier-SP550-960GB/Rating/3625
+SSD,,Plextor,PX-256M6M 256GB,433,81.5,242,https://ssd.userbenchmark.com/SpeedTest/9887/PLEXTOR-PX-256M6M
+SSD,HDTS425XZSTA,Toshiba,Q300 Pro 256GB,434,81.4,1198,https://ssd.userbenchmark.com/SpeedTest/35467/TOSHIBA-Q300-Pro
+SSD,ASP610SS3-256GM-C,Adata,Premier SP610 256GB,435,81.4,1694,https://ssd.userbenchmark.com/Adata-Premier-SP610-256GB/Rating/3281
+SSD,CT500MX200SSD1,Crucial,MX200 500GB,436,81.4,11989,https://ssd.userbenchmark.com/Crucial-MX200-500GB/Rating/3504
+SSD,,Samsung,SM841 mSATA 256GB,437,81.4,832,https://ssd.userbenchmark.com/SpeedTest/4244/SAMSUNG-SSD-SM841-mSATA-256GB
+SSD,SD6SB2M-256G-1022I,SanDisk,X210 256GB,438,81.3,189,https://ssd.userbenchmark.com/SpeedTest/2244/SanDisk-SD6SB2M256G1022I
+SSD,ARC100-25SAT3-120G,OCZ,ARC 100 120GB,439,81.3,3342,https://ssd.userbenchmark.com/OCZ-ARC-100-120GB/Rating/3487
+SSD,,Toshiba,THNSNH512GCST 512GB,440,81.3,256,https://ssd.userbenchmark.com/SpeedTest/12185/TOSHIBA-THNSNH512GCST
+SSD,SHSS37A/480G,HyperX,Savage 480GB,441,81.3,149,https://ssd.userbenchmark.com/HyperX-Savage-480GB/Rating/3602
+SSD,CSSD-N240GBGTXB-BK,Corsair,Neutron GTX 240GB,442,81.2,2708,https://ssd.userbenchmark.com/Corsair-Neutron-GTX-240GB/Rating/1404
+SSD,MKNSSDE3240GB,Mushkin,ECO3 240GB,443,81.1,711,https://ssd.userbenchmark.com/SpeedTest/82991/MKNSSDE3240GB
+SSD,MKNSSDRE256GB,Mushkin,Reactor 256GB,444,81,818,https://ssd.userbenchmark.com/SpeedTest/30195/MKNSSDRE256GB
+SSD,HDTS312EZSTA,Toshiba,Q Series Pro 128GB,445,81,2257,https://ssd.userbenchmark.com/Toshiba-Q-Series-Pro-128GB/Rating/1943
+SSD,HDTS312XZSTA,Toshiba,Q Series Pro 128GB,445,81,2257,https://ssd.userbenchmark.com/Toshiba-Q-Series-Pro-128GB/Rating/1943
+SSD,HDTS412XZSTA,Toshiba,Q300 Pro 128GB,446,80.9,201,https://ssd.userbenchmark.com/SpeedTest/41261/TOSHIBA-Q300-Pro
+SSD,TS256GSSD370,Transcend,SSD370 256GB,447,80.9,4198,https://ssd.userbenchmark.com/Transcend-SSD370-256GB/Rating/2701
+SSD,ASP550SS3-480GM-C,Adata,Premier SP550 480GB,448,80.9,5816,https://ssd.userbenchmark.com/Adata-Premier-SP550-480GB/Rating/3624
+SSD,HDTS212EZSTA,Toshiba,HG5d Q Series 128GB,449,80.8,2042,https://ssd.userbenchmark.com/SpeedTest/2325/TOSHIBA-THNSNH128GBST
+SSD,HDTS212XZSTA,Toshiba,HG5d Q Series 128GB,449,80.8,2042,https://ssd.userbenchmark.com/SpeedTest/2325/TOSHIBA-THNSNH128GBST
+SSD,THNSNH128GBST,Toshiba,HG5d Q Series 128GB,449,80.8,2042,https://ssd.userbenchmark.com/SpeedTest/2325/TOSHIBA-THNSNH128GBST
+SSD,HDTS225EZSTA,Toshiba,HG5d Q Series 256GB,450,80.7,2154,https://ssd.userbenchmark.com/Toshiba-HG5d-Q-Series-256GB/Rating/1624
+SSD,HDTS225XZSTA,Toshiba,HG5d Q Series 256GB,450,80.7,2154,https://ssd.userbenchmark.com/Toshiba-HG5d-Q-Series-256GB/Rating/1624
+SSD,ASP920SS3-256GM-C,Adata,Premier Pro SP920 256GB,451,80.7,2485,https://ssd.userbenchmark.com/Adata-Premier-Pro-SP920-256GB/Rating/3454
+SSD,PX-128M5P,Plextor,M5 Pro 128GB,452,80.7,3867,https://ssd.userbenchmark.com/Plextor-M5-Pro-128GB/Rating/1893
+SSD,,Plextor,PX-256M3P 256GB,453,80.5,125,https://ssd.userbenchmark.com/SpeedTest/3332/PLEXTOR-PX-256M3P
+SSD,ASU635SS-960GQ-R,Adata,SU635 960GB,454,80.4,725,https://ssd.userbenchmark.com/SpeedTest/802076/ADATA-SU635
+SSD,SD7SB6S-256G-1122,SanDisk,X300 256GB,455,80.4,1772,https://ssd.userbenchmark.com/SpeedTest/19618/SanDisk-SD7SB6S256G1122
+SSD,CT275MX300SSD1,Crucial,MX300 275GB,456,80.4,55091,https://ssd.userbenchmark.com/Crucial-MX300-275GB/Rating/3642
+SSD,ASP920SS3-512GM-C,Adata,Premier Pro SP920 512GB,457,80.3,259,https://ssd.userbenchmark.com/SpeedTest/26813/ADATA-SP920SS
+SSD,SSD7SC240GOPT-RB,PNY,Optima 240GB,458,80.2,620,https://ssd.userbenchmark.com/SpeedTest/7567/SSD2SC240G1SA754D117-443
+SSD,SSD2SC240G1SA754D117,PNY,Optima 240GB,458,80.2,620,https://ssd.userbenchmark.com/SpeedTest/7567/SSD2SC240G1SA754D117-443
+SSD,SSDSC2KW010X6,Intel,540s Series 1TB,459,80.2,1342,https://ssd.userbenchmark.com/SpeedTest/123180/INTEL-SSDSC2KW010X6
+SSD,SDSSDHP-256G-G25,SanDisk,Ultra Plus 256GB,460,80.1,13448,https://ssd.userbenchmark.com/SanDisk-Ultra-Plus-256GB/Rating/1511
+SSD,CT275MX300SSD4,Crucial,MX300 SATA M.2 275GB,461,80,11580,https://ssd.userbenchmark.com/SpeedTest/159989/Crucial-CT275MX300SSD4
+SSD,,Samsung,SM841 2.5" 7mm 256GB,462,80,1985,https://ssd.userbenchmark.com/SpeedTest/4650/SAMSUNG-SSD-SM841-25--7mm-256GB
+SSD,TS256GMTS600,Transcend,MTS600 M.2 256GB,463,80,175,https://ssd.userbenchmark.com/SpeedTest/15991/TS256GMTS600
+SSD,SH103S3/240G,Kingston,HyperX 3K 240GB,464,80,21099,https://ssd.userbenchmark.com/Kingston-HyperX-3K-240GB/Rating/1818
+SSD,SSD7CS900-480-RB,PNY,CS900 480GB,465,80,9004,https://ssd.userbenchmark.com/SpeedTest/195106/PNY-CS900-480GB-SSD
+SSD,,Samsung,SM841 2.5" 7mm 512GB,466,79.9,461,https://ssd.userbenchmark.com/SpeedTest/6119/SAMSUNG-SSD-SM841-25--7mm-512GB
+SSD,TS256GMTS400,Transcend,MTS400 M.2 256GB,467,79.8,858,https://ssd.userbenchmark.com/SpeedTest/18101/TS256GMTS400
+SSD,CSSD-F240GBLEB,Corsair,Force LE 240GB,468,79.8,12424,https://ssd.userbenchmark.com/SpeedTest/42143/Corsair-Force-LE-SSD
+SSD,CSSD-F240GBGT-BK,Corsair,Force GT 240GB,469,79.8,2718,https://ssd.userbenchmark.com/SpeedTest/1132/Corsair-Force-GT
+SSD,,Adata,SP600 256GB,470,79.7,3525,https://ssd.userbenchmark.com/SpeedTest/8707/ADATA-SP600
+SSD,CT480BX200SSD1,Crucial,BX200 480GB,471,79.7,8327,https://ssd.userbenchmark.com/Crucial-BX200-480GB/Rating/3627
+SSD,SSDSC2CW240A3,Intel,520 Series 240GB,472,79.5,12108,https://ssd.userbenchmark.com/SpeedTest/3641/INTEL-SSDSC2CW240A3
+SSD,THNSNJ128GCSU,Toshiba,HG6 128GB,473,79.4,3006,https://ssd.userbenchmark.com/SpeedTest/12239/TOSHIBA-THNSNJ128GCSU
+SSD,TS256GMTS800,Transcend,MTS800 M.2 256GB,474,79.4,1793,https://ssd.userbenchmark.com/SpeedTest/20255/TS256GMTS800
+SSD,CSSD-N256GB3-BK,Corsair,Neutron 256GB,475,79.3,936,https://ssd.userbenchmark.com/SpeedTest/2557/Corsair-Neutron-SSD
+SSD,,Liteonit,LMT-256 256GB,476,79.2,156,https://ssd.userbenchmark.com/SpeedTest/6096/LITEONIT-LITEONIT-LMT-256
+SSD,SSD7CS1311-240-RB,PNY,CS1311 240GB,477,79.1,22431,https://ssd.userbenchmark.com/PNY-CS1311-240GB/Rating/3615
+SSD,TRN150-25SAT3-240G,OCZ,Trion 150 240GB,478,79.1,12360,https://ssd.userbenchmark.com/OCZ-Trion-150-240GB/Rating/3619
+SSD,SD6SB1M-256G-1022I,SanDisk,X110 256GB,479,79.1,4271,https://ssd.userbenchmark.com/SpeedTest/6828/SanDisk-SD6SB1M256G1022I
+SSD,CSSD-F240GBGS-BK,Corsair,Force GS 240GB,480,79.1,3556,https://ssd.userbenchmark.com/SpeedTest/2047/Corsair-Force-GS
+SSD,MTFDDAK480MBB,Micron,M500DC 480GB,481,79,140,https://ssd.userbenchmark.com/SpeedTest/21867/Micron-M500DC-MT
+SSD,SSDSC2BB300G4,Intel,S3500 Series 300GB,482,78.9,362,https://ssd.userbenchmark.com/SpeedTest/9352/INTEL-SSDSC2BB300G4
+SSD,SSDSC2CT240A4K5,Intel,335 Series 240GB,483,78.9,3563,https://ssd.userbenchmark.com/Intel-335-Series-240GB/Rating/1942
+SSD,WDS250G1B0B,WD,Blue SATA M.2 250GB,484,78.8,6163,https://ssd.userbenchmark.com/SpeedTest/190515/WDC-WDS250G1B0B-00AS40
+SSD,SD6SN1M-256G,SanDisk,X110 SATA M.2 256GB,485,78.7,1564,https://ssd.userbenchmark.com/SpeedTest/10522/SanDisk-SD6SN1M-256G-1006
+SSD,ASP550SS3-240GM-C,Adata,Premier SP550 240GB,486,78.6,23583,https://ssd.userbenchmark.com/Adata-Premier-SP550-240GB/Rating/3623
+SSD,,PNY,SSD2SC120G709A104-432278 120GB,487,78.6,98,https://ssd.userbenchmark.com/SpeedTest/7030/SSD2SC120G709A104-432278
+SSD,HDTS748XZSTA,Toshiba,Q300 480GB,488,78.5,3879,https://ssd.userbenchmark.com/SpeedTest/38603/TOSHIBA-Q300
+SSD,HDTS748EZSTA,Toshiba,Q300 480GB,488,78.5,3879,https://ssd.userbenchmark.com/SpeedTest/38603/TOSHIBA-Q300
+SSD,PX-256M5M,Plextor,M5M mSATA 256GB,489,78.5,378,https://ssd.userbenchmark.com/Plextor-M5M-mSATA-256GB/Rating/1626
+SSD,SDSSDHII-120G-G25,SanDisk,Ultra II 120GB,490,78.4,8153,https://ssd.userbenchmark.com/SanDisk-Ultra-II-120GB/Rating/3486
+SSD,PX-256M3,Plextor,M3 256GB,491,78.4,213,https://ssd.userbenchmark.com/SpeedTest/3752/PLEXTOR-PX-256M3
+SSD,ST240FP0021,Seagate,600 Pro 240GB,492,78.4,297,https://ssd.userbenchmark.com/SpeedTest/7447/ST240FP0021
+SSD,SD5SB2-512G,SanDisk,X100 512GB,493,78.3,63,https://ssd.userbenchmark.com/SpeedTest/21973/SanDisk-SD5SB2512G
+SSD,SSDSC2BW240H601,Intel,535 Series 240GB,494,78.3,6869,https://ssd.userbenchmark.com/Intel-535-Series-240GB/Rating/3500
+SSD,,Plextor,PX-128M5 128GB,495,78.3,167,https://ssd.userbenchmark.com/SpeedTest/4068/PLEXTOR-PX-128M5
+SSD,,Samsung,SM841 2.5" 7mm 128GB,496,78.2,3436,https://ssd.userbenchmark.com/SpeedTest/5663/SAMSUNG-SSD-SM841-25--7mm-128GB
+SSD,MKNSSDST240GB,Mushkin,Striker 240GB,497,78,98,https://ssd.userbenchmark.com/SpeedTest/36396/MKNSSDST240GB
+SSD,,Liteonit,LMT-256L9M-11 MSATA 256GB,498,78,1746,https://ssd.userbenchmark.com/SpeedTest/12690/LITEONIT-LMT-256L9M-11-MSATA-256GB
+SSD,ASU800SS-128GT-C,Adata,Ultimate SU800 128GB,499,78,21366,https://ssd.userbenchmark.com/Adata-Ultimate-SU800-128GB/Rating/3911
+SSD,CSSD-N240GB3-BK,Corsair,Neutron (v0) 240GB,500,77.9,318,https://ssd.userbenchmark.com/Corsair-Neutron-v0-240GB/Rating/1405
+SSD,,Geil,Zenith A3 240GB,501,77.8,60,https://ssd.userbenchmark.com/SpeedTest/22706/GeIL-ZENITH-A3-240GB
+SSD,SH100S3/240G,Kingston,HyperX 240GB,502,77.8,407,https://ssd.userbenchmark.com/Kingston-HyperX-240GB/Rating/1327
+SSD,SD7SB6S-128G-1122,SanDisk,X300 128GB,503,77.7,1721,https://ssd.userbenchmark.com/SpeedTest/20791/SanDisk-SD7SB6S128G1122
+SSD,,Liteonit,LMT-256M6M 256GB,504,77.5,476,https://ssd.userbenchmark.com/SpeedTest/5242/LITEONIT-LMT-256M6M
+SSD,SD8SB8U-256G-1122,SanDisk,X400 256GB,505,77.5,1476,https://ssd.userbenchmark.com/SpeedTest/81834/SanDisk-SD8SB8U256G1122
+SSD,,Toshiba,THNSNH128GCST 128GB,506,77.5,1463,https://ssd.userbenchmark.com/SpeedTest/5795/TOSHIBA-THNSNH128GCST
+SSD,,Plextor,PX-128M3P 128GB,507,77.4,202,https://ssd.userbenchmark.com/SpeedTest/3527/PLEXTOR-PX-128M3P
+SSD,ASP550SS3-120GM-C,Adata,Premier SP550 120GB,508,77.3,15847,https://ssd.userbenchmark.com/Adata-Premier-SP550-120GB/Rating/3622
+SSD,CSSD-N120GBGTXB-BK,Corsair,Neutron GTX 120GB,509,77.2,2114,https://ssd.userbenchmark.com/SpeedTest/1081/Corsair-Neutron-GTX-SSD
+SSD,SD7UB2Q-512G-1022,SanDisk,X300s SATA 512GB,510,77.2,60,https://ssd.userbenchmark.com/SpeedTest/16017/SanDisk-SD7UB2Q512G1122
+SSD,TS256GSSD340,Transcend,SSD340 256GB,511,77.2,1573,https://ssd.userbenchmark.com/SpeedTest/3495/TS256GSSD340
+SSD,,PNY,SSD2SC240GD4DH08B-T 240GB,512,77.1,99,https://ssd.userbenchmark.com/SpeedTest/7546/SSD2SC240GD4DH08B-T
+SSD,,Samsung,SM841 mSATA 128GB,513,77,750,https://ssd.userbenchmark.com/SpeedTest/6657/SAMSUNG-SSD-SM841-mSATA-128GB
+SSD,,Apple,SD0256F 251GB,514,77,249,https://ssd.userbenchmark.com/SpeedTest/6365/APPLE-SSD-SD0256F
+SSD,CT480M500SSD3,Crucial,M500 mSATA 480GB,515,77,342,https://ssd.userbenchmark.com/SpeedTest/5698/Crucial-CT480M500SSD3
+SSD,,Liteonit,LCS-128L9S-11 2.5 7mm 128GB,516,76.9,417,https://ssd.userbenchmark.com/SpeedTest/8908/LITEON-IT-LCS-128L9S-11-25-7mm-128GB
+SSD,THNSNJ128GMCU,Toshiba,HG6 mSATA 128GB,517,76.8,2431,https://ssd.userbenchmark.com/SpeedTest/10610/TOSHIBA-THNSNJ128GMCU
+SSD,,Liteonit,LCT-256M3S 2.5 7mm 256GB,518,76.8,1529,https://ssd.userbenchmark.com/SpeedTest/2666/LITEONIT-LCT-256M3S-25-7mm-256GB
+SSD,CT240BX200SSD1,Crucial,BX200 240GB,519,76.7,28083,https://ssd.userbenchmark.com/Crucial-BX200-240GB/Rating/3626
+SSD,TS256GMSA370,Transcend,MSA370 mSATA 256GB,520,76.7,174,https://ssd.userbenchmark.com/SpeedTest/16272/TS256GMSA370
+SSD,ASX900S3-256GM-C,Adata,XPG SX900 256GB,521,76.6,5294,https://ssd.userbenchmark.com/Adata-XPG-SX900-256GB/Rating/1819
+SSD,SSDSC2KW240H6,Intel,540s Series 240GB,522,76.6,6412,https://ssd.userbenchmark.com/SpeedTest/125849/INTEL-SSDSC2KW240H6
+SSD,SA400S37/480G,Kingston,A400 480GB,523,76.5,126918,https://ssd.userbenchmark.com/SpeedTest/296710/KINGSTON-SA400S37480G
+SSD,HDTS724XZSTA,Toshiba,Q300 240GB,524,76.5,3840,https://ssd.userbenchmark.com/SpeedTest/35974/TOSHIBA-Q300
+SSD,HDTS724EZSTA,Toshiba,Q300 240GB,524,76.5,3840,https://ssd.userbenchmark.com/SpeedTest/35974/TOSHIBA-Q300
+SSD,VTX3-25SAT3-240G,OCZ,Vertex 3 240GB,525,76.5,3170,https://ssd.userbenchmark.com/SpeedTest/2653/OCZ-VERTEX3
+SSD,SKC300S37A/240G,Kingston,SSDNow KC300 240GB,526,76.4,1516,https://ssd.userbenchmark.com/SpeedTest/8366/KINGSTON-SKC300S37A240G
+SSD,THNSNJ128G8NU,Toshiba,HG6 SATA M.2 128GB,527,76.3,5201,https://ssd.userbenchmark.com/SpeedTest/14053/TOSHIBA-THNSNJ128G8NU
+SSD,CT128MX100SSD1,Crucial,MX100 128GB,528,76.1,7967,https://ssd.userbenchmark.com/Crucial-MX100-128GB/Rating/2618
+SSD,,Patriot,Blast 240GB,529,76.1,3946,https://ssd.userbenchmark.com/SpeedTest/33423/Patriot-Blast
+SSD,,Samsung,MZNTE512HMJH-000SO 512GB,530,75.9,301,https://ssd.userbenchmark.com/SpeedTest/7215/SAMSUNG-MZNTE512HMJH-000SO
+SSD,SSDSC2BW240A4,Intel,530 Series 240GB,531,75.9,12314,https://ssd.userbenchmark.com/SpeedTest/3104/INTEL-SSDSC2BW240A4
+SSD,R3SL240G,AMD,Radeon R3 240GB,532,75.8,3512,https://ssd.userbenchmark.com/SpeedTest/134613/R3SL240G
+SSD,CT240M500SSD1,Crucial,M500 240GB,533,75.7,24871,https://ssd.userbenchmark.com/Crucial-M500-240GB/Rating/1551
+SSD,,Adata,SP600 128GB,534,75.7,5746,https://ssd.userbenchmark.com/SpeedTest/7306/ADATA-SP600
+SSD,CT120BX100SSD1,Crucial,BX100 120GB,535,75.7,4487,https://ssd.userbenchmark.com/Crucial-BX100-120GB/Rating/3489
+SSD,SSD7CS1311-120-RB,PNY,CS1311 120GB,536,75.7,10358,https://ssd.userbenchmark.com/PNY-CS1311-120GB/Rating/3614
+SSD,RVD3X2-FHPX4-240G,OCZ,RevoDrive 3 X2 PCIe 240GB,537,75.6,883,https://ssd.userbenchmark.com/SpeedTest/6546/OCZ-REVODRIVE3-X2
+SSD,SD7SB3Q-128G-1002,SanDisk,X300s Non-Secure 128GB,538,75.5,1288,https://ssd.userbenchmark.com/SpeedTest/21087/SanDisk-SD7SB3Q128G1002
+SSD,SDSSDX-240G-G25,SanDisk,Extreme 240GB,539,75.5,5658,https://ssd.userbenchmark.com/SanDisk-Extreme-240GB/Rating/1328
+SSD,SSDSC2BB240G4,Intel,S3500 Series 240GB,540,75.4,517,https://ssd.userbenchmark.com/SpeedTest/14275/INTEL-SSDSC2BB240G4
+SSD,,Toshiba,THNSNS120GBSP 120GB,541,75.4,83,https://ssd.userbenchmark.com/SpeedTest/7190/TOSHIBA-THNSNS120GBSP
+SSD,TRN150-25SAT3-120G,OCZ,Trion 150 120GB,542,75.3,2901,https://ssd.userbenchmark.com/OCZ-Trion-150-120GB/Rating/3618
+SSD,VTX3MI-25SAT3-240G,OCZ,Vertex 3 MAX IOPS 240GB,543,75.2,1195,https://ssd.userbenchmark.com/OCZ-Vertex-3-MAX-IOPS-240GB/Rating/376
+SSD,,Liteonit,LCM-256M3S 256GB,544,75.2,681,https://ssd.userbenchmark.com/SpeedTest/5988/LITEONIT-LCM-256M3S
+SSD,VTX450-25SAT3-128G,OCZ,Vertex 450 128GB,545,75.2,940,https://ssd.userbenchmark.com/OCZ-Vertex-450-128GB/Rating/1896
+SSD,,Liteonit,LMT-128L9M-11 MSATA 128GB,546,75.1,456,https://ssd.userbenchmark.com/SpeedTest/12669/LITEONIT-LMT-128L9M-11-MSATA-128GB
+SSD,SSDSC2KW128G8,Intel,545s Series 128GB,547,75.1,2121,https://ssd.userbenchmark.com/SpeedTest/372338/INTEL-SSDSC2KW128G8
+SSD,SDSSDHP-128G-G25,SanDisk,Ultra Plus 128GB,548,75,12236,https://ssd.userbenchmark.com/SanDisk-Ultra-Plus-128GB/Rating/1887
+SSD,PPSE240GS25SSDR,Patriot,Pyro SE 240GB,549,75,44,https://ssd.userbenchmark.com/SpeedTest/15337/Patriot-Pyro-SE
+SSD,,Liteonit,LAT-256M3S 256GB,550,74.9,487,https://ssd.userbenchmark.com/SpeedTest/9087/LITEONIT-LAT-256M3S
+SSD,,Samsung,SM841N mSATA 256GB,551,74.8,452,https://ssd.userbenchmark.com/SpeedTest/17959/SAMSUNG-SSD-SM841N-mSATA
+SSD,SD5SB2-128G-1006E,SanDisk,X100 128GB,552,74.8,1444,https://ssd.userbenchmark.com/SpeedTest/3767/SanDisk-SD5SB2-128G-1006E
+SSD,CSSD-P128GBP-BK,Corsair,Performance Pro 128GB,553,74.7,238,https://ssd.userbenchmark.com/SpeedTest/5273/Corsair-Performance-Pro
+SSD,VTX3-25SAT3-256G,OCZ,Vertex 3 256GB,554,74.7,57,https://ssd.userbenchmark.com/SpeedTest/5486/OCZ-VERTEX3
+SSD,,Samsung,MZ7TE512HMHP-000 512GB,555,74.7,2453,https://ssd.userbenchmark.com/SpeedTest/10608/SAMSUNG-MZ7TE512HMHP-000
+SSD,SD7SN3Q-256G-1002,SanDisk,X300s SATA M.2 256GB,556,74.6,637,https://ssd.userbenchmark.com/SpeedTest/25276/SanDisk-SD7SN3Q256G1002
+SSD,PX-128M5M,Plextor,M5M mSATA 128GB,557,74.6,525,https://ssd.userbenchmark.com/SpeedTest/5214/PLEXTOR-PX-128M5M
+SSD,ASP900S3-256GM-C,Adata,SP900 256GB,558,74.5,6091,https://ssd.userbenchmark.com/SpeedTest/3534/ADATA-SP900
+SSD,PX-128M6V,Plextor,M6V 128GB,559,74.5,329,https://ssd.userbenchmark.com/SpeedTest/31385/PLEXTOR-PX-128M6V
+SSD,MKNSSDCR240GB-DX,Mushkin,Chronos Deluxe 240GB,560,74.4,1398,https://ssd.userbenchmark.com/Mushkin-Chronos-Deluxe-240GB/Rating/1820
+SSD,SSDSC2CT240A3,Intel,330 Series 240GB,561,74.3,1446,https://ssd.userbenchmark.com/SpeedTest/3643/INTEL-SSDSC2CT240A3
+SSD,ST120HM000,Seagate,600 120GB,562,74.2,561,https://ssd.userbenchmark.com/Seagate-600-120GB/Rating/1891
+SSD,MKNSSDTR240GB,Mushkin,Triactor 240GB,563,74,386,https://ssd.userbenchmark.com/SpeedTest/76610/MKNSSDTR240GB
+SSD,,SK,hynix SH920 2.5 256GB,564,74,1772,https://ssd.userbenchmark.com/SpeedTest/6594/SK--hynix-SH920-25
+SSD,TS256GSSD720,Transcend,SD720 256GB,565,74,264,https://ssd.userbenchmark.com/SpeedTest/11778/TS256GSS-TS256GSSD720
+SSD,SSD7CS900-240-RB,PNY,CS900 240GB,566,73.8,31423,https://ssd.userbenchmark.com/SpeedTest/180142/PNY-CS900-240GB-SSD
+SSD,SD6SB1M-128G-1022I,SanDisk,X110 128GB,567,73.7,8895,https://ssd.userbenchmark.com/SpeedTest/8226/SanDisk-SD6SB1M128G1022I
+SSD,SD7UB3Q-128G-1122,SanDisk,X300s SATA 128GB,568,73.7,154,https://ssd.userbenchmark.com/SpeedTest/17035/SanDisk-SD7UB3Q128G1122
+SSD,SUV400S37/480G,Kingston,SSDNow UV400 480GB,569,73.6,19612,https://ssd.userbenchmark.com/SpeedTest/138433/KINGSTON-SUV400S37480G
+SSD,SSDSC2CW120A3,Intel,520 Series 120GB,570,73.6,16415,https://ssd.userbenchmark.com/Intel-520-Series-120GB/Rating/1935
+SSD,,Liteonit,LCT-256M3S-41 7mm 256GB FDE,571,73.5,248,https://ssd.userbenchmark.com/SpeedTest/5825/LITEONIT-LCT-256M3S-41-7mm-256GB-FDE
+SSD,CSSD-F128GBGS-BK,Corsair,Force GS 128GB,572,73.5,5398,https://ssd.userbenchmark.com/SpeedTest/3191/Corsair-Force-GS
+SSD,TS256GSSD320,Transcend,SSD320 256GB,573,73.5,98,https://ssd.userbenchmark.com/SpeedTest/3357/TS256GSSD320
+SSD,THNSNH128GMCT,Toshiba,HG5d Q Series mSATA 128GB,574,73.5,954,https://ssd.userbenchmark.com/SpeedTest/3134/TOSHIBA-THNSNH128GMCT
+SSD,SH103S3/120G,Kingston,HyperX 3K 120GB,575,73.5,39555,https://ssd.userbenchmark.com/Kingston-HyperX-3K-120GB/Rating/1894
+SSD,,Liteonit,L8T-128L6G-HP 128GB,576,73.5,357,https://ssd.userbenchmark.com/SpeedTest/4986/LITEONIT-L8T-128L6G-HP
+SSD,,Geil,Zenith S3 240GB,577,73.3,69,https://ssd.userbenchmark.com/SpeedTest/15208/GeIL-ZENITH-S3-240GB
+SSD,AS511S3-240GM-C,Adata,S511 240GB,578,73.2,53,https://ssd.userbenchmark.com/SpeedTest/2462/ADATA-SS-D-S511-240GB
+SSD,THNSNJ256GMCU,Toshiba,HG6 mSATA 256GB,579,73.2,1306,https://ssd.userbenchmark.com/SpeedTest/10622/TOSHIBA-THNSNJ256GMCU
+SSD,,Samsung,PM810 2.5" 7mm 256GB,580,73.1,8,https://ssd.userbenchmark.com/SpeedTest/1708/SAMSUNG-SSD-PM810-25--7mm-256GB
+SSD,PX-128M3,Plextor,M3 128GB,581,73,663,https://ssd.userbenchmark.com/SpeedTest/1301/PLEXTOR-PX-128M3
+SSD,SSDSC2BF240A4L,Intel,SSD Pro 1500 Series 240GB,582,73,3406,https://ssd.userbenchmark.com/SpeedTest/6255/INTEL-SS-DSC2BF240A4L
+SSD,SSDSC2BF240A401,Intel,SSD Pro 1500 Series 240GB,582,73,3406,https://ssd.userbenchmark.com/SpeedTest/6255/INTEL-SS-DSC2BF240A4L
+SSD,GP-GSTFS31240GNTD,Gigabyte,SSD 240GB,583,73,13223,https://ssd.userbenchmark.com/SpeedTest/554572/GIGABYTE-GP-GSTFS31240GNTD
+SSD,CSSD-F180GBGS-BK,Corsair,Force GS 180GB,584,73,489,https://ssd.userbenchmark.com/SpeedTest/1010/Corsair-Force-GS
+SSD,SSD2SC240GE2DA16B-T,PNY,XLR8 Pro 240GB,585,73,54,https://ssd.userbenchmark.com/SpeedTest/19864/SSD2SC240GE2DA16B-T
+SSD,R3SL120G,AMD,Radeon R3 120GB,586,72.9,2627,https://ssd.userbenchmark.com/SpeedTest/124132/R3SL120G
+SSD,SD6SF1M-256G-1022,SanDisk,X110 mSATA 256GB,587,72.7,269,https://ssd.userbenchmark.com/SpeedTest/10872/SanDisk-SD6SF1M256G1022
+SSD,SD6SN1M-128G,SanDisk,X110 SATA M.2 128GB,588,72.6,570,https://ssd.userbenchmark.com/SpeedTest/9934/SanDisk-SD6SN1M128G1002
+SSD,SSDSC2BW120H601,Intel,535 Series 120GB,589,72.5,5333,https://ssd.userbenchmark.com/SpeedTest/28259/INTEL-SSDSC2BW120H6
+SSD,,Liteonit,LMT-128M6M mSATA 128GB,590,72.4,1317,https://ssd.userbenchmark.com/SpeedTest/5385/LITEONIT-LMT-128M6M-mSATA-128GB
+SSD,,Samsung,SM841N mSATA 512GB,591,72.4,320,https://ssd.userbenchmark.com/SpeedTest/11367/SAMSUNG-SSD-SM841N-mSATA
+SSD,,Samsung,SM841N mSATA 128GB,592,72.3,73,https://ssd.userbenchmark.com/SpeedTest/13601/SAMSUNG-SSD-SM841N-mSATA
+SSD,SSDSC2CT180A4K5,Intel,335 Series 180GB,593,72.3,2284,https://ssd.userbenchmark.com/SpeedTest/1641/INTEL-SSDSC2CT180A4
+SSD,SSDMCEAC240B301,Intel,525 Series mSATA 240GB,594,72.3,109,https://ssd.userbenchmark.com/Intel-525-Series-mSATA-240GB/Rating/1509
+SSD,SD8SB8U-128G-1122,SanDisk,X400 128GB,595,72.3,746,https://ssd.userbenchmark.com/SpeedTest/68942/SanDisk-SD8SB8U128G1122
+SSD,R3SL480G,AMD,Radeon R3 480GB,596,72.2,439,https://ssd.userbenchmark.com/SpeedTest/134345/R3SL480G
+SSD,PX-128M5S,Plextor,M5S 128GB,597,72.2,4968,https://ssd.userbenchmark.com/Plextor-M5S-128GB/Rating/2261
+SSD,CT960BX500SSD1,Crucial,BX500 960GB,598,72.2,7186,https://ssd.userbenchmark.com/SpeedTest/666214/CT960BX500SSD1
+SSD,VTX3MI-25SAT3-120G,OCZ,Vertex 3 MAX IOPS 120GB,599,72.2,2674,https://ssd.userbenchmark.com/SpeedTest/1201/OCZ-VERTEX3-MI
+SSD,TS240GSSD220S,Transcend,SSD220 240GB,600,72.2,9821,https://ssd.userbenchmark.com/SpeedTest/129705/TS240GSSD220S
+SSD,,Plextor,PX-128M2P 128GB,601,72.1,66,https://ssd.userbenchmark.com/SpeedTest/6634/PLEXTOR--PX-128M2P
+SSD,CSSD-F180GBGT-BK,Corsair,Force GT 180GB,602,72.1,757,https://ssd.userbenchmark.com/SpeedTest/1126/Corsair-Force-GT
+SSD,,SK,hynix SH920 2.5 128GB,603,72.1,568,https://ssd.userbenchmark.com/SpeedTest/12032/SK--hynix-SH920-25
+SSD,,Toshiba,THNSNH256G8NT 256GB,604,72,286,https://ssd.userbenchmark.com/SpeedTest/12184/TOSHIBA-THNSNH256G8NT
+SSD,SKC300S37A/120G,Kingston,SSDNow KC300 120GB,605,71.9,1836,https://ssd.userbenchmark.com/Kingston-SSDNow-KC300-120GB/Rating/2264
+SSD,,Team,XS3 SSD 240GB,606,71.9,20,https://ssd.userbenchmark.com/SpeedTest/8108/TEAM-XS3-SSD
+SSD,,Liteonit,LMT-256M6M mSATA 256GB,607,71.8,2857,https://ssd.userbenchmark.com/SpeedTest/2486/LITEONIT-LMT-256M6M-mSATA-256GB
+SSD,SVP200S37A120G,Kingston,SSDNow V+200 Series 120GB,608,71.8,515,https://ssd.userbenchmark.com/SpeedTest/1218/KINGSTON-SVP200S3120G
+SSD,,Samsung,SM841 mSATA 512GB,609,71.8,476,https://ssd.userbenchmark.com/SpeedTest/4000/SAMSUNG-SSD-SM841-mSATA-512GB
+SSD,CSSD-F128GBLX,Corsair,Force LX 128GB,610,71.7,1650,https://ssd.userbenchmark.com/SpeedTest/12531/CORSAIR-FORCE-LX-SSD
+SSD,MZ-7PC512B/WW,Samsung,830 512GB,611,71.7,1390,https://ssd.userbenchmark.com/SpeedTest/1612/SAMSUNG-SSD-830-Series
+SSD,SUV400S37/240G,Kingston,SSDNow UV400 240GB,612,71.7,86772,https://ssd.userbenchmark.com/SpeedTest/137815/KINGSTON-SUV400S37240G
+SSD,SD6SP1M-128G-1012,SanDisk,X110 SATA M.2 128GB,613,71.7,1220,https://ssd.userbenchmark.com/SpeedTest/20731/SanDisk-SD6SP1M128G1012
+SSD,SD8SBAT-256G-1122,SanDisk,Z400s 256GB,614,71.7,8541,https://ssd.userbenchmark.com/SpeedTest/34116/SanDisk-SD8SBAT256G1122
+SSD,,Liteonit,LMT-19nmBGA-256G-DS 256GB,615,71.7,60,https://ssd.userbenchmark.com/SpeedTest/4373/LITEONIT-LMT-19nmBGA-256G-DS
+SSD,,,INTENSO 256GB,616,71.6,2417,https://ssd.userbenchmark.com/SpeedTest/6851/INTENSO
+SSD,MZ-7PC256B/WW,Samsung,830 256GB,617,71.6,20313,https://ssd.userbenchmark.com/Samsung-830-256GB/Rating/1387
+SSD,,Samsung,MZMTE512HMHP-00000 512GB,618,71.4,303,https://ssd.userbenchmark.com/SpeedTest/5246/SAMSUNG-MZMTE512HMHP-00000
+SSD,THNSNH256GMCT,Toshiba,HG5d Q Series mSATA 256GB,619,71.4,1037,https://ssd.userbenchmark.com/SpeedTest/5507/TOSHIBA-THNSNH256GMCT
+SSD,ASP610SS3-128GM-C,Adata,Premier SP610 128GB,620,71.2,675,https://ssd.userbenchmark.com/SpeedTest/13709/ADATA-SP610
+SSD,,Liteonit,LMT-256M6M-HP 256GB,621,71.1,282,https://ssd.userbenchmark.com/SpeedTest/7110/LITEONIT-LMT-256M6M-HP
+SSD,GP-GSTFS31120GNTD,Gigabyte,SSD 120GB,622,71.1,8992,https://ssd.userbenchmark.com/SpeedTest/547719/GIGABYTE-GP-GSTFS31120GNTD
+SSD,AGT4-25SAT3-256G,OCZ,Agility 4 256GB,623,71,1148,https://ssd.userbenchmark.com/OCZ-Agility-4-256GB/Rating/1606
+SSD,MKNSSDEC240GB,Mushkin,ECO2 240GB,624,71,265,https://ssd.userbenchmark.com/SpeedTest/24676/MKNSSDEC240GB
+SSD,SSDSC2BW180H601,Intel,535 Series 180GB,625,71,382,https://ssd.userbenchmark.com/SpeedTest/27834/INTEL-SSDSC2BW180H6
+SSD,SSDSC2CW180A3,Intel,520 Series 180GB,626,71,11805,https://ssd.userbenchmark.com/SpeedTest/4086/INTEL-SSDSC2CW180A3
+SSD,ASU635SS-480GQ-R,Adata,SU635 480GB,627,70.9,2997,https://ssd.userbenchmark.com/SpeedTest/764320/ADATA-SU635
+SSD,SSDSC2BW180A4,Intel,530 Series 180GB,628,70.7,2752,https://ssd.userbenchmark.com/SpeedTest/4282/INTEL-SSDSC2BW180A4
+SSD,TS128GMTS800,Transcend,MTS800 M.2 128GB,629,70.7,4092,https://ssd.userbenchmark.com/SpeedTest/22385/TS128GMTS800
+SSD,2DP99AA#ABC,HP,S700 500GB,630,70.7,7652,https://ssd.userbenchmark.com/SpeedTest/337629/HP-SSD-S700-500GB
+SSD,TS128GSSD370,Transcend,SSD370 128GB,631,70.6,3517,https://ssd.userbenchmark.com/Transcend-SSD370-128GB/Rating/2699
+SSD,TRN100-25SAT3-960G,OCZ,Trion 100 960GB,632,70.6,881,https://ssd.userbenchmark.com/SpeedTest/34219/OCZ-TRION100
+SSD,MKNSSDCR240GB,Mushkin,Chronos 240GB,633,70.5,529,https://ssd.userbenchmark.com/Mushkin-Chronos-240GB/Rating/1622
+SSD,,Liteonit,LCT-512M3S 512GB,634,70.3,130,https://ssd.userbenchmark.com/SpeedTest/5388/LITEONIT-LCT-512M3S
+SSD,SHFS37A/240G,HyperX,Fury 240GB,635,70.1,23389,https://ssd.userbenchmark.com/SpeedTest/13145/KINGSTON-SHFS37A240G
+SSD,CSSD-N128GB3-BK,Corsair,Neutron 128GB,636,70.1,546,https://ssd.userbenchmark.com/SpeedTest/5914/Corsair-Neutron-SSD
+SSD,,SanDisk,mSATA SD5SE2256G1002E 256GB,637,70,757,https://ssd.userbenchmark.com/SpeedTest/3945/SanDisk-SD5SE2256G1002E
+SSD,SD6SF1M-128G-1022,SanDisk,X110 mSATA 128GB,638,70,967,https://ssd.userbenchmark.com/SanDisk-X110-mSATA-128GB/Rating/2213
+SSD,HDTS712XZSTA,Toshiba,Q300 120GB,639,70,1569,https://ssd.userbenchmark.com/SpeedTest/35283/TOSHIBA-Q300
+SSD,HDTS712EZSTA,Toshiba,Q300 120GB,639,70,1569,https://ssd.userbenchmark.com/SpeedTest/35283/TOSHIBA-Q300
+SSD,,Samsung,MZFLV128 NVMe PCIe M.2 128GB,640,69.9,1847,https://ssd.userbenchmark.com/SpeedTest/36806/NVMe-SAMSUNG-MZFLV128
+SSD,SD7SN3Q-128G-1002,SanDisk,X300s SATA M.2 128GB,641,69.8,555,https://ssd.userbenchmark.com/SpeedTest/25335/SanDisk-SD7SN3Q-128G-1006
+SSD,SD6SP1M-256G-1012,SanDisk,X110 SATA M.2 256GB,642,69.7,311,https://ssd.userbenchmark.com/SpeedTest/8660/SanDisk-SD6SP1M256G1012
+SSD,CT240M500SSD3,Crucial,M500 mSATA 240GB,643,69.6,1064,https://ssd.userbenchmark.com/SpeedTest/4823/Crucial--CT240M500SSD3
+SSD,,Liteonit,LMT-128M6M 128GB,644,69.5,603,https://ssd.userbenchmark.com/SpeedTest/4933/LITEONIT-LMT-128M6M
+SSD,SVP200S3/240G,Kingston,SSDNow V+200 240GB,645,69.5,481,https://ssd.userbenchmark.com/Kingston-SSDNow-V-200-240GB/Rating/1445
+SSD,,Toshiba,THNSNF128GCSS 128GB,646,69.5,1181,https://ssd.userbenchmark.com/SpeedTest/5540/TOSHIBA-THNSNF128GCSS
+SSD,SSD7SC120GOPT-RB,PNY,Optima 120GB,647,69.4,144,https://ssd.userbenchmark.com/SpeedTest/15456/SSD2SC120G1SA754D117-443
+SSD,SSD2SC120G1SA754D117,PNY,Optima 120GB,647,69.4,144,https://ssd.userbenchmark.com/SpeedTest/15456/SSD2SC120G1SA754D117-443
+SSD,,Team,L3 SSD 240GB,648,69.2,377,https://ssd.userbenchmark.com/SpeedTest/6481/TEAM-L3-SSD-240GB
+SSD,VTX4-25SAT3-64G,OCZ,Vertex 4 64GB,649,69.2,474,https://ssd.userbenchmark.com/SpeedTest/1650/OCZ-VERT-OCZ-VERTEX4
+SSD,SSDSC2KW120H6,Intel,540s Series 120GB,650,69.1,2697,https://ssd.userbenchmark.com/SpeedTest/127931/INTEL-SSDSC2KW120H6
+SSD,CSSD-F120GBGT-BK,Corsair,Force GT 120GB,651,69.1,10463,https://ssd.userbenchmark.com/SpeedTest/1263/Corsair-Force-GT
+SSD,TRN100-25SAT3-480G,OCZ,Trion 100 480GB,652,69.1,1244,https://ssd.userbenchmark.com/SpeedTest/32318/OCZ-TRION100
+SSD,SSDSC2CT180A3,Intel,330 Series 180GB,653,69,4338,https://ssd.userbenchmark.com/SpeedTest/261/INTEL-SSDSC2CT180A3
+SSD,,OCZ,AGILITY4 128GB,654,69,766,https://ssd.userbenchmark.com/SpeedTest/557/OCZ-AGILITY4
+SSD,,PNY,SSD2SC240G3LC726B104-327 240GB,655,68.8,92,https://ssd.userbenchmark.com/SpeedTest/5640/SSD2SC240G3LC726B104-327
+SSD,,Geil,Zenith A3 120GB,656,68.8,88,https://ssd.userbenchmark.com/SpeedTest/16792/GeIL-ZENITH-A3-120GB
+SSD,SKC300S37A/180G,Kingston,SSDNow KC300 180GB,657,68.8,386,https://ssd.userbenchmark.com/SpeedTest/5528/KINGSTON-SKC300S37A180G
+SSD,,SK,hynix SH920 mSATA 256GB,658,68.7,678,https://ssd.userbenchmark.com/SpeedTest/5328/SK-hynix-SH920-mSATA-256GB
+SSD,SSDSC2BF180A4L,Intel,SSD Pro 1500 Series 180GB,659,68.6,7093,https://ssd.userbenchmark.com/SpeedTest/2904/INTEL-SSDSC2BF180A4L
+SSD,SSDSC2BF180A401,Intel,SSD Pro 1500 Series 180GB,659,68.6,7093,https://ssd.userbenchmark.com/SpeedTest/2904/INTEL-SSDSC2BF180A4L
+SSD,VTX3-25SAT3-120G,OCZ,Vertex 3 120GB,660,68.6,20363,https://ssd.userbenchmark.com/OCZ-Vertex-3-120GB/Rating/1927
+SSD,SSD7CS900-120-RB,PNY,CS900 120GB,661,68.6,32716,https://ssd.userbenchmark.com/SpeedTest/175702/PNY-CS900-120GB-SSD
+SSD,ASX900S3-128GM-C,Adata,XPG SX900 128GB,662,68.5,5439,https://ssd.userbenchmark.com/Adata-XPG-SX900-128GB/Rating/3491
+SSD,SDSSDHP-064-G25,SanDisk,Ultra Plus 64GB,663,68.4,900,https://ssd.userbenchmark.com/SpeedTest/6401/SanDisk-SDSSDHP064G
+SSD,ASU635SS-240GQ-R,Adata,SU635 240GB,664,68.4,7182,https://ssd.userbenchmark.com/SpeedTest/722603/ADATA-SU635
+SSD,,Liteonit,LMT-19nmBGA-128G 128GB,665,68.2,333,https://ssd.userbenchmark.com/SpeedTest/4185/LITEONIT-LMT-19nmBGA-128G
+SSD,HG5D,Toshiba,HG5d SATA M.2 128GB,666,68.2,359,https://ssd.userbenchmark.com/SpeedTest/6450/TOSHIBA-THNSNH128G8NT
+SSD,THNSNH128G8NT,Toshiba,HG5d SATA M.2 128GB,666,68.2,359,https://ssd.userbenchmark.com/SpeedTest/6450/TOSHIBA-THNSNH128G8NT
+SSD,,Samsung,PM851 mSATA 512GB,667,68.1,780,https://ssd.userbenchmark.com/SpeedTest/8717/SAMSUNG-SSD-PM851-mSATA-512GB
+SSD,,Samsung,PM830 512GB,668,68,494,https://ssd.userbenchmark.com/SpeedTest/2045/SAMSUNG-SSD-PM830-25--7
+SSD,ASP920SS3-128GM-C,Adata,Premier Pro SP920 128GB,669,68,2394,https://ssd.userbenchmark.com/SpeedTest/10618/ADATA-SP920SS
+SSD,MZ-7TD250BW,Samsung,840 250GB,670,68,33374,https://ssd.userbenchmark.com/Samsung-840-250GB/Rating/1510
+SSD,,Liteonit,LCT-128M3S 128GB,671,67.8,1638,https://ssd.userbenchmark.com/SpeedTest/4678/LITEONIT-LCT-128M3S
+SSD,TS128GSSD340,Transcend,SSD340 128GB,672,67.7,1733,https://ssd.userbenchmark.com/SpeedTest/5472/TS128GSSD340
+SSD,SDSSDX-120G-G25,SanDisk,Extreme 120GB,673,67.6,8000,https://ssd.userbenchmark.com/SpeedTest/1102/SanDisk-SDSSDX120GG25
+SSD,SSDSC2CT120A3,Intel,330 Series 120GB,674,67.5,9690,https://ssd.userbenchmark.com/Intel-330-Series-120GB/Rating/1933
+SSD,SMS200S3/120G,Kingston,SSDNow mS200 mSATA 120GB,675,67.5,725,https://ssd.userbenchmark.com/SpeedTest/536/KINGSTON-SMS200S3120G
+SSD,,PNY,SSD2SC240G5LC726B104-298 240GB,676,67.5,139,https://ssd.userbenchmark.com/SpeedTest/10419/SSD2SC240G5LC726B104-298
+SSD,SSDSC2BW120A401,Intel,530 Series 120GB,677,67.4,9493,https://ssd.userbenchmark.com/Intel-530-Series-120GB/Rating/1934
+SSD,SH100S3/120G,Kingston,HyperX 120GB,678,67.4,2849,https://ssd.userbenchmark.com/SpeedTest/1716/KINGSTON-SH100S3120G
+SSD,TRN100-25SAT3-240G,OCZ,Trion 100 240GB,679,67.3,7919,https://ssd.userbenchmark.com/OCZ-Trion-100-240GB/Rating/3501
+SSD,CSSD-F240GBLS,Corsair,Force LS 240GB,680,67.2,3667,https://ssd.userbenchmark.com/Corsair-Force-LS-240GB/Rating/3340
+SSD,SSDMCEAC180B301,Intel,525 Series mSATA 180GB,681,67.2,47,https://ssd.userbenchmark.com/SpeedTest/14110/INTEL-SSDMCEAC180B3
+SSD,2DP98AA#ABC,HP,S700 250GB,682,67.2,5712,https://ssd.userbenchmark.com/SpeedTest/332066/HP-SSD-S700-250GB
+SSD,SUV400S37/120G,Kingston,SSDNow UV400 120GB,683,67.1,60999,https://ssd.userbenchmark.com/SpeedTest/137022/KINGSTON-SUV400S37120G
+SSD,AS511S3-120GM-C,Adata,S511 120GB,684,67.1,562,https://ssd.userbenchmark.com/SpeedTest/4509/ADATA-SSD-S511-120GB
+SSD,CT480BX500SSD1,Crucial,BX500 480GB,685,67,41921,https://ssd.userbenchmark.com/SpeedTest/579817/CT480BX500SSD1
+SSD,,Adata,S510 120GB,686,67,508,https://ssd.userbenchmark.com/SpeedTest/1908/ADATA-SSD-S510-120GB
+SSD,,,HFS128G3AMNB-2200A 128GB,687,67,1539,https://ssd.userbenchmark.com/SpeedTest/5987/HFS128G3AMNB-2200A
+SSD,PW120GS25SSDR,Patriot,Wildfire 120GB,688,67,247,https://ssd.userbenchmark.com/Patriot-Wildfire-120GB/Rating/2235
+SSD,MZ7PC256HAFU,Samsung,PM830 256GB,689,66.9,1538,https://ssd.userbenchmark.com/SpeedTest/5924/SAMSUNG-MZ7PC256HAFU-000H1
+SSD,ASU650SS-240GT-C,Adata,SU650 240GB,690,66.8,34413,https://ssd.userbenchmark.com/SpeedTest/351933/ADATA-SU650
+SSD,CT512M4SSD2,Crucial,M4 512GB,691,66.8,3551,https://ssd.userbenchmark.com/SpeedTest/144/M4-CT512M4SSD2
+SSD,,OCZ,AGILITY4 512GB,692,66.6,131,https://ssd.userbenchmark.com/SpeedTest/11959/OCZ-AGILITY4
+SSD,ASU650SS-480GT-C,Adata,SU650 480GB,693,66.6,12150,https://ssd.userbenchmark.com/SpeedTest/434166/ADATA-SU650
+SSD,SVP200S37A60G,Kingston,SSDNow V+200 Series 60GB,694,66.5,164,https://ssd.userbenchmark.com/SpeedTest/10560/KINGSTON-SVP200S37A60G
+SSD,SD6SB1M-064G,SanDisk,X110 64GB,695,66.5,579,https://ssd.userbenchmark.com/SpeedTest/8361/SanDisk-SD6SB1M064G
+SSD,MKNSSDCR120GB-DX,Mushkin,Chronos Deluxe 120GB,696,66.3,317,https://ssd.userbenchmark.com/SpeedTest/4583/MKNSSDCR120GB-DX
+SSD,SSDSC2BF240A5L,Intel,SSD Pro 2500 Series 240GB,697,66.2,1752,https://ssd.userbenchmark.com/SpeedTest/21454/INTEL-SSDSC2BF240A5L
+SSD,SSDSC2BF240H501,Intel,SSD Pro 2500 Series 240GB,697,66.2,1752,https://ssd.userbenchmark.com/SpeedTest/21454/INTEL-SSDSC2BF240A5L
+SSD,SA400S37/240G,Kingston,A400 240GB,698,66.1,251697,https://ssd.userbenchmark.com/Kingston-A400-240GB/Rating/3953
+SSD,TS128GMTS400,Transcend,MTS400 M.2 128GB,699,66.1,576,https://ssd.userbenchmark.com/SpeedTest/12551/TS128GMTS400
+SSD,RVD3-FHPX4-240G,OCZ,RevoDrive 3 PCIe 240GB,700,66,287,https://ssd.userbenchmark.com/SpeedTest/1346/OCZ-REVODRIVE3
+SSD,,Apple,SM256E 251GB,701,66,640,https://ssd.userbenchmark.com/SpeedTest/1438/APPLE-SSD-SM256E
+SSD,OCZSSDPX-1RVD0240,OCZ,RevoDrive PCIe 240GB,702,65.7,99,https://ssd.userbenchmark.com/SpeedTest/3328/OCZ-REVODRIV
+SSD,,Samsung,PM851 mSATA 256GB,703,65.7,4370,https://ssd.userbenchmark.com/SpeedTest/8695/SAMSUNG-SSD-PM851-mSATA-256GB
+SSD,SKC300S37A/60G,Kingston,SSDNow KC300 60GB,704,65.6,547,https://ssd.userbenchmark.com/SpeedTest/8566/KINGSTON-SKC300S37A60G
+SSD,,Geil,Zenith S3 120GB,705,65.4,194,https://ssd.userbenchmark.com/SpeedTest/18730/GeIL-ZENITH-S3-120GB
+SSD,SD5SF2-128G,SanDisk,X100 mSATA 128GB,706,65.4,158,https://ssd.userbenchmark.com/SpeedTest/7539/SanDisk-SD5SF2128G
+SSD,,Apple,SM512E 500GB,707,65.4,437,https://ssd.userbenchmark.com/SpeedTest/2941/APPLE-SSD-SM512E
+SSD,MKNSSDCR120GB,Mushkin,Chronos 120GB,708,65.3,652,https://ssd.userbenchmark.com/SpeedTest/3690/MKNSSDCR120GB
+SSD,CT120M500SSD1,Crucial,M500 120GB,709,65.3,12044,https://ssd.userbenchmark.com/Crucial-M500-120GB/Rating/1888
+SSD,PP240GS25SSDR,Patriot,Pyro 240GB,710,65.2,334,https://ssd.userbenchmark.com/SpeedTest/9501/Patriot-Pyro-SSD
+SSD,TL100-25SAT3-240G,Toshiba,OCZ TL100 240GB,711,65.2,7685,https://ssd.userbenchmark.com/SpeedTest/182236/TOSHIBA-TL100
+SSD,THNSNS128GMCP,Toshiba,THNSNS Series mSATA PCI-E 128GB ,712,65.2,567,https://ssd.userbenchmark.com/SpeedTest/3823/TOSHIBA-THNSNS128GMCP
+SSD,SM2280S3/120G,Kingston,SM2280S3 SATA M.2 120GB,713,65.1,1491,https://ssd.userbenchmark.com/SpeedTest/14411/KINGSTON-SM2280S3120G
+SSD,ASP900S3-128GM-C,Adata,Premier Pro SP900 128GB,714,65.1,2127,https://ssd.userbenchmark.com/Adata-Premier-Pro-SP900-128GB/Rating/1930
+SSD,SSDSC2BB120G4,Intel,S3500 Series 120GB,715,65.1,320,https://ssd.userbenchmark.com/SpeedTest/10755/INTEL-SSDSC2BB120G4
+SSD,,OCZ,VERTEX2 240GB,716,65.1,9,https://ssd.userbenchmark.com/SpeedTest/127/OCZ-VERTEX2
+SSD,,Samsung,MZ7TE128HMGR-000L1 128GB,717,65,4103,https://ssd.userbenchmark.com/SpeedTest/9061/SAMSUNG-MZ7TE128HMGR-000L1
+SSD,PX-64M5M,Plextor,M5M mSATA 64GB,718,64.9,85,https://ssd.userbenchmark.com/SpeedTest/1638/PLEXTOR-PX-64M5M
+SSD,TS128GSSD720,Transcend,SSD720 128GB,719,64.8,425,https://ssd.userbenchmark.com/SpeedTest/8724/TS128GSSD720
+SSD,,Toshiba,THNSNF128GMCS 128GB,720,64.8,971,https://ssd.userbenchmark.com/SpeedTest/1596/TOSHIBA-THNSNF128GMCS
+SSD,CSSD-F90GBGT-BK,Corsair,Force GT 90GB,721,64.7,672,https://ssd.userbenchmark.com/SpeedTest/2377/Corsair-Force-GT
+SSD,,OCZ,VERTEX3 90GB,722,64.7,890,https://ssd.userbenchmark.com/SpeedTest/1586/OCZ-VERTEX3
+SSD,ASU650SS-120GT-C,Adata,SU650 120GB,723,64.7,29433,https://ssd.userbenchmark.com/SpeedTest/359434/ADATA-SU650
+SSD,,Samsung,PM830 mSATA 256GB,724,64.6,6583,https://ssd.userbenchmark.com/SpeedTest/3903/SAMSUNG-SSD-PM830-mSATA-256GB
+SSD,RVD3-FHPX4-120G,OCZ,RevoDrive 3 PCIe 120GB,725,64.4,556,https://ssd.userbenchmark.com/SpeedTest/3116/OCZ-REVODRIVE3
+SSD,,Goodram,C50 240GB,726,64.4,30,https://ssd.userbenchmark.com/SpeedTest/7031/GOODRAM-C50
+SSD,,PNY,SSD2SC120GE2DA08B-T 120GB,727,64.3,84,https://ssd.userbenchmark.com/SpeedTest/6740/SSD2SC120GE2DA08B-T
+SSD,,Mushkin,MKNSSDCR120GB-MX 120GB,728,64.2,199,https://ssd.userbenchmark.com/SpeedTest/1448/MKNSSDCR120GB-MX
+SSD,,Adata,SX910 128GB,729,64.1,309,https://ssd.userbenchmark.com/SpeedTest/444/ADATA-SX910
+SSD,,Liteonit,LMT-128M3M 128GB,730,64.1,484,https://ssd.userbenchmark.com/SpeedTest/3187/LITEONIT-LMT-128M3M
+SSD,,,MXSSD3MDSF-120G 120GB,731,64,8,https://ssd.userbenchmark.com/SpeedTest/10325/MXSSD3MDSF-120G
+SSD,PPSE120GS25SSDR,Patriot,Pyro SE 120GB,732,63.9,325,https://ssd.userbenchmark.com/Patriot-Pyro-SE-120GB/Rating/2233
+SSD,,,HFS256G3AMNB-2200A 256GB,733,63.9,1237,https://ssd.userbenchmark.com/SpeedTest/4739/HFS256G3AMNB-2200A
+SSD,,Samsung,MZMTE256HMHP-000L1 256GB,734,63.8,973,https://ssd.userbenchmark.com/SpeedTest/12653/SAMSUNG-MZMTE256HMHP-000L1
+SSD,SV300S37A/240G,Kingston,SSDNow V300 240GB,735,63.6,130314,https://ssd.userbenchmark.com/Kingston-SSDNow-V300-240GB/Rating/1817
+SSD,,Toshiba,THNSNF256GMCS 256GB,736,63.5,714,https://ssd.userbenchmark.com/SpeedTest/5493/TOSHIBA-THNSNF256GMCS
+SSD,,Goodram,C100 120GB,737,63.4,304,https://ssd.userbenchmark.com/SpeedTest/5675/GOODRAM-C100
+SSD,,Samsung,MZNTD512HAGL-000L1 512GB,738,63.3,201,https://ssd.userbenchmark.com/SpeedTest/6200/SAMSUNG-MZNTD512HAGL-000L1
+SSD,MZ-7PC128B/WW,Samsung,830 128GB,739,63.2,26491,https://ssd.userbenchmark.com/Samsung-830-128GB/Rating/1926
+SSD,,Samsung,PM841 2.5" 256GB,740,63.1,1064,https://ssd.userbenchmark.com/SpeedTest/5077/SAMSUNG-SSD-PM841-25--7
+SSD,,Sandisk,SD5SG2256G1052E 256GB,741,63,552,https://ssd.userbenchmark.com/SpeedTest/2816/SanDisk-SD5SG2256G1052E
+SSD,,Samsung,MZ7TD512HAGM-000L1 512GB,742,63,486,https://ssd.userbenchmark.com/SpeedTest/3479/SAMSUNG-MZ7TD512HAGM-000L1
+SSD,PP120GS25SSDR,Patriot,Pyro 120GB,743,62.8,125,https://ssd.userbenchmark.com/Patriot-Pyro-120GB/Rating/2234
+SSD,,Adata,SX300 256GB,744,62.8,90,https://ssd.userbenchmark.com/SpeedTest/3900/ADATA-SX300
+SSD,SHFS37A/120G,HyperX,Fury 120GB,745,62.7,8168,https://ssd.userbenchmark.com/HyperX-Fury-120GB/Rating/2586
+SSD,SSDSCKGF180A4L,Intel,SSD Pro 1500 Series 180GB,746,62.6,173,https://ssd.userbenchmark.com/SpeedTest/6511/INTEL-SSDSCKGF180A4L
+SSD,TRN100-25SAT3-120G,OCZ,Trion 100 120GB,747,62.5,3775,https://ssd.userbenchmark.com/SpeedTest/32000/OCZ-TRION100
+SSD,,Apple,SD512E 500GB,748,62.4,207,https://ssd.userbenchmark.com/SpeedTest/6934/APPLE-SSD-SD512E
+SSD,,Kingston,SKC100S3120G 120GB,749,62.2,236,https://ssd.userbenchmark.com/SpeedTest/5074/KINGSTON-SKC100S3120G
+SSD,SSDSC2CW060A3,Intel,520 Series 60GB,750,62.1,901,https://ssd.userbenchmark.com/SpeedTest/7251/INTEL-SSDSC2CW060A3
+SSD,PT240GS25SSDR,Patriot,Torch 240GB,751,62.1,43,https://ssd.userbenchmark.com/SpeedTest/18783/Patriot-Torch
+SSD,,Samsung,MZ7TD256HAFV-000L7 256GB,752,62,4935,https://ssd.userbenchmark.com/SpeedTest/2342/SAMSUNG-MZ7TD256HAFV-000L7
+SSD,,Kingston,SVP100S296G 96GB,753,61.9,8,https://ssd.userbenchmark.com/SpeedTest/2336/KINGSTON-SVP100S296G
+SSD,,Samsung,MZNTD256HAGL-00000 256GB,754,61.8,1041,https://ssd.userbenchmark.com/SpeedTest/396/SAMSUNG-MZNTD256HAGL-00000
+SSD,2DP97AA#ABC,HP,S700 120GB,755,61.7,3142,https://ssd.userbenchmark.com/SpeedTest/307263/HP-SSD-S700-120GB
+SSD,PB240GS25SSDR,Patriot,Blaze 240GB,756,61.6,1151,https://ssd.userbenchmark.com/SpeedTest/19971/Patriot-Blaze
+SSD,,Intel,SS DSC2BW180A3H 180GB,757,61.6,45,https://ssd.userbenchmark.com/SpeedTest/9583/INTEL-SS-DSC2BW180A3H
+SSD,SSDSC2CW480A3,Intel,520 Series 480GB,758,61.5,1310,https://ssd.userbenchmark.com/SpeedTest/9939/INTEL-SSDSC2CW480A3
+SSD,,Samsung,MZMTE256HMHP-000MV 256GB,759,61.5,2408,https://ssd.userbenchmark.com/SpeedTest/12210/SAMSUNG-MZMTE256HMHP-000MV
+SSD,,Apple,SM768E 751GB,760,61.4,149,https://ssd.userbenchmark.com/SpeedTest/4350/APPLE-SSD-SM768E
+SSD,SD8SBAT-128G-1122,SanDisk,Z400s 128GB,761,61.4,6631,https://ssd.userbenchmark.com/SpeedTest/34216/SanDisk-SD8SBAT128G1122
+SSD,SDSSDA-240G-G25,SanDisk,SSD Plus 240GB,762,61.1,100287,https://ssd.userbenchmark.com/SpeedTest/25612/SanDisk-SDSSDA240G
+SSD,SDSSDA-240G-G26,SanDisk,SSD Plus 240GB,762,61.1,100287,https://ssd.userbenchmark.com/SpeedTest/25612/SanDisk-SDSSDA240G
+SSD,,Goodram,C40 240GB,763,61.1,415,https://ssd.userbenchmark.com/SpeedTest/13085/GOODRAM-C40
+SSD,MKNSSDEC120GB,Mushkin,ECO2 120GB,764,61,255,https://ssd.userbenchmark.com/SpeedTest/24915/MKNSSDEC120GB
+SSD,,Apple,SM128E 121GB,765,60.9,223,https://ssd.userbenchmark.com/SpeedTest/8955/APPLE-SSD-SM128E
+SSD,MZ-7TD120BW,Samsung,840 120GB,766,60.8,41598,https://ssd.userbenchmark.com/Samsung-840-120GB/Rating/2263
+SSD,SSDMCEAC120B301,Intel,525 Series mSATA 120GB,767,60.8,581,https://ssd.userbenchmark.com/SpeedTest/5314/INTEL-SSDMCEAC120B3
+SSD,CT256M4SSD2,Crucial,M4 256GB,768,60.8,15580,https://ssd.userbenchmark.com/Crucial-M4-256GB/Rating/372
+SSD,CSSD-F480GBGS-BK,Corsair,Force GS 480GB,769,60.5,516,https://ssd.userbenchmark.com/SpeedTest/7580/Corsair-Force-GS
+SSD,MZ7PC128HAFU,Samsung,PM830 128GB,770,60.5,9528,https://ssd.userbenchmark.com/SpeedTest/3368/SAMSUNG-MZ7PC128HAFU-000H1
+SSD,,Mushkin,MKNSSDAT240GB-DX 240GB,771,60.3,122,https://ssd.userbenchmark.com/SpeedTest/85/MKNSSDAT240GB-DX
+SSD,SA400S37/120G,Kingston,A400 120GB,772,60.2,132955,https://ssd.userbenchmark.com/SpeedTest/229920/KINGSTON-SA400S37120G
+SSD,SSDSC2BF120A5,Intel,SSD Pro 2500 Series 120GB,773,60.2,193,https://ssd.userbenchmark.com/SpeedTest/23404/INTEL-SSDSC2BF120A5
+SSD,SSDSC2BF120H501,Intel,SSD Pro 2500 Series 120GB,773,60.2,193,https://ssd.userbenchmark.com/SpeedTest/23404/INTEL-SSDSC2BF120A5
+SSD,CT128M4SSD2,Crucial,M4 128GB,774,59.8,25571,https://ssd.userbenchmark.com/Crucial-M4-128GB/Rating/1929
+SSD,CSSD-F60GBGT-BK,Corsair,Force GT 60GB,775,59.8,1274,https://ssd.userbenchmark.com/SpeedTest/1231/Corsair-Force-GT
+SSD,,Samsung,MZMTD512HAGL-00000 512GB,776,59.8,403,https://ssd.userbenchmark.com/SpeedTest/298/SAMSUNG-MZMTD512HAGL-00000
+SSD,,Liteonit,DMT-80 11GB,777,59.7,102,https://ssd.userbenchmark.com/SpeedTest/5740/LITEONIT-DMT-80
+SSD,,OCZ,VERTEX3 60GB,778,59.5,3565,https://ssd.userbenchmark.com/SpeedTest/1912/OCZ-VERTEX3
+SSD,,Mushkin,MKNSSDAT120GB-DX 120GB,779,59.4,205,https://ssd.userbenchmark.com/SpeedTest/6436/MKNSSDAT120GB-DX
+SSD,SH103S3/480G,Kingston,HyperX 3K 480GB,780,59.4,1312,https://ssd.userbenchmark.com/SpeedTest/8665/KINGSTON-KINGSTON-SH103S3
+SSD,SH103S3/90G,Kingston,HyperX 3K 90GB,781,59.4,391,https://ssd.userbenchmark.com/SpeedTest/3217/KINGSTON-SH103S390G
+SSD,SSDSC2BW480H601,Intel,535 Series 480GB,782,59.3,2584,https://ssd.userbenchmark.com/SpeedTest/29709/INTEL-SSDSC2BW480H6
+SSD,TL100-25SAT3-120G,Toshiba,OCZ TL100 120GB,783,59.3,1486,https://ssd.userbenchmark.com/SpeedTest/184159/TOSHIBA-TL100
+SSD,,Spcc,Solid State Disk 120GB,784,59.2,16094,https://ssd.userbenchmark.com/SpeedTest/12061/SPCC-Solid-State-Disk
+SSD,SD8SNAT-128G,SanDisk,X400s SATA M.2 128GB,785,59.1,42,https://ssd.userbenchmark.com/SpeedTest/33396/SanDisk-SD8SNAT128G
+SSD,,Samsung,MZMTE256HMHP-000SO 256GB,786,59.1,23,https://ssd.userbenchmark.com/SpeedTest/12855/SAMSUNG-MZMTE256HMHP-000SO
+SSD,SDSSDA-960G-G25,SanDisk,SSD Plus 960GB,787,58.9,2037,https://ssd.userbenchmark.com/SpeedTest/206516/SanDisk-SDSSDA960G
+SSD,SDSSDA-960G-G26,SanDisk,SSD Plus 960GB,787,58.9,2037,https://ssd.userbenchmark.com/SpeedTest/206516/SanDisk-SDSSDA960G
+SSD,CT120M500SSD3,Crucial,M500 mSATA 120GB,788,58.8,802,https://ssd.userbenchmark.com/SpeedTest/6146/Crucial-CT120M500SSD3
+SSD,CT256M4SSD3,Crucial,M4 256GB mSATA,789,58.7,20,https://ssd.userbenchmark.com/SpeedTest/5098/M4-CT256-M4-CT256M4SSD3
+SSD,,PNY,XLR8 Pro 480GB,790,58.6,17,https://ssd.userbenchmark.com/SpeedTest/23219/SSD2SC480GC4DA16T-T
+SSD,VTX3-25SAT3-480G,OCZ,Vertex 3 480GB,791,58.4,155,https://ssd.userbenchmark.com/SpeedTest/4908/OCZ-VERTEX3
+SSD,SDSSDA-120G-G25,SanDisk,SSD Plus 120GB,792,58.4,70653,https://ssd.userbenchmark.com/SpeedTest/24452/SanDisk-SDSSDA120G
+SSD,SDSSDA-120G-G26,SanDisk,SSD Plus 120GB,792,58.4,70653,https://ssd.userbenchmark.com/SpeedTest/24452/SanDisk-SDSSDA120G
+SSD,,Samsung,MZMTD256HAGM-000L1 256GB,793,58.1,869,https://ssd.userbenchmark.com/SpeedTest/505/SAMSUNG-MZMTD256HAGM-000L1
+SSD,,Intel,510 Series 250GB,794,58.1,642,https://ssd.userbenchmark.com/SpeedTest/2447/INTEL-SSDSC2MH250A2
+SSD,ASX900S3-512GM-C,Adata,XPG SX900 512GB,795,58,1328,https://ssd.userbenchmark.com/SpeedTest/5993/ADATA-SX900
+SSD,CT120BX500SSD1,Crucial,BX500 120GB,796,58,24084,https://ssd.userbenchmark.com/SpeedTest/576784/CT120BX500SSD1
+SSD,,PNY,SSD2SC120G5LC709B121-510 120GB,797,57.7,261,https://ssd.userbenchmark.com/SpeedTest/11896/SSD2SC120G5LC709B121-510
+SSD,,Intel,SSDSC2CT080A4 80GB,798,57.7,306,https://ssd.userbenchmark.com/SpeedTest/6435/INTEL-SSDSC2CT080A4
+SSD,SDSSDX-480G-G25,SanDisk,Extreme 480GB,799,57.7,1039,https://ssd.userbenchmark.com/SpeedTest/9517/SanDisk-SDSSDX48
+SSD,SSDSCMMW240A3L,Intel,521 Series 240GB,800,57.6,447,https://ssd.userbenchmark.com/SpeedTest/6283/INTEL-SSDSCMMW240A3L
+SSD,TS128GMSA340,Transcend,MSA340 mSATA 128GB,801,57.5,21,https://ssd.userbenchmark.com/SpeedTest/20186/TS128GMSA340
+SSD,,Intel,SSDMCEAW120A4 120GB,802,57.5,153,https://ssd.userbenchmark.com/SpeedTest/8790/INTEL-SSDMCEAW120A4
+SSD,,Team,XS3 SSD 120GB,803,57.4,205,https://ssd.userbenchmark.com/SpeedTest/7195/TEAM-XS3--SSD
+SSD,SKC300S37A/480G,Kingston,SSDNow KC300 480GB,804,57.4,521,https://ssd.userbenchmark.com/SpeedTest/13063/KINGSTON-SKC300S37A480G
+SSD,,Adata,SP600 64GB,805,57.3,478,https://ssd.userbenchmark.com/SpeedTest/6806/ADATA-SP600
+SSD,,Kingston,RBU-SMS100S3128GA 128GB,806,56.9,279,https://ssd.userbenchmark.com/SpeedTest/10832/KINGSTON-RBU-SMS100S3128GA
+SSD,SSDSC2CT060A3,Intel,330 Series 60GB,807,56.7,1986,https://ssd.userbenchmark.com/SpeedTest/2796/INTEL-SSDSC2CT060A3
+SSD,CTFDDAC256MAG,Crucial,RealSSD C300 256GB,808,56.6,604,https://ssd.userbenchmark.com/Crucial-RealSSD-C300-256GB/Rating/370
+SSD,CSSD-F480GBGT-BK,Corsair,Force GT 480GB,809,56.6,207,https://ssd.userbenchmark.com/SpeedTest/12025/Corsair-Force-GT
+SSD,,Liteonit,LMT-19nmBGA-64G 64GB,810,56.6,117,https://ssd.userbenchmark.com/SpeedTest/7220/LITEONIT-LMT-19nmBGA-64G
+SSD,,Samsung,MZMPC256HBGJ-000H1 256GB,811,56.4,452,https://ssd.userbenchmark.com/SpeedTest/2935/SAMSUNG-MZMPC256HBGJ-000H1
+SSD,C400-MTFDDAK128MAM,Micron,C400 RealSSD 128GB,812,56.4,7970,https://ssd.userbenchmark.com/SpeedTest/4661/C400-MTFDDAK128MAM
+SSD,CT240BX500SSD1,Crucial,BX500 240GB,813,56.3,82937,https://ssd.userbenchmark.com/SpeedTest/578496/CT240BX500SSD1
+SSD,MKNSSDCR60GB,Mushkin,Chronos 60GB,814,56.3,74,https://ssd.userbenchmark.com/SpeedTest/1564/MKNSSDCR60GB
+SSD,,Toshiba,THNSNS064GMCP 64GB,815,56.2,64,https://ssd.userbenchmark.com/SpeedTest/11198/TOSHIBA-THNSNS064GMCP
+SSD,CSSD-N64GB3-BK,Corsair,Neutron 64GB,816,56,185,https://ssd.userbenchmark.com/SpeedTest/4447/Corsair-Neutron-SSD
+SSD,,Samsung,PM830 64GB,817,56,23,https://ssd.userbenchmark.com/SpeedTest/3969/SAMSUNG-SSD-PM83
+SSD,,Samsung,MZMPC128HBFU-000L1 128GB,818,55.7,1154,https://ssd.userbenchmark.com/SpeedTest/157/SAMSUNG-MZMPC128HBFU-000L1
+SSD,ASX900S3-64GM-C,Adata,XPG SX900 64GB,819,55.7,544,https://ssd.userbenchmark.com/SpeedTest/3799/ADATA-SX900
+SSD,CSSD-F360GBGS-BK,Corsair,Force GS 360GB,820,55.7,430,https://ssd.userbenchmark.com/SpeedTest/6890/Corsair-Force-GS
+SSD,,Adata,SX300 128GB,821,55.6,218,https://ssd.userbenchmark.com/SpeedTest/4472/ADATA-SX300
+SSD,MZMTE128HMGR-00000,Samsung,PM851 mSATA 128GB,822,55.3,2013,https://ssd.userbenchmark.com/SpeedTest/13404/SAMSUNG-MZMTE128HMGR-000
+SSD,TS64GMSA370,Transcend,MSA370 mSATA 64GB,823,55.2,106,https://ssd.userbenchmark.com/SpeedTest/23905/TS64GMSA370
+SSD,C400-MTFDDAK256MAM,Micron,C400 RealSSD 256GB,824,55.2,8309,https://ssd.userbenchmark.com/SpeedTest/5949/C400-MTFDDAK256MAM
+SSD,ASP900S3-064GM-C,Adata,SP900 64GB,825,55.2,373,https://ssd.userbenchmark.com/SpeedTest/1593/ADATA-SP900
+SSD,SMS200S3/60G,Kingston,SSDNow mS200 mSATA 60GB,826,55.2,202,https://ssd.userbenchmark.com/SpeedTest/5751/KINGSTON-SMS200S360G
+SSD,,PNY,SSD2SC240G726A104-474-27753 240GB,827,55,71,https://ssd.userbenchmark.com/SpeedTest/5288/SSD2SC240G726A104-474-27753
+SSD,MKNSSDCR480GB-DX,Mushkin,Chronos Deluxe 480GB,828,55,94,https://ssd.userbenchmark.com/SpeedTest/7111/MKNSSDCR480GB-DX
+SSD,CT064M4SSD2,Crucial,M4 64GB,829,54.9,6243,https://ssd.userbenchmark.com/SpeedTest/1215/M4-CT064M4SSD2
+SSD,,Samsung,MZ7TD128HAFV-000L1 128GB,830,54.8,3091,https://ssd.userbenchmark.com/SpeedTest/2753/SAMSUNG-MZ7TD128HAFV-000L1
+SSD,TS64GSSD370,Transcend,SSD370 64GB,831,54.7,328,https://ssd.userbenchmark.com/SpeedTest/17734/TS64GSSD370
+SSD,MZ-7PC064B/WW,Samsung,830 64GB,832,54.4,3026,https://ssd.userbenchmark.com/SpeedTest/1525/SAMSUNG-SSD-830-Series
+SSD,,Samsung,PM830 mSATA 128GB,833,54.3,569,https://ssd.userbenchmark.com/SpeedTest/5211/SAMSUNG-SSD-PM830-mSATA-128GB
+SSD,SV310S37A/960G,Kingston,SSDNow V310 960GB,834,54.3,156,https://ssd.userbenchmark.com/SpeedTest/15065/KINGSTON-SV310S37A960G
+SSD,SV300S37A/120G,Kingston,SSDNow V300 120GB,835,54.1,271402,https://ssd.userbenchmark.com/Kingston-SSDNow-V300-120GB/Rating/1892
+SSD,TS128GMSA720,Transcend,MSA720 mSATA 128GB,836,54,117,https://ssd.userbenchmark.com/SpeedTest/18688/TS128GMSA720
+SSD,CT128M4SSD3,Crucial,M4 128GB mSATA,837,54,344,https://ssd.userbenchmark.com/SpeedTest/6566/M4-CT128M4SSD3
+SSD,,Team,L3 SSD 120GB,838,53.9,794,https://ssd.userbenchmark.com/SpeedTest/9314/TEAM-L3-SSD-120GB
+SSD,,Kingston,SS200S330G 30GB,839,53.9,142,https://ssd.userbenchmark.com/SpeedTest/8275/KINGSTON-SS200S330G
+SSD,CSSD-F60GBLS,Corsair,Force LS 60GB,840,53.7,2887,https://ssd.userbenchmark.com/SpeedTest/4499/Corsair-Force-LS-SSD
+SSD,WDS120G1G0B,WD,Green SATA M.2 120GB,841,53.6,5388,https://ssd.userbenchmark.com/SpeedTest/203345/WDC-WDS120G1G0B-00RC30
+SSD,,Crucial,C300-CTFDDAC128MAG 128GB,842,53.4,2056,https://ssd.userbenchmark.com/SpeedTest/3591/C300-CTFDDAC128MAG
+SSD,WDS120G1G0A,WD,Green 120GB (2016),843,53.4,19433,https://ssd.userbenchmark.com/SpeedTest/201586/WDC-WDS120G1G0A-00SS50
+SSD,SSDSCMMW180A3L,Intel,521 Series 180GB,844,53.3,265,https://ssd.userbenchmark.com/SpeedTest/11361/INTEL-SSDSCMMW180A3L
+SSD,SSDSC2MH120A2,Intel,510 Series 120GB,845,53.3,1598,https://ssd.userbenchmark.com/SpeedTest/1357/INTEL-SSDSC2MH120A2
+SSD,WDS240G1G0A,WD,Green 240GB (2016),846,53.3,17063,https://ssd.userbenchmark.com/SpeedTest/204096/WDC-WDS240G1G0A-00SS50
+SSD,MKNSSDCR60GB-DX,Mushkin,Chronos Deluxe 60GB,847,52.9,90,https://ssd.userbenchmark.com/SpeedTest/5641/MKNSSDCR60GB-DX
+SSD,,Adata,XM11 128GB,848,52.8,134,https://ssd.userbenchmark.com/SpeedTest/6599/ADATA-XM11-128GB
+SSD,AGT3-25SAT3-240G,OCZ,Agility 3 240GB,849,52.6,8246,https://ssd.userbenchmark.com/OCZ-Agility-3-240GB/Rating/369
+SSD,CSSD-F240GB3-BK,Corsair,Force 3 240GB,850,52.5,5285,https://ssd.userbenchmark.com/Corsair-Force-3-240GB/Rating/1454
+SSD,SD6SF1M-064G-1022,SanDisk,X110 mSATA 64GB,851,52.5,23,https://ssd.userbenchmark.com/SpeedTest/15608/SanDisk-SD6SF1M064G1022
+SSD,SV300S37A/480G,Kingston,SSDNow V300 480GB,852,52.5,10989,https://ssd.userbenchmark.com/Kingston-SSDNow-V300-480GB/Rating/3480
+SSD,SSD9SC240GMDA-RB,PNY,XLR8 240GB,853,52.3,498,https://ssd.userbenchmark.com/SpeedTest/4356/SSD2SC240GC2DH16T-T
+SSD,SSD2SC240GC2DH16T,PNY,XLR8 240GB,853,52.3,498,https://ssd.userbenchmark.com/SpeedTest/4356/SSD2SC240GC2DH16T-T
+SSD,CSSD-F120GBLS,Corsair,Force LS 120GB,854,52.3,7353,https://ssd.userbenchmark.com/SpeedTest/5526/Corsair-Force-LS-SSD
+SSD,SDSSDA-480G-G25,SanDisk,SSD Plus 480GB,855,52,12027,https://ssd.userbenchmark.com/SpeedTest/131770/SanDisk-SDSSDA480G
+SSD,SDSSDA-480G-G26,SanDisk,SSD Plus 480GB,855,52,12027,https://ssd.userbenchmark.com/SpeedTest/131770/SanDisk-SDSSDA480G
+SSD,,Samsung,MZNTD128HAGM-00000 128GB,856,51.9,687,https://ssd.userbenchmark.com/SpeedTest/4106/SAMSUNG-MZNTD128HAGM-00000
+SSD,MTFDDAT256MAM-1K2,Micron,C400 RealSSD mSATA 256GB,857,51.8,419,https://ssd.userbenchmark.com/SpeedTest/4639/MTFDDAT256MAM-1K2
+SSD,WDS240G1G0B,WD,Green SATA M.2 240GB,858,51.6,4639,https://ssd.userbenchmark.com/SpeedTest/211712/WDC-WDS240G1G0B-00RC30
+SSD,,Liteonit,LMS-32L6M mSATA 32GB,859,51.5,242,https://ssd.userbenchmark.com/SpeedTest/5079/LITEONIT-LMS-32L6M-mSATA-32GB
+SSD,,PNY,SSD2SC120G3LC726B104-370P 120GB,860,50.8,60,https://ssd.userbenchmark.com/SpeedTest/8341/SSD2SC120G3LC726B104-370P
+SSD,,Adata,XM11 128GB,861,50.8,155,https://ssd.userbenchmark.com/SpeedTest/8415/ADATA-XM11-128GB
+SSD,,Samsung,PM830 mSATA 64GB,862,50.6,233,https://ssd.userbenchmark.com/SpeedTest/4586/SAMSUNG-SSD-PM830-mSATA-64GB
+SSD,TS64GSSD340,Transcend,SSD340 64GB,863,50.4,185,https://ssd.userbenchmark.com/SpeedTest/10576/TS64GSSD-340
+SSD,SV300S37A/60G,Kingston,SSDNow V300 60GB,864,50.3,21105,https://ssd.userbenchmark.com/SpeedTest/1905/KINGSTON-SV300S37A60G
+SSD,AGT3-25SAT3-120G,OCZ,Agility 3 120GB,865,49.5,29088,https://ssd.userbenchmark.com/OCZ-Agility-3-120GB/Rating/2262
+SSD,,Liteonit,LAT-256M2S 256GB,866,49.4,454,https://ssd.userbenchmark.com/SpeedTest/8201/LITEONIT-LAT-256M2S
+SSD,MKNSSDCR480GB,Mushkin,Chronos 480GB,867,49.3,200,https://ssd.userbenchmark.com/SpeedTest/2434/MKNSSDCR480GB
+SSD,MTFDDAT128MAM-1J2,Micron,C400 RealSSD mSATA 128GB,868,49.2,586,https://ssd.userbenchmark.com/SpeedTest/6355/MTFDDAT128MAM-1J2
+SSD,PB120GS25SSDR,Patriot,Blaze 120GB,869,48.9,1915,https://ssd.userbenchmark.com/SpeedTest/16087/Patriot-Blaze-SSD
+SSD,,Samsung,MZMPC064HBDR-000L1 64GB,870,48.8,95,https://ssd.userbenchmark.com/SpeedTest/5687/SAMSUNG-MZMPC064HBDR-000L1
+SSD,,Samsung,MZMTD128HAFV-000L1 128GB,871,48.6,1792,https://ssd.userbenchmark.com/SpeedTest/3377/SAMSUNG-MZMTD128HAFV-000L1
+SSD,,OCZ,OCTANE 128GB,872,48.4,293,https://ssd.userbenchmark.com/SpeedTest/5496/OCZ-OCTANE
+SSD,CSSD-F120GB3-BK,Corsair,Force 3 120GB,873,48.1,19111,https://ssd.userbenchmark.com/Corsair-Force-3-120GB/Rating/2243
+SSD,AS511S3-60GM-C,Adata,S511 60GB,874,47.9,21,https://ssd.userbenchmark.com/SpeedTest/5776/ADATA-SS-D-S511-60GB
+SSD,TS128GSSD320,Transcend,SSD320 128GB,875,47.6,1327,https://ssd.userbenchmark.com/SpeedTest/5322/TS128GSSD320
+SSD,PT60GS25SSDR,Patriot,Torch 60GB,876,47.5,127,https://ssd.userbenchmark.com/SpeedTest/24101/Patriot-Torch
+SSD,SSDSA2BZ300G3,Intel,710 Series 300GB,877,47.3,43,https://ssd.userbenchmark.com/SpeedTest/17911/INTEL-SSDSA2BZ300G3S
+SSD,,Crucial,C300-CTFDDAC128M 128GB,878,47.3,279,https://ssd.userbenchmark.com/SpeedTest/2610/C300-CTFDDAC128M
+SSD,,OCZ,SOLID3 120GB,879,46.9,1301,https://ssd.userbenchmark.com/SpeedTest/1435/OCZ-SOLID3
+SSD,,Plextor,PX-128M2S 128GB,880,46.8,171,https://ssd.userbenchmark.com/SpeedTest/5774/PLEXTOR--PX-128M2S
+SSD,CSSD-F180GB3-BK,Corsair,Force 3 180GB,881,46.7,1125,https://ssd.userbenchmark.com/SpeedTest/3275/Corsair-Force-3-SSD
+SSD,TS64GMSA720,Transcend,MSA720 mSATA 64GB,882,46.3,6,https://ssd.userbenchmark.com/SpeedTest/16849/TS64GMSA720
+SSD,,Liteonit,LSS-24L6G 24GB,883,46.2,178,https://ssd.userbenchmark.com/SpeedTest/1985/LITEONIT-LSS-24L6G
+SSD,,Crucial,C300-CTFDDAC064MAG 64GB,884,46.1,1336,https://ssd.userbenchmark.com/SpeedTest/3513/C300-CTFDDAC064MAG
+SSD,,Intel,SSDSCIHF120A4H 120GB,885,45.9,179,https://ssd.userbenchmark.com/SpeedTest/12016/INTEL-SSDSCIHF120A4H
+SSD,SSDSA2CW300G3,Intel,320 Series 300GB,886,45.9,1513,https://ssd.userbenchmark.com/SpeedTest/3362/INTEL-SSDSA2CW300G3
+SSD,,Liteonit,LMT-32L3M 32GB,887,45.7,248,https://ssd.userbenchmark.com/SpeedTest/2902/LITEONIT-LMT-32L3M
+SSD,,PNY,SSD2SC120G726A104-475-27796 120GB,888,45.7,225,https://ssd.userbenchmark.com/SpeedTest/5173/SSD2SC120G726A104-475-27796
+SSD,WDS240G2G0A,WD,Green 240GB (2018),889,45.7,105930,https://ssd.userbenchmark.com/SpeedTest/377351/WDC-WDS240G2G0A-00JH30
+SSD,,OCZ,AGILITY3 128GB,890,45.4,476,https://ssd.userbenchmark.com/SpeedTest/5791/OCZ-AGILITY3
+SSD,CSSD-F90GB3-BK,Corsair,Force 3 90GB,891,45.1,1608,https://ssd.userbenchmark.com/SpeedTest/4312/Corsair-Force-3-SSD
+SSD,PT120GS25SSDR,Patriot,Torch 120GB,892,45.1,119,https://ssd.userbenchmark.com/SpeedTest/24105/Patriot-Torch
+SSD,PB60GS25SSDR,Patriot,Blaze 60GB,893,45.1,591,https://ssd.userbenchmark.com/SpeedTest/18273/Patriot-Blaze
+SSD,,Liteonit,LAT-128M2S 128GB,894,44.7,410,https://ssd.userbenchmark.com/SpeedTest/3797/LITEONIT-LAT-128M2S
+SSD,,OCZ,AGILITY4 64GB,895,44.4,344,https://ssd.userbenchmark.com/SpeedTest/5686/OCZ-AGILITY4
+SSD,,,SiImage 50GB,896,44.2,43,https://ssd.userbenchmark.com/SpeedTest/5297/SiImage
+SSD,,OCZ,AGILITY3 90GB,897,44,1086,https://ssd.userbenchmark.com/SpeedTest/2120/OCZ-AGILITY3
+SSD,CSSD-F120GB2,Corsair,Force 120GB,898,44,1746,https://ssd.userbenchmark.com/SpeedTest/1321/Corsair-CSSD-F120GB2
+SSD,MKNSSDCL120GB-DX,Mushkin,Callisto Deluxe 120GB,899,44,98,https://ssd.userbenchmark.com/SpeedTest/4237/MKNSSDCL120GB-DX
+SSD,,,FM-25S3-120GBP3 120GB,900,43.9,389,https://ssd.userbenchmark.com/SpeedTest/8614/FM-25S3-120GBP3
+SSD,C400-MTFDDAT064MAM,Micron,C400 RealSSD mSATA 64GB,901,43.9,192,https://ssd.userbenchmark.com/SpeedTest/6723/C400-MTFDDAT064MAM
+SSD,WDS120G2G0A,WD,Green 120GB (2018),902,43.8,52525,https://ssd.userbenchmark.com/SpeedTest/411798/WDC-WDS120G2G0A-00JH
+SSD,SSDSA2BZ200G3,Intel,710 Series 200GB,903,43.7,76,https://ssd.userbenchmark.com/SpeedTest/25022/INTEL-SSDSA2BZ200G3
+SSD,,Ocz-vertex2,3.5 120GB,904,43.5,3011,https://ssd.userbenchmark.com/SpeedTest/736/OCZ-VERTEX2-35
+SSD,PI240GS25SSDR,Patriot,Inferno 240GB,905,42.8,21,https://ssd.userbenchmark.com/SpeedTest/21776/Patriot-Inferno-240GB-SSD
+SSD,SV200S3256G,Kingston,SSDNow V Series 256GB,906,42.8,47,https://ssd.userbenchmark.com/SpeedTest/110/KINGSTON-SV200S3256G
+SSD,,OCZ,AGILITY3 180GB,907,42.7,366,https://ssd.userbenchmark.com/SpeedTest/1341/OCZ-AGILITY3
+SSD,CSSD-F60GB3-BK,Corsair,Force 3 60GB,908,42.5,3559,https://ssd.userbenchmark.com/SpeedTest/2139/Corsair-Force-3-SSD
+SSD,,Adata,SX300 64GB,909,42.5,62,https://ssd.userbenchmark.com/SpeedTest/3295/ADATA-SX300
+SSD,,OCZ,AGILITY3 60GB,910,42.3,11569,https://ssd.userbenchmark.com/SpeedTest/1654/OCZ-AGILITY3
+SSD,SSDSA2CW160G3,Intel,320 Series 160GB,911,41.7,10430,https://ssd.userbenchmark.com/SpeedTest/1192/INTEL-SSDSA2CW160G3
+SSD,,Samsung,470 Series SSD 128GB,912,41.5,731,https://ssd.userbenchmark.com/SpeedTest/4655/SAMSUNG-470-Series-SSD
+SSD,SSDSA2BZ100G3,Intel,710 Series 100GB,913,41.2,239,https://ssd.userbenchmark.com/SpeedTest/9161/INTEL-SSDSA2BZ100G3
+SSD,SSDSA2CW120G3,Intel,320 Series 120GB,914,41,8007,https://ssd.userbenchmark.com/Intel-320-Series-120GB/Rating/1936
+SSD,,Samsung,PM830 mSATA 32GB,915,41,783,https://ssd.userbenchmark.com/SpeedTest/2575/SAMSUNG-SSD-PM830-mSATA-32GB
+SSD,SDSSDP-256G-G25,SanDisk,SSD 256GB,916,40.9,1885,https://ssd.userbenchmark.com/SpeedTest/1151/SanDisk-SDSSDP256G
+SSD,,PNY,SSD2SC240G3LC709B121-460P 240GB,917,40.6,389,https://ssd.userbenchmark.com/SpeedTest/10292/SSD2SC240G3LC709B121-460P
+SSD,,Intel,SSDSA2VP020G2 20GB,918,40.5,30,https://ssd.userbenchmark.com/SpeedTest/12923/INTEL-SSDSA2VP020G2
+SSD,,,SandForce[290900] 240GB,919,40.4,10,https://ssd.userbenchmark.com/SpeedTest/3886/SandForce-290900-
+SSD,,Ocz-vertex2,3.5 240GB,920,40.4,118,https://ssd.userbenchmark.com/SpeedTest/5514/OCZ-VERTEX2-35
+SSD,,OCZ,SOLID3 60GB,921,39.9,1037,https://ssd.userbenchmark.com/SpeedTest/3568/OCZ-SOLID3
+SSD,SVP200S390G,Kingston,SSDNow V+200 Series 90GB,922,39.9,604,https://ssd.userbenchmark.com/SpeedTest/3742/KINGSTON-SVP200S390G
+SSD,SDSSDP-128G-G25,SanDisk,SSD 128GB,923,39.7,7641,https://ssd.userbenchmark.com/SpeedTest/330/SanDisk-SDSSDP128G
+SSD,CSSD-F60GB2,Corsair,Force 60GB,924,39.7,1216,https://ssd.userbenchmark.com/SpeedTest/301/Corsair-CSSD-F60GB2
+SSD,,Samsung,PM810 2.5" 7mm 128GB,925,39.7,3488,https://ssd.userbenchmark.com/SpeedTest/6796/SAMSUNG-SSD-PM810-25--7mm-128GB
+SSD,,Samsung,MZ7PA128HMCD-010 128GB,926,39.3,2536,https://ssd.userbenchmark.com/SpeedTest/3873/SAMSUNG-MZ7PA128HMCD-010
+SSD,,PNY,SSD2SC240G3LC709B104-495 240GB,927,38.9,24,https://ssd.userbenchmark.com/SpeedTest/10642/SSD2SC240G3LC709B104-495
+SSD,,,FM-25S2S-120GBP2 120GB,928,38.7,288,https://ssd.userbenchmark.com/SpeedTest/3396/FM-25S2S-120GBP2
+SSD,,Samsung,MZMPC032HBCD-000L1 32GB,929,38.7,514,https://ssd.userbenchmark.com/SpeedTest/1737/SAMSUNG-MZMPC032HBCD-000L1
+SSD,,Ocz-vertex2,3.5 115GB,930,38.7,2118,https://ssd.userbenchmark.com/SpeedTest/3209/OCZ-VERTEX2-35
+SSD,,Adata,S510 60GB,931,38.5,437,https://ssd.userbenchmark.com/SpeedTest/5619/ADATA-SSD-S510-60GB
+SSD,SSDSA2CW080G3,Intel,320 Series 80GB,932,38.3,3837,https://ssd.userbenchmark.com/SpeedTest/2723/INTEL-SSDSA2CW080G3
+SSD,,Crucial,MTFDBAK128MAG-1G1 128GB,933,38.2,862,https://ssd.userbenchmark.com/SpeedTest/1244/MTFDBAK128MAG-1G1
+SSD,,Kingston,SVP100S2128G 128GB,934,38.1,509,https://ssd.userbenchmark.com/SpeedTest/2509/KINGSTON-SVP100S2128G
+SSD,,Corsair,Performance3 SSD 64GB,935,38,16,https://ssd.userbenchmark.com/SpeedTest/5387/Corsair-Performance3-SSD
+SSD,,Apple,TS256C 251GB,936,37.8,502,https://ssd.userbenchmark.com/SpeedTest/1701/APPLE-SSD-TS256C
+SSD,SDSSDP-064G-G25,SanDisk,SSD 64GB,937,37.7,2482,https://ssd.userbenchmark.com/SpeedTest/1471/SanDisk-SDSSDP064G
+SSD,,Kingston,SVP100S264G 64GB,938,37.2,252,https://ssd.userbenchmark.com/SpeedTest/3007/KINGSTON-SVP100S264G
+SSD,PP60GS25SSDR,Patriot,Pyro 60GB,939,37.2,566,https://ssd.userbenchmark.com/SpeedTest/3406/Patriot-Pyro
+SSD,,,FM-25S2S-60GBP2 60GB,940,37.2,186,https://ssd.userbenchmark.com/SpeedTest/6020/FM-25S2S-60GBP2
+SSD,SDSA6GM-128G-1122,SanDisk,U110 128GB,941,37.2,952,https://ssd.userbenchmark.com/SpeedTest/11039/SanDisk-SSD-U110-128GB
+SSD,,Team,XS2 SSD 60GB,942,37,56,https://ssd.userbenchmark.com/SpeedTest/9202/TEAM-XS2-SSD
+SSD,,Samsung,PM81 128GB,943,36.7,57,https://ssd.userbenchmark.com/SpeedTest/1277/SAMSUNG-SSD-PM81
+SSD,,OCZ,VERTEX2 60GB,944,36.7,4361,https://ssd.userbenchmark.com/SpeedTest/1338/OCZ-VERTEX2
+SSD,SDSSDH120GG25,SanDisk,Ultra 120GB,945,36.7,507,https://ssd.userbenchmark.com/SpeedTest/2141/SanDisk-SDSSDH120GG25
+SSD,MKNSSDCL60GB-DX,Mushkin,Callisto Deluxe 60GB,946,36.6,218,https://ssd.userbenchmark.com/SpeedTest/9311/Mushkin-MKNSSDCL60GB-DX
+SSD,SSDMCEAC030B301,Intel,525 Series mSATA 30GB,947,36.5,44,https://ssd.userbenchmark.com/SpeedTest/1644/INTEL-SSDMCEAC030B3
+SSD,SSDSA2M160G2GC,Intel,X25-M 160GB,948,36.2,6746,https://ssd.userbenchmark.com/SpeedTest/2803/INTEL-SSDSA2M160G2GC
+SSD,,Sandisk,U100 256GB,949,36,386,https://ssd.userbenchmark.com/SpeedTest/6688/SanDisk-SSD-U100-256GB
+SSD,,OCZ,VERTEX2 100GB,950,36,592,https://ssd.userbenchmark.com/SpeedTest/2400/OCZ-VERTEX2
+SSD,,PNY,SSD2SC120G3LC709B121-460P 120GB,951,35.9,479,https://ssd.userbenchmark.com/SpeedTest/9690/SSD2SC120G3LC709B121-460P
+SSD,SSDSA2M120G2GC,Intel,X25-M 120GB,952,35.8,1267,https://ssd.userbenchmark.com/SpeedTest/993/INTEL-SSDSA2M120G2GC
+SSD,PI100GS25SSDR,Patriot,Inferno 100GB,953,35.8,15,https://ssd.userbenchmark.com/SpeedTest/22519/Patriot-Inferno-100GB-SSD
+SSD,,Sandisk,SC032G 32GB,954,35.7,472,https://ssd.userbenchmark.com/SpeedTest/9220/SanDisk-SDSSDRC032G
+SSD,,Corsair,CSSD-V128GB2 128GB,955,35.7,194,https://ssd.userbenchmark.com/SpeedTest/6077/Corsair-CSSD-V128GB2
+SSD,CSSD-F115GB2,Corsair,Force 115GB,956,35.6,207,https://ssd.userbenchmark.com/SpeedTest/455/Corsair-CSSD-F115GB2-A
+SSD,,OCZ,AGILITY2 115GB,957,35.6,203,https://ssd.userbenchmark.com/SpeedTest/4561/OCZ-AGILITY2
+SSD,,Toshiba,THNS512GG8BBAA 512GB,958,35.6,79,https://ssd.userbenchmark.com/SpeedTest/5630/TOSHIBA-THNS512GG8BBAA
+SSD,,Sandisk,U100 128GB,959,35.5,1903,https://ssd.userbenchmark.com/SpeedTest/2827/SanDisk-SSD-U100-128GB
+SSD,,Sandisk,U100 64GB,960,35.3,333,https://ssd.userbenchmark.com/SpeedTest/1019/SanDisk-SSD-U100-64GB
+SSD,,,CRUCIAL-CT28M225 128GB,961,35.1,10,https://ssd.userbenchmark.com/SpeedTest/6964/CRUCIAL-CT28M225
+SSD,PI60GS25SSDR,Patriot,Inferno 60GB,962,35.1,145,https://ssd.userbenchmark.com/SpeedTest/2811/Patriot-Inferno-60GB-SSD
+SSD,CSSD-F480GB3-BK,Corsair,Force 3 480GB,963,35,154,https://ssd.userbenchmark.com/SpeedTest/16050/Corsair-Force-3-SSD
+SSD,,Ocz-vertex2,3.5 180GB,964,34.6,123,https://ssd.userbenchmark.com/SpeedTest/2608/OCZ-VERTEX2-35
+SSD,,Sandisk,U100 252GB,965,34.6,158,https://ssd.userbenchmark.com/SpeedTest/7207/SanDisk-SSD-U100-252GB
+SSD,SSDSA2M080G2GC,Intel,X25-M 80GB,966,34.4,7882,https://ssd.userbenchmark.com/SpeedTest/1145/INTEL-SSDSA2M080G2GC
+SSD,,Ocz-vertex2,3.5 90GB,967,34.3,582,https://ssd.userbenchmark.com/SpeedTest/2397/OCZ-VERTEX2-35
+SSD,,Samsung,PM810 mSATA 128GB,968,34.1,312,https://ssd.userbenchmark.com/SpeedTest/10016/SAMSUNG-SSD-PM810-mSATA-128GB
+SSD,,OCZ,AGILITY3 480GB,969,34.1,644,https://ssd.userbenchmark.com/SpeedTest/5217/OCZ-AGILITY3
+SSD,,OCZ,VERTEX2 160GB,970,34.1,92,https://ssd.userbenchmark.com/SpeedTest/8902/OCZ-VERTEX2
+SSD,CSSD-F40GB2,Corsair,Force 40GB,971,33.9,327,https://ssd.userbenchmark.com/SpeedTest/7389/Corsair-CSSD-F40GB2-A
+SSD,,Samsung,470 Series SSD 64GB,972,33.5,711,https://ssd.userbenchmark.com/SpeedTest/7582/SAMSUNG-470-Series-SSD
+SSD,,OCZ,VERTEX2 50GB,973,33.4,270,https://ssd.userbenchmark.com/SpeedTest/3237/OCZ-VERTEX2
+SSD,SNV325S2,Kingston,SSDNow V+ Series 128GB,974,33,531,https://ssd.userbenchmark.com/SpeedTest/7304/KINGSTON-SNV325S2
+SSD,,Sandisk,U100 124GB,975,32.7,222,https://ssd.userbenchmark.com/SpeedTest/6235/SanDisk-SSD-U100-124GB
+SSD,SNVP325S264GB,Kingston,SSDNow V+ Series 64GB,976,32.5,489,https://ssd.userbenchmark.com/SpeedTest/2589/KINGSTON-SNVP325S264GB
+SSD,,Corsair,CSSD-F80GBP2 90GB,977,32.5,140,https://ssd.userbenchmark.com/SpeedTest/7896/Corsair-CSSD-F80GBP2
+SSD,,Samsung,MZMPA128HMFU-000H1 128GB,978,32,795,https://ssd.userbenchmark.com/SpeedTest/4995/SAMSUNG-MZMPA128HMFU-000H1
+SSD,,Sandisk,U100 SMG2 126GB,979,31.6,276,https://ssd.userbenchmark.com/SpeedTest/2375/SanDisk-SSD-U100-SMG2
+SSD,,Toshiba,THNS128GG4BBAA 128GB,980,31.5,375,https://ssd.userbenchmark.com/SpeedTest/3481/TOSHIBA-THNS128GG4BBAA
+SSD,,OCZ,VERTEX PLUS 120GB,981,31.2,693,https://ssd.userbenchmark.com/SpeedTest/5805/OCZ-VERTEX-PLUS
+SSD,,Intel,SSDSA2CT040G3 40GB,982,31.1,1429,https://ssd.userbenchmark.com/SpeedTest/5899/INTEL-SSDSA2CT040G3
+SSD,,Sandisk,U100 24GB,983,31,1145,https://ssd.userbenchmark.com/SpeedTest/3926/SanDisk-SSD-U100-24GB
+SSD,,OCZ,VERTEX 128GB,984,31,459,https://ssd.userbenchmark.com/SpeedTest/2560/OCZ-VERTEX
+SSD,NOC-MSATA-60G,OCZ,Nocti Series mSATA 60GB,985,30.6,54,https://ssd.userbenchmark.com/SpeedTest/4546/OCZ-NOCTI
+SSD,,Sandisk,U110 24GB,986,30.6,3,https://ssd.userbenchmark.com/SpeedTest/11223/SanDisk-SSD-U110-24GB
+SSD,,OCZ,VERTEX-PLUS 120GB,987,30.6,260,https://ssd.userbenchmark.com/SpeedTest/4685/OCZ-VERTEX-PLUS
+SSD,SV200S3128G,Kingston,SSDNow V Series 128GB,988,30.4,183,https://ssd.userbenchmark.com/SpeedTest/2473/KINGSTON-SV200S3128G
+SSD,CSSD-V60GB2A,Corsair,Nova 2 60GB,989,30.3,141,https://ssd.userbenchmark.com/SpeedTest/8360/Corsair-Nova-2-SSD
+SSD,SSDSA1M160G2HP,Intel,X18-M 160GB,990,30.2,396,https://ssd.userbenchmark.com/SpeedTest/3864/INTEL-SSDSA1M160G2HP
+SSD,,Toshiba,THNS064GG2BNAA 64GB,991,30,34,https://ssd.userbenchmark.com/SpeedTest/6726/TOSHIBA-THNS064GG2BNAA
+SSD,SSDSA2M040G2GC,Intel,X25-M 40GB,992,29.5,1644,https://ssd.userbenchmark.com/SpeedTest/5085/INTEL-SSDSA2M040G2GC
+SSD,SV200S364G,Kingston,SSDNow V Series 64GB,993,29.5,1054,https://ssd.userbenchmark.com/SpeedTest/3816/KINGSTON-SV200S364G
+SSD,,Samsung,MZMPA064HMDR-000 64GB,994,29.2,25,https://ssd.userbenchmark.com/SpeedTest/5090/SAMSUNG-MZMPA064HMDR-000
+SSD,,Patriot,Torqx 2 64GB SSD,995,28.8,298,https://ssd.userbenchmark.com/SpeedTest/5143/Patriot-Torqx-2-64GB-SSD
+SSD,,OCZ,VERTEX2 80GB,996,28.5,203,https://ssd.userbenchmark.com/SpeedTest/4175/OCZ-VERTEX2
+SSD,,Corsair,CSSD-V64GB2 64GB,997,28.5,198,https://ssd.userbenchmark.com/SpeedTest/5429/Corsair-CSSD-V64GB2
+SSD,,Toshiba,THNS128GG4BAAA-NonFDE 128GB,998,28.3,333,https://ssd.userbenchmark.com/SpeedTest/5893/TOSHIBA-THNS128GG4BAAA-NonFDE
+SSD,,Sandisk,i100 24GB,999,27.8,768,https://ssd.userbenchmark.com/SpeedTest/2946/SanDisk-SSD-i100-24GB
+SSD,,Toshiba,THNSNW128GMCP 128GB,1000,27.7,87,https://ssd.userbenchmark.com/SpeedTest/5430/Toshiba-THNSNW128GMCP
+SSD,,OCZ,AGILITY3 360GB,1001,27.5,182,https://ssd.userbenchmark.com/SpeedTest/3757/OCZ-AGILITY3
+SSD,V4-CT256V4SSD2,Crucial,V4 256GB,1002,27.4,191,https://ssd.userbenchmark.com/SpeedTest/4100/V4-CT256V4SSD2
+SSD,,Patriot,Torqx 2 32GB SSD,1003,27.1,157,https://ssd.userbenchmark.com/SpeedTest/4330/Patriot-Torqx-2-32GB-SSD
+SSD,NOC-MSATA-120G,OCZ,Nocti Series mSATA 120GB,1004,26.9,164,https://ssd.userbenchmark.com/SpeedTest/2316/OCZ-NOCTI
+SSD,V4-CT128V4SSD2,Crucial,V4 128GB,1005,26.7,190,https://ssd.userbenchmark.com/SpeedTest/5400/V4-CT128V4SSD2
+SSD,,Samsung,MMDOE56G5MXP-0VB 256GB,1006,26.7,117,https://ssd.userbenchmark.com/SpeedTest/2430/SAMSUNG-MMDOE56G5MXP-0VB
+SSD,,Samsung,MZMPA032HMCD-000 32GB,1007,26.6,18,https://ssd.userbenchmark.com/SpeedTest/13406/SAMSUNG-MZMPA032HMCD-000
+SSD,,OCZ,VERTEX-TURBO 32GB,1008,26.2,58,https://ssd.userbenchmark.com/SpeedTest/10536/OCZ-VERTEX-TURBO
+SSD,,OCZ,VERTEX-PLUS 60GB,1009,26.2,674,https://ssd.userbenchmark.com/SpeedTest/5101/OCZ-VERTEX-PLUS
+SSD,,OCZ,NOCTI 30GB,1010,26.1,70,https://ssd.userbenchmark.com/SpeedTest/6687/OCZ-NOCTI
+SSD,,OCZ,VERTEX 64GB,1011,25.8,500,https://ssd.userbenchmark.com/SpeedTest/2798/OCZ-VERTEX
+SSD,,Corsair,CMFSSD-256GBG2D 256GB,1012,25.6,150,https://ssd.userbenchmark.com/SpeedTest/4873/CORSAIR-CMFSSD-256GBG2D
+SSD,,Corsair,CMFSSD-64GBG2D 64GB,1013,25.5,215,https://ssd.userbenchmark.com/SpeedTest/1848/CORSAIR-CMFSSD-64GBG2D
+SSD,CSSD-V30GB2A,Corsair,Nova 2 30GB,1014,25.2,115,https://ssd.userbenchmark.com/SpeedTest/15718/Corsair-Nova-2-SSD
+SSD,,OCZ,SUMMIT 128GB,1015,25.1,59,https://ssd.userbenchmark.com/SpeedTest/4737/OCZ-SUMMIT
+SSD,,Samsung,PM800 Series 2.5" 256GB,1016,24.2,974,https://ssd.userbenchmark.com/SpeedTest/5330/SAMSUNG-SSD-PM800-Series-25--256GB
+SSD,,Kingston,SV100S2128G 128GB,1017,23.9,946,https://ssd.userbenchmark.com/SpeedTest/2099/KINGSTON-SV100S2128G
+SSD,,OCZ,PETROL 64GB,1018,23.8,53,https://ssd.userbenchmark.com/SpeedTest/9027/OCZ-PETROL
+SSD,,Samsung,PM800 2.5" 128GB,1019,23.8,991,https://ssd.userbenchmark.com/SpeedTest/4482/SAMSUNG-SSD-PM800-25--128GB
+SSD,,Samsung,MZMPA024HMCD-000L1 24GB,1020,23.8,143,https://ssd.userbenchmark.com/SpeedTest/12709/SAMSUNG-MZMPA024HMCD-000L1
+SSD,,,CSSD-V60GB2 60GB,1021,23.6,135,https://ssd.userbenchmark.com/SpeedTest/2886/CSSD-V60GB2
+SSD,,Samsung,PB22-JS3 FDE 2.5" 128GB,1022,23.4,738,https://ssd.userbenchmark.com/SpeedTest/4180/SAMSUNG-SSD-PB22-JS3-FDE-25--128GB
+SSD,,Samsung,PB22-JS3 FDE 2.5" 256GB,1023,23.3,204,https://ssd.userbenchmark.com/SpeedTest/4863/SAMSUNG-SSD-PB22-JS3-FDE-25--256GB
+SSD,,Kingston,SV100S2 256GB,1024,22.7,124,https://ssd.userbenchmark.com/SpeedTest/3014/KINGSTON-SV100S2
+SSD,,Sandisk,U100 16GB,1025,22.7,380,https://ssd.userbenchmark.com/SpeedTest/9035/SanDisk-SSD-U100-16GB
+SSD,,Kingston,SMS100S232G 32GB,1026,22.6,31,https://ssd.userbenchmark.com/SpeedTest/7090/KINGSTON-SMS100S232G
+SSD,,Corsair,CSSD-V32GB2 32GB,1027,22.6,113,https://ssd.userbenchmark.com/SpeedTest/13318/Corsair-CSSD-V32GB2
+SSD,,Corsair,CMFSSD-128D1 128GB,1028,22.5,81,https://ssd.userbenchmark.com/SpeedTest/1549/Corsair-CMFSSD-128D1
+SSD,,Samsung,MMCRE28G8MXP-0VBL1 128GB,1029,22.1,490,https://ssd.userbenchmark.com/SpeedTest/3630/SAMSUNG-MMCRE28G8MXP-0VBL1
+SSD,,Samsung,PM800 TH 64GB,1030,22.1,374,https://ssd.userbenchmark.com/SpeedTest/7563/SAMSUNG-SSD-PM800-TH-64GB
+SSD,,Sandisk,i100 16GB,1031,21.6,149,https://ssd.userbenchmark.com/SpeedTest/6521/SanDisk-SSD-i100-16GB
+SSD,,Kingston,SV100S264G 64GB,1032,21.2,1620,https://ssd.userbenchmark.com/SpeedTest/5192/KINGSTON-SV100S264G
+SSD,,Transcend,TS128GSSD25S-M 128GB,1033,20.8,307,https://ssd.userbenchmark.com/SpeedTest/5489/TS128GSSD25S-M
+SSD,SNV425S2128GB,Kingston,SSDNow SNV Series 128GB,1034,20.2,934,https://ssd.userbenchmark.com/SpeedTest/3487/KINGSTON-SNV425S2128GB
+SSD,,Samsung,PM800 mSATA 64GB,1035,19.4,6,https://ssd.userbenchmark.com/SpeedTest/9744/SAMSUNG-SSD-PM800-mSATA
+SSD,,Samsung,MCG8GC 63GB,1036,18.7,390,https://ssd.userbenchmark.com/SpeedTest/2089/Samsung-MCG8GC
+SSD,,Transcend,TS64GSSD25S-M 64GB,1037,18.5,128,https://ssd.userbenchmark.com/SpeedTest/5160/TS64GSSD25S-M
+SSD,,Samsung,MBG4GC 31GB,1038,18.3,47,https://ssd.userbenchmark.com/SpeedTest/6544/Samsung-MBG4GC
+SSD,SNV425S264GB,Kingston,SSDNow SNV Series 64GB,1039,18.1,1448,https://ssd.userbenchmark.com/SpeedTest/2043/KINGSTON-SNV425S264GB
+SSD,,Patriot,Warp V2 64GB SSD,1040,17.5,7,https://ssd.userbenchmark.com/SpeedTest/11678/Patriot-Warp-V2-64GB-SSD
+SSD,,Toshiba,THNSNB128GMCJ 128GB,1041,16.1,508,https://ssd.userbenchmark.com/SpeedTest/3691/TOSHIBA-THNSNB128GMCJ
+SSD,,Samsung,RBX Series 128GB M,1042,15.8,288,https://ssd.userbenchmark.com/SpeedTest/6409/SAMSUNG-SSD-RBX-Series-128GB-M
+SSD,,Samsung,MMCQE28G8MUP-0VA 128GB,1043,14.4,139,https://ssd.userbenchmark.com/SpeedTest/6149/SAMSUNG-MMCQE28G8MUP-0VA
+SSD,,Sandisk,iSSD P4 8GB,1044,13.2,264,https://ssd.userbenchmark.com/SpeedTest/3309/SanDisk-iSSD-P4-8GB
+SSD,,,OS 500GB,1045,9.75,9,https://ssd.userbenchmark.com/SpeedTest/12673/OS
+SSD,,Toshiba,THNS128GE8BBDC 128GB,1046,8.84,52,https://ssd.userbenchmark.com/SpeedTest/6170/TOSHIBA-THNS128GE8BBDC
+SSD,,,HTS545050A7E380 500GB,1047,8.69,152,https://ssd.userbenchmark.com/SpeedTest/7371/HTS545050A7E380

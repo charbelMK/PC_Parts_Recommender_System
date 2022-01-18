@@ -1,0 +1,1778 @@
+{
+    "MSI B450 TOMAHAWK MAX": {
+        "Chipset": "B450",
+        "MHZ": 4133 
+    },
+    "Gigabyte B450M DS3H": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus ROG STRIX B450-F GAMING": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus TUF GAMING X570-PLUS ": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "ASRock B450M PRO4": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "MSI MAG B550 TOMAHAWK": {
+        "Chipset":"B550",
+        "MHZ": 4866
+    },
+    "MSI Z390-A PRO": {
+        "Chipset": "Z390",
+        "MHZ": 4400
+    },
+    "Gigabyte B550M DS3H": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "Asus ROG STRIX B550-F GAMING ": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "MSI B550-A PRO": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "MSI B450 Gaming Plus MAX": {
+        "Chipset": "B450",
+        "MHZ": 4133
+    },
+    "Asus ROG STRIX Z490-E GAMING": {
+        "Chipset": "Z490",
+        "MHZ": 4600
+    },
+    "Asus PRIME Z390-A": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "Asus PRIME A320M-K": {
+        "Chipset": "Z390",
+        "MHZ": 3200
+    },
+    "MSI B450-A PRO MAX": {
+        "Chipset": "B450",
+        "MHZ": 4133
+    },
+    "Gigabyte B450 I AORUS PRO WIFI": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Gigabyte B365M DS3H": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "MSI B550M PRO-VDH WIFI": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "MSI MPG Z490 GAMING EDGE WIFI": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "ASRock B450 Steel Legend": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "Asus ROG STRIX B550-F GAMING": {
+        "Chipset": "B550",
+        "MHZ": 5000
+    },
+    "MSI MPG B550 GAMING PLUS": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "MSI B365M PRO-VDH": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "Asus ROG Crosshair VIII Hero ": {
+        "Chipset": "X570",
+        "MHZ": 4600
+    },
+    "MSI A320M-A PRO MAX": {
+        "Chipset": "A320",
+        "MHZ": 3200
+    },
+    "Gigabyte GA-A320M-S2H": {
+        "Chipset": "A320",
+        "MHZ": 3200
+    },
+    "Gigabyte B450 AORUS ELITE": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Gigabyte Z390 AORUS PRO WIFI": {
+        "Chipset": "Z390",
+        "MHZ": 4133
+    },
+    "ASRock B450M Steel Legend": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus PRIME B450M-A/CSM": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus ROG MAXIMUS XII HERO ": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "MSI MPG Z490 GAMING PLUS": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "ASRock B550M Pro4": {
+        "Chipset": "B550",
+        "MHZ": 4533
+    },
+    "Asus ROG Strix X570-I Gaming": {
+        "Chipset": "X570",
+        "MHZ": 4800
+    },
+    "MSI B450M PRO-M2 MAX": {
+        "Chipset": "B450",
+        "MHZ": 4133
+    },
+    "MSI MAG X570 TOMAHAWK WIFI": {
+        "Chipset": "X570",
+        "MHZ": 4600
+    },
+    "Asus ROG ZENITH II EXTREME ALPHA": {
+        "Chipset": "TRX40",
+        "MHZ": 4600
+    },
+    "Gigabyte X570 AORUS ELITE WIFI": {
+        "Chipset": "X570",
+        "MHZ": 4000
+    },
+    "Gigabyte B550I AORUS PRO AX": {
+        "Chipset": "B550",
+        "MHZ": 5000
+    },
+    "Gigabyte B550M AORUS PRO": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "ASRock B450 Pro4": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "MSI B450M PRO-VDH MAX": {
+        "Chipset": "B450",
+        "MHZ": 3866
+    },
+    "Gigabyte B450 AORUS PRO WIFI ": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus PRIME X570-P": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "ASRock B365M Pro4": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "Asus TUF GAMING X570-PLUS": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "Gigabyte B450 AORUS M": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Gigabyte B550 AORUS ELITE": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "Asus ROG STRIX Z390-E GAMING": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "MSI X470 GAMING PLUS MAX": {
+        "Chipset": "X470",
+        "MHZ": 4133
+    },
+    "MSI MPG B550 GAMING EDGE WIFI": {
+        "Chipset": "B550",
+        "MHZ": 5000
+    },
+    "Asus ROG STRIX B550-A GAMING": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "Asus PRIME X570-PRO": {
+        "Chipset": "X470",
+        "MHZ": 4400
+    },
+    "ASRock B450M-HDV R4.0": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus TUF B450M-PLUS GAMING": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus PRIME H310M-E R2.0": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "MSI MPG X570 GAMING PLUS": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "Asus TUF Z390-PLUS GAMING ": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "MSI MPG X570 GAMING EDGE WIFI": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "MSI H310M PRO-VDH PLUS": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "MSI B450I GAMING PLUS AC": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "MSI B450 GAMING PRO CARBON MAX WIFI": {
+        "Chipset": "B450",
+        "MHZ": 4133
+    },
+    "ASRock B550M-ITX/ac": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "ASRock B460M Pro4": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "MSI MPG Z390 GAMING EDGE AC": {
+        "Chipset": "Z390",
+        "MHZ": 4400
+    },
+    "MSI MEG X570 UNIFY": {
+        "Chipset": "X570",
+        "MHZ": 4600
+    },
+    "Asus ROG STRIX Z490-A GAMING": {
+        "Chipset": "Z490",
+        "MHZ": 4600
+    },
+    "Gigabyte X570 AORUS ELITE": {
+        "Chipset": "X570",
+        "MHZ": 4000
+    },
+    "Gigabyte X570 I AORUS PRO WIFI": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "MSI MPG X570 GAMING PRO CARBON WIFI": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "Asus Zenith II Extreme": {
+        "Chipset": "TRX40",
+        "MHZ": 4600
+    },
+    "MSI MAG B550M MORTAR WIFI": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "ASRock B550 Pro4": {
+        "Chipset": "B550",
+        "MHZ": 4533
+    },
+    "MSI B360 GAMING PLUS": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "ASRock A320M-HDV R4.0": {
+        "Chipset": "A320",
+        "MHZ": 3200
+    },
+    "MSI MAG Z490 TOMAHAWK": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "Asus TUF GAMING Z490-PLUS ": {
+        "Chipset": "Z490",
+        "MHZ": 4600
+    },
+    "ASRock B450M Pro4-F": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Gigabyte X570 AORUS MASTER": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "MSI B450M BAZOOKA MAX WIFI": {
+        "Chipset": "B450",
+        "MHZ": 4133
+    },
+    "Asus PRIME Z490-A": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "ASRock B550 Phantom Gaming 4": {
+        "Chipset": "B550",
+        "MHZ": 4533
+    },
+    "ASRock B550M-HDV": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "Asus ROG Strix B450-I Gaming": {
+        "Chipset": "B450",
+        "MHZ": 3600
+    },
+    "Asus PRIME B550M-A ": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "Gigabyte Z390 I AORUS PRO WIFI": {
+        "Chipset": "Z390",
+        "MHZ": 2666
+    },
+    "MSI MPG B550 GAMING CARBON WIFI": {
+        "Chipset": "B550",
+        "MHZ": 4866
+    },
+    "Asus PRIME B365M-A": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "Asus ROG Crosshair VIII Hero": {
+        "Chipset": "X570",
+        "MHZ": 4600
+    },
+    "Asus PRIME Z390-P": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "Asus TUF B450-PLUS GAMING": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus ROG STRIX B550-I GAMING": {
+        "Chipset": "B550",
+        "MHZ": 5100
+    },
+    "Gigabyte B460M DS3H": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Gigabyte X570 GAMING X": {
+        "Chipset": "X570",
+        "MHZ": 4000
+    },
+    "Asus RAMPAGE V EXTREME": {
+        "Chipset": "X99",
+        "MHZ": 3300
+    },
+    "Asus TUF GAMING B550M-PLUS ": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "ASRock B450M/AC": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus ROG MAXIMUS XII EXTREME": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "Asus Prime A320I-K": {
+        "Chipset": "A320",
+        "MHZ": 3600
+    },
+    "Supermicro MBD-X10DAX": {
+        "Chipset": "C612",
+        "MHZ": 2400
+    },
+    "MSI G41M4-F": {
+        "Chipset": "G41",
+        "MHZ": 800
+    },
+    "Gigabyte B550 AORUS PRO AC": {
+        "Chipset": "B550",
+        "MHZ": 5000
+    },
+    "ASRock B365 Pro4": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "ASRock B550 Phantom Gaming 4/ac": {
+        "Chipset": "B550",
+        "MHZ": 4533
+    },
+    "Gigabyte Z490 VISION G": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "MSI MPG Z390 GAMING PLUS": {
+        "Chipset": "Z390",
+        "MHZ": 4400
+    },
+    "Asus ROG STRIX B460-I GAMING": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Asus ROG Crosshair VIII Formula": {
+        "Chipset": "X570",
+        "MHZ": 4600
+    },
+    "ASRock B365M Phantom Gaming 4": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "Asus TUF GAMING B550-PLUS": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "MSI B450M MORTAR MAX": {
+        "Chipset": "B450",
+        "MHZ": 4133
+    },
+    "ASRock Fatal1ty B450 Gaming-ITX/ac": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "MSI X570-A PRO": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "Gigabyte TRX40 AORUS XTREME": {
+        "Chipset": "TRX40",
+        "MHZ": 4400
+    },
+    "ASRock H410M-HDV/M.2": {
+        "Chipset": "H410",
+        "MHZ": 2933
+    },
+    "Asus ROG Strix X570-F Gaming": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "ASRock X570 Phantom Gaming 4S": {
+        "Chipset": "X570",
+        "MHZ": 4600
+    },
+    "Gigabyte X570 AORUS XTREME": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "Asus B75M-Plus": {
+        "Chipset": "B75",
+        "MHZ": 2200
+    },
+    "MSI MPG Z490 GAMING CARBON WIFI": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "Gigabyte Z390 UD": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "Asus ROG MAXIMUS XII FORMULA": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "ASRock A520M-HDV": {
+        "Chipset": "A520",
+        "MHZ": 4733
+    },
+    "Gigabyte B550 VISION D": {
+        "Chipset": "B550",
+        "MHZ": 5000
+    },
+    "Gigabyte B550 AORUS PRO": {
+        "Chipset": "B550",
+        "MHZ": 5000
+    },
+    "ASRock B550M Steel Legend": {
+        "Chipset": "B550",
+        "MHZ": 4533
+    },
+    "MSI MEG X570 GODLIKE": {
+        "Chipset": "X570",
+        "MHZ": 4800
+    },
+    "Gigabyte GA-AB350M-DS3H": {
+        "Chipset": "B350",
+        "MHZ": 3200
+    },
+    "MSI MAG B550M BAZOOKA": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "Asus ROG STRIX B550-E GAMING": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "Gigabyte B550 GAMING X": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "Asus PRIME B450-PLUS": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "MSI MPG B550I GAMING EDGE WIFI": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "ASRock X570 PHANTOM GAMING-ITX/TB3": {
+        "Chipset": "X570",
+        "MHZ": 4533
+    },
+    "Asus Prime Z370-A": {
+        "Chipset": "Z370",
+        "MHZ": 4000
+    },
+    "Asus PRIME B450M-A": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Gigabyte X570 AORUS PRO WIFI": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "MSI B450 GAMING PRO CARBON AC": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "Gigabyte A520M S2H": {
+        "Chipset": "A520",
+        "MHZ": 5000
+    },
+    "ASRock A520M/ac": {
+        "Chipset": "A520",
+        "MHZ": 4733
+    },
+    "MSI A320M-A PRO": {
+        "Chipset": "A320",
+        "MHZ": 2933
+    },
+    "Biostar B450MH": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Gigabyte A520M AORUS ELITE": {
+        "Chipset": "B520",
+        "MHZ": 4733
+    },
+    "Asus STRIX B350-F GAMING": {
+        "Chipset": "B350",
+        "MHZ": 3200
+    },
+    "MSI MPG Z490M GAMING EDGE WIFI": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "ASRock Z390 Pro4": {
+        "Chipset": "Z390",
+        "MHZ": 4133
+    },
+    "MSI MAG B460 TOMAHAWK": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Gigabyte X570 AORUS ULTRA": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "Gigabyte Z390 AORUS ULTRA": {
+        "Chipset": "Z390",
+        "MHZ": 4133
+    },
+    "Asus ROG STRIX Z490-I GAMING": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "Asus ROG STRIX Z390-F GAMING": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "MSI B450 TOMAHAWK": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "ASRock H110M-DGS": {
+        "Chipset": "H110",
+        "MHZ": 2133
+    },
+    "Asus ROG STRIX Z490-G GAMING ": {
+        "Chipset": "Z490",
+        "MHZ": 4600
+    },
+    "MSI B460M-A PRO": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "ASRock H310CM-HDV": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "MSI MPG Z390 GAMING PRO CARBON AC": {
+        "Chipset": "Z390",
+        "MHZ": 4400
+    },
+    "ASRock X570M Pro4": {
+        "Chipset": "X570",
+        "MHZ": 4200
+    },
+    "Asus PRIME B450M-K": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "MSI MEG Z490 UNIFY": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "MSI MEG Z490I UNIFY": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "Asus ROG Strix TRX40-E Gaming": {
+        "Chipset": "TRX40",
+        "MHZ": 4666
+    },
+    "Asus ROG Rampage VI Extreme Encore": {
+        "Chipset": "X299",
+        "MHZ": 4266
+    },
+    "Gigabyte Z490 AORUS ELITE AC": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "Gigabyte Z490 AORUS ULTRA": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "Gigabyte Z390 GAMING X": {
+        "Chipset": "Z390",
+        "MHZ": 2666
+    },
+    "ASRock H310CM-HDV/M.2": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "Asus PRIME B550-PLUS": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "ASRock B550 Phantom Gaming-ITX/ax": {
+        "Chipset": "B550",
+        "MHZ": 5000
+    },
+    "Gigabyte A520I AC": {
+        "Chipset": "A520",
+        "MHZ": 5100
+    },
+    "MSI MEG X570 ACE": {
+        "Chipset": "X570",
+        "MHZ": 4600
+    },
+    "MSI MAG B550M MORTAR": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "Asus PRIME B360M-A": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "Asus Prime H310I-PLUS R2.0/CSM": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "Asus PRIME Z490-P": {
+        "Chipset": "Z490",
+        "MHZ": 4600
+    },
+    "Gigabyte Z490 AORUS XTREME WATERFORCE": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "ASRock B460 Pro4": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "ASRock Z490 Phantom Gaming 4": {
+        "Chipset": "Z490",
+        "MHZ": 4400
+    },
+    "ASRock X570 Taichi": {
+        "Chipset": "X570",
+        "MHZ": 4666
+    },
+    "Asus TUF GAMING X570-PRO ": {
+        "Chipset": "X570",
+        "MHZ": 5100
+    },
+    "Gigabyte Z490I AORUS ULTRA": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "ASRock B365M-ITX/ac": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "ASRock X570 Steel Legend": {
+        "Chipset": "X570",
+        "MHZ": 4666
+    },
+    "MSI B460M PRO-VDH WIFI": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Asus TUF GAMING B550M-PLUS": {
+        "Chipset": "B550",
+        "MHZ": 4400
+    },
+    "MSI H410M-A PRO": {
+        "Chipset": "H410",
+        "MHZ": 2933
+    },
+    "ASRock B460M-ITX/ac": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "MSI MAG B460M MORTAR WIFI": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "MSI MEG Z490 GODLIKE": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "Asus ROG STRIX B460-H GAMING": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Gigabyte Z390 M GAMING": {
+        "Chipset": "Z390",
+        "MHZ": 2666
+    },
+    "ASRock B550 Steel Legend": {
+        "Chipset": "B550",
+        "MHZ": 4666
+    },
+    "ASRock Z490M-ITX/ac": {
+        "Chipset": "Z490",
+        "MHZ": 4400
+    },
+    "Gigabyte X570 UD": {
+        "Chipset": "X570",
+        "MHZ": 4000
+    },
+    "Gigabyte B550M AORUS ELITE": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "Asus ROG Crosshair VIII Impact": {
+        "Chipset": "X570",
+        "MHZ": 4800
+    },
+    "MSI Creator TRX40": {
+        "Chipset": "TRX40",
+        "MHZ": 4666
+    },
+    "Asus PRIME X299-DELUXE": {
+        "Chipset": "X299",
+        "MHZ": 4000
+    },
+    "Asus TUF GAMING Z490-PLUS": {
+        "Chipset": "Z490",
+        "MHZ": 4600
+    },
+    "ASRock 970M PRO3": {
+        "Chipset": "970",
+        "MHZ": 2400
+    },
+    "ASRock A320M-DVS R4.0": {
+        "Chipset": "A320",
+        "MHZ": 3200
+    },
+    "Gigabyte B550 AORUS MASTER": {
+        "Chipset": "B550",
+        "MHZ": 5000
+    },
+    "Asus TUF GAMING B460-PRO ": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "ASRock X570 PHANTOM GAMING 4 WIFI ax": {
+        "Chipset": "X570",
+        "MHZ": 4066
+    },
+    "ASRock Z270M Pro4": {
+        "Chipset": "Z270",
+        "MHZ": 3600
+    },
+    "ASRock X570 Steel Legend WiFi ax": {
+        "Chipset": "X570",
+        "MHZ": 4666
+    },
+    "Gigabyte Z390 AORUS PRO": {
+        "Chipset": "Z390",
+        "MHZ": 4133
+    },
+    "Asus TUF GAMING B460M-PLUS ": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Gigabyte X570 AORUS PRO": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "Asus H110M-K": {
+        "Chipset": "H110",
+        "MHZ": 2133
+    },
+    "Gigabyte Z390 AORUS ELITE": {
+        "Chipset": "Z390",
+        "MHZ": 2666
+    },
+    "Asus ROG Strix X299-E Gaming II": {
+        "Chipset": "X299",
+        "MHZ": 4266
+    },
+    "Asus TUF B450M-PRO GAMING": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "MSI MAG B460M MORTAR": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "MSI MSI PRO X299 PRO LGA 2066 X299 SATA 6Gb/s ATX Motherboard": {
+        "Chipset": "X299",
+        "MHZ": 4200
+    },
+    "MSI MEG Z490 ACE": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "ASRock B550 Extreme4": {
+        "Chipset": "B550",
+        "MHZ": 4666
+    },
+    "MSI A68HM-E33 V2": {
+        "Chipset": "A68H",
+        "MHZ": 2133
+    },
+    "Gigabyte Z490 UD AC": {
+        "Chipset": "Z490",
+        "MHZ": 4500
+    },
+    "ASRock B460 Phantom Gaming 4": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "ASRock Z390 STEEL LEGEND": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "ASRock H470M Pro4": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "Gigabyte Z490 AORUS ELITE": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "Gigabyte Z490 AORUS PRO AX": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "Asus ROG STRIX TRX40-XE GAMING": {
+        "Chipset": "TRX40",
+        "MHZ": 4666
+    },
+    "ASRock X370 GAMING X": {
+        "Chipset": "X370",
+        "MHZ": 3200
+    },
+    "Gigabyte Z490 AORUS MASTER": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "ASRock A520M-ITX/ac": {
+        "Chipset": "A520",
+        "MHZ": 4733
+    },
+    "ASRock H470M-ITX/ac": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "Asus Prime TRX40-Pro": {
+        "Chipset": "TRX40",
+        "MHZ": 4666
+    },
+    "Asus PRIME Z490M-PLUS": {
+        "Chipset": "Z490",
+        "MHZ": 4400
+    },
+    "Gigabyte Z490 AORUS XTREME": {
+        "Chipset": "Z490",
+        "MHZ": 5000
+    },
+    "Gigabyte TRX40 AORUS PRO WIFI": {
+        "Chipset": "TRX40",
+        "MHZ": 4400
+    },
+    "ASRock Z490M Pro4": {
+        "Chipset": "Z490",
+        "MHZ": 4500
+    },
+    "ASRock X570 Phantom Gaming 4": {
+        "Chipset": "X570",
+        "MHZ": 4066
+    },
+    "NZXT N7-Z39XT-W1": {
+        "Chipset": "Z390",
+        "MHZ": 2666
+    },
+    "ASRock Z390 Phantom Gaming SLI/ac": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "Gigabyte B460 HD3": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Asus Z10PE-D16 WS": {
+        "Chipset": "C612",
+        "MHZ": 2400
+    },
+    "ASRock B365M-HDV": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "Gigabyte X399 AORUS PRO": {
+        "Chipset": "X399",
+        "MHZ": 3600
+    },
+    "Gigabyte B360N WIFI": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "Gigabyte Z490 UD": {
+        "Chipset": "Z490",
+        "MHZ": 4500
+    },
+    "Asus ROG MAXIMUS XII APEX": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "MSI PRESTIGE X570 CREATION": {
+        "Chipset": "X570",
+        "MHZ": 4600
+    },
+    "Asus ROG MAXIMUS X FORMULA": {
+        "Chipset": "Z370",
+        "MHZ": 4133
+    },
+    "ASRock X570 Pro4": {
+        "Chipset": "X570",
+        "MHZ": 4066
+    },
+    "Gigabyte B450 Gaming X": {
+        "Chipset": "B450",
+        "MHZ": 2933
+    },
+    "Asus TUF Z390-PRO GAMING": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "MSI MAG B365M MORTAR": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "MSI MAG Z390 TOMAHAWK": {
+        "Chipset": "Z390",
+        "MHZ": 4400
+    },
+    "Gigabyte GA-A320M-H": {
+        "Chipset": "A320",
+        "MHZ": 3200
+    },
+    "Gigabyte B450M GAMING": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Gigabyte GA-H110-D3A": {
+        "Chipset": "H110",
+        "MHZ": 2400
+    },
+    "Asus PRIME B550M-K": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "Gigabyte Z490M GAMING X": {
+        "Chipset": "Z490",
+        "MHZ": 4400
+    },
+    "ASRock TRX40 Creator": {
+        "Chipset": "TRX40",
+        "MHZ": 4666
+    },
+    "ASRock Z490 Extreme4": {
+        "Chipset": "Z490",
+        "MHZ": 4266
+    },
+    "Asus CROSSHAIR VI HERO ": {
+        "Chipset": "X370",
+        "MHZ": 3200
+    },
+    "Gigabyte Z490 VISION D": {
+        "Chipset": "Z490",
+        "MHZ": 4400
+    },
+    "ASRock H310CM-ITX/ac": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "Asus B85M-G": {
+        "Chipset": "B85",
+        "MHZ": 1600
+    },
+    "MSI TRX40 PRO WIFI": {
+        "Chipset": "TRX40",
+        "MHZ": 4666
+    },
+    "ASRock 760GM-HDV": {
+        "Chipset": "760G",
+        "MHZ": 1800
+    },
+    "ASRock H470 Phantom Gaming 4": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "Asus PRIME B460-PLUS": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "MSI H81M-P33 V2": {
+        "Chipset": "H81",
+        "MHZ": 1600
+    },
+    "Asus PRIME B460M-A": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "ASRock X399 Phantom Gaming 6": {
+        "Chipset": "X399",
+        "MHZ": 3400
+    },
+    "Gigabyte H310M S2H": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "Asus ROG MAXIMUS XI FORMULA": {
+        "Chipset": "Z390",
+        "MHZ": 4400
+    },
+    "Gigabyte H410M S2H": {
+        "Chipset": "H410",
+        "MHZ": 2933
+    },
+    "ASRock H410M-ITX/ac": {
+        "Chipset": "H410",
+        "MHZ": 2933
+    },
+    "Asus PRIME B550M-A/CSM": {
+        "Chipset": "B550",
+        "MHZ": 4600
+    },
+    "Asus TUF GAMING B450M-PRO S": {
+        "Chipset": "B450",
+        "MHZ": 4400
+    },
+    "Gigabyte Z490 GAMING X": {
+        "Chipset": "Z490",
+        "MHZ": 4600
+    },
+    "Asus MAXIMUS VIII FORMULA": {
+        "Chipset": "Z170",
+        "MHZ": 3733
+    },
+    "DH61WWB3": {
+        "Chipset": "H61",
+        "MHZ": 1333
+    },
+    "MSI H410M PRO": {
+        "Chipset": "H410",
+        "MHZ": 2933
+    },
+    "ASRock X570 Phantom Gaming X": {
+        "Chipset": "X570",
+        "MHZ": 4666
+    },
+    "MSI X470 GAMING PLUS": {
+        "Chipset": "X470",
+        "MHZ": 3466
+    },
+    "ASRock B365 Phantom Gaming 4": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "Asus STRIX X370-F GAMING": {
+        "Chipset": "X370",
+        "MHZ": 3200
+    },
+    "Asus M5A78L-M PLUS/USB3": {
+        "Chipset": "A78",
+        "MHZ": 2000
+    },
+    "MSI MPG Z490 CARBON EK X": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "ASRock A320M-ITX": {
+        "Chipset": "A320",
+        "MHZ": 3466
+    },
+    "Gigabyte B460 AORUS PRO AC": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Asus ROG STRIX Z490-H GAMING": {
+        "Chipset": "Z490",
+        "MHZ": 4600
+    },
+    "Gigabyte X299X AORUS MASTER": {
+        "Chipset": "X299",
+        "MHZ": 4333
+    },
+    "Asus ROG RAMPAGE VI EXTREME OMEGA": {
+        "Chipset": "X299",
+        "MHZ": 4266
+    },
+    "Gigabyte H310M A": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "MSI Z270-A PRO": {
+        "Chipset": "Z270",
+        "MHZ": 3600
+    },
+    "Gigabyte B450 AORUS PRO": {
+        "Chipset": "B450",
+        "MHZ": 2933
+    },
+    "EVGA X299 FTW K": {
+        "Chipset": "X299",
+        "MHZ": 4133
+    },
+    "Gigabyte TRX40 AORUS MASTER": {
+        "Chipset": "TRX40",
+        "MHZ": 4400
+    },
+    "Gigabyte B550 AORUS ELITE AX": {
+        "Chipset": "B550",
+        "MHZ": 4733
+    },
+    "Asus ROG STRIX H470-I GAMING": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "ASRock B550 Taichi": {
+        "Chipset": "B550",
+        "MHZ": 5000
+    },
+    "Asus EX-A320M-GAMING": {
+        "Chipset": "A320",
+        "MHZ": 3200
+    },
+    "Gigabyte Z390 DESIGNARE": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "ASRock Z490 Steel Legend": {
+        "Chipset": "Z490",
+        "MHZ": 4266
+    },
+    "Asus ROG Strix X399-E Gaming": {
+        "Chipset": "X399",
+        "MHZ": 3600
+    },
+    "Gigabyte GA-78LMT-USB3": {
+        "Chipset": "760G",
+        "MHZ": 1333
+    },
+    "Gigabyte B460M DS3H AC": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Asus PRIME H410M-E": {
+        "Chipset": "H410",
+        "MHZ": 2933
+    },
+    "Gigabyte GA-H270N-WIFI": {
+        "Chipset": "H270",
+        "MHZ": 2400
+    },
+    "Gigabyte H370M DS3H": {
+        "Chipset": "H370",
+        "MHZ": 2666
+    },
+    "Asus TUF GAMING H470-PRO ": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "ASRock B460M Steel Legend": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "ASRock B460 Steel Legend": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "ASRock Fatal1ty X470 Gaming-ITX/ac": {
+        "Chipset": "X470",
+        "MHZ": 3466
+    },
+    "ASRock H61M-VG3": {
+        "Chipset": "H61",
+        "MHZ": 1600
+    },
+    "Gigabyte GA-AB350M-D3H": {
+        "Chipset": "B350",
+        "MHZ": 3200
+    },
+    "Asus PRIME A320M-A": {
+        "Chipset": "A320",
+        "MHZ": 3200
+    },
+    "ASRock X570 CREATOR": {
+        "Chipset": "X570",
+        "MHZ": 4666
+    },
+    "MSI MAG A520M VECTOR WIFI": {
+        "Chipset": "A520",
+        "MHZ": 4600
+    },
+    "NZXT N7-Z39XT-B1": {
+        "Chipset": "Z390",
+        "MHZ": 2666
+    },
+    "Asus Prime X299-Deluxe II": {
+        "Chipset": "X299",
+        "MHZ": 4266
+    },
+    "Asus PRIME A520M-K": {
+        "Chipset": "A520",
+        "MHZ": 4600
+    },
+    "MSI A520M-A PRO": {
+        "Chipset": "A520",
+        "MHZ": 4600
+    },
+    "ASRock Z490 Taichi": {
+        "Chipset": "Z490",
+        "MHZ": 4666
+    },
+    "Gigabyte B365 HD3": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    },
+    "ASRock Z490 Pro4": {
+        "Chipset": "Z490",
+        "MHZ": 4400
+    },
+    "MSI X470 GAMING PRO MAX": {
+        "Chipset": "X470",
+        "MHZ": 4133
+    },
+    "MSI B360-A PRO": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "Asus X99-E": {
+        "Chipset": "X99",
+        "MHZ": 3200
+    },
+    "MSI X370 GAMING PRO CARBON": {
+        "Chipset": "X370",
+        "MHZ": 3200
+    },
+    "ASRock H410M-HVS": {
+        "Chipset": "H410",
+        "MHZ": 2933
+    },
+    "Gigabyte TRX40 DESIGNARE": {
+        "Chipset": "TRX40",
+        "MHZ": 4400
+    },
+    "Asus ROG Crosshair VII Hero ": {
+        "Chipset": "X470",
+        "MHZ": 3466
+    },
+    "MSI MAG B460M BAZOOKA": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Asus ROG STRIX B360-F GAMING": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "ASRock X570 Extreme4": {
+        "Chipset": "X570",
+        "MHZ": 4666
+    },
+    "Asus PRIME B250M-A": {
+        "Chipset": "B250",
+        "MHZ": 2400
+    },
+    "MSI Z270 GAMING PRO CARBON": {
+        "Chipset": "Z270",
+        "MHZ": 3800
+    },
+    "MSI MAG B460 TORPEDO": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Asus PRIME Z390M-PLUS": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "Supermicro MBD-X10DAL-I-O": {
+        "Chipset": "C612",
+        "MHZ": 2133
+    },
+    "MSI MPG B460I GAMING EDGE WIFI": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "Asus Pro WS X570-ACE": {
+        "Chipset": "X570",
+        "MHZ": 4400
+    },
+    "ASRock Z390 Phantom Gaming 4": {
+        "Chipset": "Z390",
+        "MHZ": 4133
+    },
+    "ASRock Z490 Phantom Gaming 4/2.5G": {
+        "Chipset": "Z490",
+        "MHZ": 4400
+    },
+    "Asus ROG STRIX Z390-H GAMING": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "Gigabyte B360M D3H GSM": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "Asus ROG Crosshair VII Hero": {
+        "Chipset": "X470",
+        "MHZ": 3466
+    },
+    "ASRock B550M/ac": {
+        "Chipset": "B550",
+        "MHZ": 4533
+    },
+    "ASRock B360M-HDV": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "DH77DF": {
+        "Chipset": "H77",
+        "MHZ": 1600
+    },
+    "Gigabyte Z370 AORUS Gaming 7 ": {
+        "Chipset": "Z370",
+        "MHZ": 4133
+    },
+    "Asus ROG Strix H370-F Gaming": {
+        "Chipset": "LGA1151",
+        "MHZ": 2666
+    },
+    "Asus STRIX X299-E GAMING": {
+        "Chipset": "X299",
+        "MHZ": 4133
+    },
+    "Gigabyte H470 AORUS PRO AX": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "ECS B350AM4-M2": {
+        "Chipset": "B350",
+        "MHZ": 2666
+    },
+    "Gigabyte X470 AORUS GAMING 5 WIFI": {
+        "Chipset": "X470",
+        "MHZ": 3200
+    },
+    "Asus PRIME H310M-A R2.0": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "ASRock Fatal1ty B450 GAMING K4": {
+        "Chipset": "B450",
+        "MHZ": 3200
+    },
+    "Asus PRIME B350-PLUS": {
+        "Chipset": "B350",
+        "MHZ": 2666
+    },
+    "Gigabyte H470I AORUS PRO AX": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "Asus TUF Z370 Plus Gaming": {
+        "Chipset": "Z370",
+        "MHZ": 4000
+    },
+    "ASRock Z390 Taichi": {
+        "Chipset": "Z390",
+        "MHZ": 4200
+    },
+    "Gigabyte B460M D3H": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "ASRock TRX40 TAICHI": {
+        "Chipset": "TRX40",
+        "MHZ": 4666
+    },
+    "MSI B460M PRO": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "ASRock X399 Taichi": {
+        "Chipset": "X399",
+        "MHZ": 3600
+    },
+    "ASRock AB350M Pro4": {
+        "Chipset": "B350",
+        "MHZ": 3200
+    },
+    "Asus TUF Z390-PLUS GAMING": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "MSI X470 GAMING PRO CARBON": {
+        "Chipset": "X470",
+        "MHZ": 3466
+    },
+    "Gigabyte X299X DESIGNARE 10G": {
+        "Chipset": "X299",
+        "MHZ": 4333
+    },
+    "ASRock Z390M Pro4": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "Gigabyte GA-H270M-D3H": {
+        "Chipset": "H270",
+        "MHZ": 2400
+    },
+    "Asus PRIME X370-PRO": {
+        "Chipset": "X370",
+        "MHZ": 3200
+    },
+    "ASRock X370 Pro4": {
+        "Chipset": "X370",
+        "MHZ": 3200
+    },
+    "Gigabyte X299 UD4 Pro": {
+        "Chipset": "X299",
+        "MHZ": 4400
+    },
+    "ASRock Fatal1ty B360 Gaming K4": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "MSI TRX40 PRO 10G": {
+        "Chipset": "TRX40",
+        "MHZ": 4666
+    },
+    "Asus PRIME Z270-P": {
+        "Chipset": "Z270",
+        "MHZ": 3866
+    },
+    "ASRock B460M-HDV": {
+        "Chipset": "B460",
+        "MHZ": 2933
+    },
+    "DP43BF": {
+        "Chipset": "P43",
+        "MHZ": 1333
+    },
+    "MSI X99A WORKSTATION": {
+        "Chipset": "X99",
+        "MHZ": 3333
+    },
+    "ASRock X370 Gaming-ITX/ac": {
+        "Chipset": "X370",
+        "MHZ": 3466
+    },
+    "MSI B150M BAZOOKA": {
+        "Chipset": "B150",
+        "MHZ": 2133
+    },
+    "Asus PRIME B360M-K": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "MSI Creator X299": {
+        "Chipset": "X299",
+        "MHZ": 4266
+    },
+    "ASRock EP2C612 WS": {
+        "Chipset": "C612",
+        "MHZ": 2133
+    },
+    "Gigabyte H370 AORUS Gaming 3 WIFI": {
+        "Chipset": "H370",
+        "MHZ": 2666
+    },
+    "Gigabyte Z490M": {
+        "Chipset": "Z490",
+        "MHZ": 3200
+    },
+    "ASRock H310CM-DVS": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "MSI Z370M MORTAR": {
+        "Chipset": "Z370",
+        "MHZ": 4000
+    },
+    "ASRock X399M Taichi": {
+        "Chipset": "X399",
+        "MHZ": 3600
+    },
+    "Asus ROG CROSSHAIR VI EXTREME": {
+        "Chipset": "X370",
+        "MHZ": 3200
+    },
+    "MSI B450-A PRO": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "Asus PRIME H470M-PLUS/CSM": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "ASRock Z370 Extreme4": {
+        "Chipset": "Z370",
+        "MHZ": 4333
+    },
+    "Asus ProART Z490-CREATOR 10G": {
+        "Chipset": "Z490",
+        "MHZ": 4800
+    },
+    "Asus P8Z77-V PRO": {
+        "Chipset": "Z77",
+        "MHZ": 2600
+    },
+    "Asus TUF X470-PLUS GAMING": {
+        "Chipset": "X470",
+        "MHZ": 3200
+    },
+    "ECS G31T-M7": {
+        "Chipset": "G31",
+        "MHZ": 800
+    },
+    "Asus P8H61-M LE/CSM R2.0": {
+        "Chipset": "H61",
+        "MHZ": 2200
+    },
+    "Gigabyte H370 HD3": {
+        "Chipset": "H370",
+        "MHZ": 2666
+    },
+    "MSI H81M-E35": {
+        "Chipset": "H81",
+        "MHZ": 1600
+    },
+    "Gigabyte C246-WU4": {
+        "Chipset": "C246",
+        "MHZ": 2666
+    },
+    "Asus ROG STRIX B360-H GAMING": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "Asus Prime H370M-Plus/CSM": {
+        "Chipset": "H370",
+        "MHZ": 2666
+    },
+    "Asus CROSSHAIR VI HERO": {
+        "Chipset": "X370",
+        "MHZ": 3200
+    },
+    "ASRock EP2C612D16SM-2T": {
+        "Chipset": "C612",
+        "MHZ": 2400
+    },
+    "ASRock X299 Taichi CLX": {
+        "Chipset": "X299",
+        "MHZ": 4200
+    },
+    "ASRock Z490 Phantom Gaming-ITX/TB3": {
+        "Chipset": "Z490",
+        "MHZ": 4666
+    },
+    "ASRock H470 Steel Legend": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "MSI B450M PRO-M2": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "ASRock B550 PG Velocita": {
+        "Chipset": "B550",
+        "MHZ": 4666
+    },
+    "Asus TUF B360-Plus Gaming": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "Gigabyte GA-B150N-GSM": {
+        "Chipset": "B150",
+        "MHZ": 2133
+    },
+    "ASRock X470 Master SLI": {
+        "Chipset": "X470",
+        "MHZ": 3200
+    },
+    "Biostar TB250-BTC": {
+        "Chipset": "B250",
+        "MHZ": 2400
+    },
+    "Gigabyte Z390 AORUS XTREME WATERFORCE": {
+        "Chipset": "Z390",
+        "MHZ": 4400
+    },
+    "MSI B360M MORTAR": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "Supermicro X9SRA": {
+        "Chipset": "C602",
+        "MHZ": 1600
+    },
+    "Biostar X470GTQ": {
+        "Chipset": "X470",
+        "MHZ": 3200
+    },
+    "ASRock AB350 Gaming-ITX/ac": {
+        "Chipset": "B350",
+        "MHZ": 3466
+    },
+    "Gigabyte H470 HD3": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "MSI B350M PRO-VDH": {
+        "Chipset": "B350",
+        "MHZ": 3200
+    },
+    "Gigabyte X399 DESIGNARE EX": {
+        "Chipset": "X399",
+        "MHZ": 3600
+    },
+    "EVGA X299 Micro": {
+        "Chipset": "X299",
+        "MHZ": 4133
+    },
+    "Asus STRIX Z270F": {
+        "Chipset": "Z270",
+        "MHZ": 3866
+    },
+    "MSI B450M BAZOOKA V2": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "MSI B450 Gaming Plus": {
+        "Chipset": "B450",
+        "MHZ": 3466
+    },
+    "ASRock Z490 PG Velocita": {
+        "Chipset": "Z490",
+        "MHZ": 4666
+    },
+    "ASRock Z270 Killer SLI/ac": {
+        "Chipset": "Z270",
+        "MHZ": 3733
+    },
+    "EVGA X299 MICRO ATX 2": {
+        "Chipset": "X299",
+        "MHZ": 4133
+    },
+    "Asus TUF B360M-PLUS GAMING": {
+        "Chipset": "B360",
+        "MHZ": 2666
+    },
+    "Asus PRIME H410M-A/CSM": {
+        "Chipset": "H410",
+        "MHZ": 2933
+    },
+    "MSI Z370 GAMING M5": {
+        "Chipset": "Z370",
+        "MHZ": 4000
+    },
+    "Gigabyte GA-Z97X-Gaming 3": {
+        "Chipset": "Z97",
+        "MHZ": 3200
+    },
+    "ECS A320AM4-M3D": {
+        "Chipset": "A320",
+        "MHZ": 2666
+    },
+    "MSI A520M PRO": {
+        "Chipset": "A520",
+        "MHZ": 4600
+    },
+    "Asus PRIME H310M-E": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "Asus Pro H410M-C/CSM": {
+        "Chipset": "H410",
+        "MHZ": 2933
+    },
+    "Gigabyte H470M DS3H": {
+        "Chipset": "H470",
+        "MHZ": 2933
+    },
+    "MSI A320M GAMING PRO": {
+        "Chipset": "A320",
+        "MHZ": 3200
+    },
+    "ASRock Z390 PHANTOM GAMING 7": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "ASRock X470D4U": {
+        "Chipset": "X470",
+        "MHZ": 2666
+    },
+    "Asus PRIME H310M-A": {
+        "Chipset": "H310",
+        "MHZ": 2666
+    },
+    "Gigabyte Z390 AORUS XTREME": {
+        "Chipset": "Z390",
+        "MHZ": 4266
+    },
+    "Biostar B365MHC": {
+        "Chipset": "B365",
+        "MHZ": 2666
+    }
+}
